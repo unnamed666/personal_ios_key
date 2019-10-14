@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Dodaj klawiaturę CheetahKey";
+"Go_to" = "Przejdź do ";
+"Settings_General_Keyboard" = "Ustawienia > Ogólne > Klawiatura";
+"Tap" = "Dotknij ";
+"Add_New_Keyboard" = "Dodaj nową klawiaturę";
+"Tap_the_button_means_you_agree_to_our" = "Dotknięcie przycisku oznacza, że akceptujesz ";
+"Allow_Full_Access" = "Zezwól na pełny dostęp";
+"Skip" = "Pomiń";
+"Allow" = "Zezwól";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard NIE gromadzi żadnych prywatnych danych";
+"English_US" = "Angielski";
+"Emoji" = "Emotikony";
+"Long_press_and_hold" = "Naciśnij i przytrzymaj dłużej";
+"to_switch_to" = "by zmienić klawiaturę na ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Opinia";
+"FeedbackPlaceholder" = "Ty i Twoje opinie są dla nas ważne. Podziel się nimi z nami, abyśmy mogli ulepszać tę aplikację!";
+"E-Mail_Address" = "Twój adres e-mail";
+"Send" = "Wyślij";
+"Choose_from_library" = "Importuj zrzuty ekranu ze Zdjęć";
+"Cancel" = "Anuluj";
+"No_access" = "Wyłączyłeś dostęp do Zdjęć. Włącz go w Ustawieniach, by importować zrzuty ekranu";
+"OK" = "OK";
+"FeedbackSuccess" = "Wysłano pomyślnie";
+"FeedbackFail" = "Nie udało się wysłać informacji zwrotnej";
+"ServicesPrivacy" = "Warunki użytkowania & Polityka prywatności";
+"noNet" = "Błąd sieci, prosimy spróbować ponownie później";
+"netError" = "Błąd ładownia";
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Warunki użytkowania & Polityka prywatności";
+"Version" = "Wersja";
+"About" = "O aplikacji";
+"Add_Now" = "Dodaj teraz";
+
+"User_Agreement" = "Umowy użytkownika";
+"Languages" = "Języki";
+"Perferences" = "Ogólne";
+"Auto_capitalization" = "Wstawiaj wielkie litery";
+"openSound" = "Dźwięk Keypress";
+"openKeyboardSound" = "Odtwarzaj dźwięki pisząc";
+
+"vibration_enable" = "Wibracja naciśniętych klawiszy";
+"vibration_enable_description" = "Wibracja podczas pisania";
+
+"keypress sound volume" = "Głośność przy naciśniętym klawiszu";
+"keypress vibration" = "Wibracja naciśniętych klawiszy";
+
+"Double_space_Period" = "Ustawienia podwójnej spacji";
+"Double_tap_on_spacebar_inserts_a_period" = "Dwukrotne stuknięcie spacji wstawia kropkę ze spacją";
+"Capitalize_the_first_word_of_each_sentence" = "Zaczynaj każde zdanie wielką literą";
+
+"Swipe Typing" = "Pisz przesuwając";
+"Input a word by sliding through the letters" = "Wpisuj słowa, przesuwając palcem po literach";
+"Allow_Now" = "Zezwól teraz";
+"Text_Correction" = "Korekta tekstu";
+"Show_correction_suggestions" = "Pokazuj propozycje poprawek";
+
+"Display_suggested_word_while_typing" = "Wyświetlaj proponowane słowa podczas wpisywania";
+"Auto_correction_suggestions" = "Propozycje autokorekty";
+"Spacebar_and_punctuation_automatically" = "Spacja i znaki interpunkcyjne automatycznie poprawiają błędnie napisane i niedokończone słowa";
+"Next_word_Suggestions" = "Podpowiadaj kolejne słowo";
+"Use_the_previous_word" = "Pokazuj podpowiedzi na podstawie poprzedniego słowa";
+"History_Suggestions" = "Spersonalizowane sugestie";
+"Use_the_History_word" = "Użyj historii wpisywania do tworzenia podpowiedzi";
+"Check_it_out" = "Sprawdź to!";
+"General" = "Ogólne";
+"Rate_us" = "Oceń nas";
+"THEME" = "MOTYWY";
+"SETTINGS" = "USTAWIENIA";
+
+"Spanish" = "Hiszpański";
+"English" = "Angielski";
+"Indonesian" = "Indonezyjski";
+"Azerbaijani" = "Azerski";
+"Catalan" = "Kataloński";
+"Czech" = "Czechy";
+"Danish" = "Duński";
+"German" = "Niemiecki";
+"Estonian" = "Estoński";
+"Finnish" = "Fiński";
+"French" = "Francuski";
+"Croatian" = "Chorwacki";
+"Hungarian" = "Węgierski";
+"Portuguese" = "Portugalski";
+"Malay" = "Malajski";
+"Filipino" = "Filipiński";
+"Turkish" = "Turecki";
+"Italian" = "Włoski";
+"Polish" = "Polski";
+"Romanian" = "Rumuński";
+"Dutch" = "Niderlandzki";
+"Slovak" = "Słowacja";
+"Latvian" = "Łotewski";
+"Norwegian Bokmal" = "Norweski bokmål";
+"Swedish" = "Szwedzki";
+
+"Change_Theme" = "Trwa zastosowywanie motywu…";
+
+"FullAccess_Tip" = "Zezwól na pełny dostęp dla inteligentnych podpowiedzi";
+"Full_Now" = "OK";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Zainstaluj za darmo Cheetah Keyboard, aby zastosować ten motyw";
+"Get_it_now_No_Ads" = "Pobierz teraz. (Bez reklam)";
+"FREE_INSTALL" = "ZAINSTALUJ";
+"NOT_NOW" = "NIE TERAZ";
+
+"GIF" = "GIF";
+
+"Sound" = "Dźwiek";
+"Auto_caps" = "Auto Caps Lock";
+"Settings" = "Ustawienia";
+"Gesture\ntyping" = "Pisz\nprzesuwając";
+"Auto Capitalization:Enabled" = "Automatyczne Używanie Wielkich Liter: Włączone";
+"Auto Capitalization:Disabled" = "Automatyczne Używanie Wielkich Liter: Wyłączone";
+"Gesture Typing is on" = "Pisanie Gestami włączone";
+"Gesture Typing is off" = "Pisanie Gestami wyłączone";
+
+"Turn up the phone's volume for a larger sound" = "Podkręć głośność telefonu";
+"Allow Full Access for Voice Key" = "Zezwól na Pełen Dostęp dla Klucza Głosowego";
+
+"Net_Error" = "Błąd sieci, sprawdź połączenie.";
+"LoadNoMoreData_tip" = "Dzisiejszy motyw został zaktualizowany. Wróć i sprawdź więcej jutro.";
+"Default_Theme" = "Motyw Domyślny";
+"Daily_New_Theme" = "Codzienny Nowy Motyw";
+"Error_Refresh" = "Błąd sieci, proszę odświeżyć.";
+
+"DOWNLOAD" = "POBIERZ";
+"UPDATE" = "AKTUALIZUJ";
+"Update_Available" = "Dostępna Aktualizacja";
+"Download_failed_please_check_your_network" = "Pobieranie nieudane. Sprawdź swoje połączenie";
+"Love_Cheetah_Keyboard" = "Podoba Ci się Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Dotknij i naciśnij dłużej klawisz spacji, wybierz szybko emoji!😆";
+"Try_Keyboard" = "Wypróbuj teraz swoją klawiaturę";
+
+"Slide right or left to move the cursor" = "Przeciągnij w prawo lub w lewo, by przesunąć kursor";
+"Allow Full Access for cursor" = "Zezwól na pełny dostęp do kursora";
+
+"Full Access to try funny AR-Emoticons feature" = "Pełny dostęp do aparatu umożliwi cieszenie się zabawną funkcją z emotikonami z efektem rzeczywistości rozszerzonej.";
+"Emoticon Paste" = "Skopiowano! Teraz wklej to do pola tekstowego swoich aplikacji będących komunikatorami, aby udostępnić!";
+
+"Switch_to_Cheetah_Keyboard" = "Przełącz na 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Fajne wskazówki, których nie możesz przegapić💡";
+"Customized_themes_just_for_you" = "Spersonalizowane motywy specjalnie dla Ciebie🎉";
+"Allow_notifycation_you_will_get_this_function" = "Zezwól na powiadomienia o następujących usługach";
+
+"Just_for_you" = "Tylko dla Ciebie💖";
+"Tips_Send_Emoji" = "Wskazówki: Wyślij emoji😛";
+"Tips_Swipe_Typing" = "Wskazówki: Pisanie przeciąganiem👆";
+"So_many_themes" = "Tak wiele motywów😍";
+"Tips_Auto_Correct_words" = "Wskazówki: Autokorekta słów💯";
+"Coolest_3D_Keyboard" = "Najfajniejsza klawiatura 3D🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Wszystkie darmowe motywy czekają teraz na Ciebie🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Przytrzymaj spację, by szybko wysłać emoji!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Spróbuj przeciągać po literach, by szybko pisać słowa!🙋";
+"Download_New_theme_everyday" = "Codziennie pobieraj nowe motywy!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Pisz szybko, a my pomożemy automatycznie poprawić słowa.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Płynna animacja z imponującymi żarzącymi się przyciskami!👀";
+"Emoji" = "Emotikony";
+"AR-Emoticon" = "Emotikon z efektem rzeczywistości rozszerzonej";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Ta wyjątkowa sugestia jest obsługiwana przez sztuczną inteligencję, która uczy się na wielkich ilościach danych. 😎";
+// iMessage
+"iMessage_Tip" = "Wskazówki: dotknij GIF-a, aby go przesłać znajomym!";
+"Before_you_go" = "⚠️Przed wyjściem";
+"Come_back_this_app_after_you" = "Powróć do tej aplikacji po dodaniu klawiatury. Mamy dla Ciebie wiele wspaniałych motywów!";
+"Got_it" = "GOT IT";
+
+
+//1.10
+"Tab_Discovery" = "ODKRYCIE";
+"iMessage_Gif_Tip" = "Możesz udostępniać GIF-y znajomym za pośrednictwem iMessage. Udostępnij teraz!";
+
+
+"Setting_CheetahKey" = "Ustawienia > CheetahKey";
+"Keyboards" = "Klawiatury";
+"WINK, SMILE or MOVE your head. Whatever you like." = "MRUGNIJ, UŚMIECHNIJ SIĘ lub PORUSZ głową. Rób, co tylko chcesz.";
+"This allows you to record videos to create AR-Emoticons." = "To umożliwia nagrywanie filmów lub tworzenie emotikonów z efektem rzeczywistości rozszerzonej.";
+"Don’t ALLOW" = "Nie ZEZWALAJ";
+"Record Videos with CheetahKey" = "Nagrywaj filmy przy użyciu CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Zezwól na dostęp do Twojego aparatu, aby zacząć nagrywać filmy przy użyciu CheetahKey.";
+"Allow Camera Access" = "Zezwól na dostęp do aparatu";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "Możesz TERAZ korzystać z emotikonów z efektem rzeczywistości rozszerzonej w swojej klawiaturze Cheetah Keyboard!";
+"Oops... an error occurred. Please try again." = "Oj! Wystąpił błąd. Spróbuj ponownie.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "W systemie iOS zezwolenie na pełny dostęp zapewni pomyślne przełączanie motywów.";
+"Full_Access_Now" = "Zezwól na pełny dostęp";
+"Custom" = "Motywy dostosowane do potrzeb";
+"See_All" = "Zobacz wszystkie";
+"Do you want to save this theme?" = "Zapisać ten motyw?";
+"Switch to next keyboard" = "Przełącz klawiaturę";
+"Setting" = "Ustawienia";
+"DIY" = "Motyw własny";
+"Allow access to your photos to customize themes with CheetahKey?" = "Zezwól na dostęp do swoich zdjęć, by personalizować motywy z CheetahKey?";
+"Done" = "Zatwierdź";
+"Do you want to save this theme?" = "Zapisać ten motyw?";
+"Get Start" = "Zacznij Teraz";
+"Back" = "Wstecz";
+"Custome_Theme" = "Motyw własny🌝";
+"Create_your" = "Możesz zaprojektować i stworzyć swoją własną niesamowitą klawiaturę! Wypróbuj TERAZ!💅";
+"Express your styles in more than words" = "Znajdź z nami swoją ulubioną klawiaturę";
+"Arabic" = "arabski";
+"Custome Theme" = "Motyw własny";
+"Do you want to cancel this theme?" = "Wyjść bez zapisania zmian?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Zezwól na dostęp do swoich zdjęć, by personalizować motywy z CheetahKey?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "CheetahKey prosi o dostęp do Twoich zdjęć. Umożliwi to wykorzystanie Twoich zdjęć do tworzenia motywów.";
+"APPLY" = "ZASTOSUJ";
+"EDIT" = "DOSTOSUJ";
+
+//1.12
+"Copy_Gif_Tip" = "Skopiowano. Naciśnij powyżej i przytrzymaj, aby wkleić.";
+"Gif_Full_Access_Tip" = "Zezwól na pełny dostęp, aby cieszyć się zabawną funkcją GIF.";
+"Delete_this_theme" = "Usunąć ten motyw?";
+"Custom_Theme_Edit" = "Edytuj";
+
+"All_premium_themes" = "Wszystkie motywy premium";
+"All_DIY_themes" = "Wszystkie samodzielnie tworzone motywy";
+"All_AR-Emoji" = "Wszystkie emotikony AR";
+"All_GIFs" = "Wszystkie GIFy";
+
+
+"UNlock" = "Odblokuj";
+"Restore" = "PRZYWRÓĆ";
+"iapp_month_title" = "%@/MIESIĄC \n 3-DNIOWA DARMOWA PRÓBA";
+"iapp_year_title" = "%@/ROK \n ŚREDNIO %@/MIESIĄC";
+"iapp_year_privacy1" = "Opłata zostanie naliczona na koncie iTunes przy potwierdzeniu zakupu. Subskrypcja jest automatycznie odnawiana, chyba że opcja ta zostanie wyłączona na co najmniej 24 godziny przed końcem bieżącego okresu. Konto zostanie obciążone opłatą za odnowienie w ciągu 24 godzin przed końcem bieżącego okresu, po określeniu kosztu odnowienia. Użytkownik może zarządzać subskrypcjami, a automatyczne odnowienie można wyłączyć, przechodząc do Ustawień konta użytkownika po dokonaniu zakupu. Niewykorzystana część darmowego okresu próbnego przepada po zakupieniu przez użytkownika subskrypcji danego tytułu. W celu uzyskania dalszych informacji należy zapoznać się z";
+"iapp_year_privacy2" = " Regulamin usługi";
+"iapp_year_privacy3" = " i";
+"iapp_year_privacy4" = " Zasady zachowania poufności.";
+"try_again" = "Spróbuj ponownie";
+"no_network" = "Brak sieci";
+"no_network_content" = "Brak połączenia z Internetem. Połącz się i spróbuj ponownie.";
+"slow_network" = "Słabe połączenie sieciowe";
+"slow_network_content" = "Znajdź szybsze połączenie sieciowe.";
+"restore_fail_title" = "Nie udało się przywrócić";
+"restore_fail_content" = "Brak elementów do przywrócenia.";
+"iapp_month_btn" = "%@/MIESIĄC";
+"iapp_year_btn" = "DARMOWY 3-DNIOWY OKRES PRÓBNY \nPOTEM %@/ROK";

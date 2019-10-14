@@ -1,0 +1,111 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+
+
+"Add_Cheetah_Keyboard" = "Adaugă Hologram Keyboard";
+"Go_to" = "Mergi la ";
+"Settings_General_Keyboard" = "Setări > Generale > Tastatură";
+"Tap" = "Atinge ";
+"Add_New_Keyboard" = "Adaugă tastatură nouă";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Dacă atingi butonul, înseamnă că ești de acord cu ";
+"Allow_Full_Access" = "Permite accesul deplin";
+"Skip" = "Treci peste";
+"Allow" = "Permitere";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard NU va colecta date personale";
+"English_US" = "Engleză";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Apasă lung și ține apăsat";
+"to_switch_to" = "pentru a comuta la ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Feedback";
+"FeedbackPlaceholder" = "Tu şi opiniile tale sunteți importante pentru noi aşa că te rugăm să le partajezi cu noi, astfel încât să putem face aplicaţia noastră mai bună!";
+"E-Mail_Address" = "Adresa ta de e-mail";
+"Send" = "Trimiteți";
+"Choose_from_library" = "Importă capturi de ecran din Fotografii";
+"Cancel" = "Anulați";
+"No_access" = "Ai dezactivat accesul la Fotografii. Te rugăm să îl activezi din Setări pentru a importa capturi de ecran";
+"OK" = "OK";
+"FeedbackSuccess" = "Trimis cu succes";
+"FeedbackFail" = "Eroare la trimiterea feedback-ului";
+"ServicesPrivacy" = "Termenii de utilizare & Politica de confidențialitate";
+"noNet" = "Eroare rețea, încercați mai târziu";
+"netError" = "Încărcare nereușită";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Termenii de utilizare & Politica de confidențialitate";
+"Version" = "Versiune";
+"About" = "Despre";
+"Add_Now" = "Adaugă acum";
+
+"User_Agreement" = "Acord de utilizare";
+"Languages" = "Limbi";
+"Perferences" = "Generale";
+"Auto_capitalization" = "Scriere automată cu majuscule";
+"openSound" = "Sunet de tastare";
+"openKeyboardSound" = "Emite sunete în timp ce tastezi";
+"Capitalize_the_first_word_of_each_sentence" = "Scrie cu majusculă primul cuvânt din fiecare propoziție";
+
+"Swipe Typing" = "Tastare prin glisare";
+"Input a word by sliding through the letters" = "Introduceți un cuvânt glisând ușor între litere";
+"Allow_Now" = "Permite acum";
+"Text_Correction" = "Corectarea textului";
+"Show_correction_suggestions" = "Afișați sugestii de corectare";
+"Display_suggested_word_while_typing" = "Afișează sugestii de cuvinte în timpul introducerii textului";
+"Auto_correction_suggestions" = "Sugestii de autocorecție";
+"Spacebar_and_punctuation_automatically" = "Bara de spațiu și punctuația corectează automat cuvintele tastate greșit și cuvintele neterminate";
+"Next_word_Suggestions" = "Sugestii pentru cuvântul următor";
+"Use_the_previous_word" = "Utilizează cuvântul anterior pentru sugestii";
+"History_Suggestions" = "Sugestii personalizate";
+"Use_the_History_word" = "Utilizează istoricul de tastare la sugestii";
+"Check_it_out" = "Ia uite!";
+"General" = "Generale";
+"Rate_us" = "Evaluează-ne";
+"THEME" = "TEMA";
+"SETTINGS" = "SETĂRI";
+
+"Spanish" = "Spaniolă";
+"English" = "Engleză";
+"Indonesian" = "Indoneziană";
+"Azerbaijani" = "Azeră";
+"Catalan" = "Catalană";
+"Czech" = "Republica Cehă";
+"Danish" = "Daneză";
+"German" = "Germană";
+"Estonian" = "Estoniană";
+"Finnish" = "Finlandeză";
+"French" = "Franceză";
+"Croatian" = "Croată";
+"Hungarian" = "Maghiară";
+"Portuguese" = "Portugheză";
+"Malay" = "Malaeziană";
+"Filipino" = "Filipineză";
+"Turkish" = "Turcă";
+"Italian" = "Italiană";
+"Polish" = "Poloneză";
+"Romanian" = "Română";
+"Dutch" = "Olandeză";
+"Slovak" = "Slovacia";
+"Latvian" = "Letonă";
+"Norwegian Bokmal" = "Norvegiană Bokmal";
+"Swedish" = "Suedeză";
+
+"Change_Theme" = "Se aplică tema...";
+
+"FullAccess_Tip" = "Permite accesul complet pentru predicție din cloud";
+"Full_Now" = "Permite acum";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Instalează gratuit Cheetah Keyboard pentru a aplica această temă";
+"Get_it_now_No_Ads" = "Obține-o acum. (Fără reclame)";
+"FREE_INSTALL" = "INSTALAŢI";
+"NOT_NOW" = "NU ACUM";

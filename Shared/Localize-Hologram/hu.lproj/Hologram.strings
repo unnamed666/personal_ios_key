@@ -1,0 +1,109 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "A Hologram Keyboard hozzáadása";
+"Go_to" = "Továbblépés ide: ";
+"Settings_General_Keyboard" = "Beállítások > Általános > Billentyűzet";
+"Tap" = "Koppints ";
+"Add_New_Keyboard" = "Új billentyűzet hozzáadása";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "A gomb megérintése azt jelenti, hogy ön elfogadja a mi ";
+"Allow_Full_Access" = "Teljes körű hozzáférés engedélyezése";
+"Skip" = "Kihagyás";
+"Allow" = "Engedélyez";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "A Hologram Keyboard Nem gyűjt személyes adatokat";
+"English_US" = "Angol";
+"Emoji" = "Hangulatjel";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Nyomja meg és tartsa lenyomva hosszasan";
+"to_switch_to" = "hogy átkapcsoljon ide: ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Visszajelzés";
+"FeedbackPlaceholder" = "Te és a véleményed egyaránt fontosak vagytok számunkra, ezért kérjük, oszd meg velünk, hogy még jobbá tehessük az alkalmazásunkat!";
+"E-Mail_Address" = "Az ön e-mail-címe";
+"Send" = "Előre";
+"Choose_from_library" = "Képernyő-felvételek importálása a fotók közül";
+"Cancel" = "Mégse";
+"No_access" = "Kikapcsolta a fotókhoz való hozzáférést. Kapcsolja be a beállításokban a képernyő-felvételek importálásához";
+"OK" = "Rendben";
+"FeedbackSuccess" = "Sikeresen elküldve";
+"FeedbackFail" = "Nem sikerült visszajelzést küldeni";
+"ServicesPrivacy" = "Szolgáltatói feltételek & Adatvédelmi szabályzat";
+"noNet" = "Hálózat hiba, kérjük próbáld meg később";
+"netError" = "A betöltés sikertelen";
+
+
+
+"E_mail" = "E-mail cím";
+"Terms_of_Services_Privacy_Policy" = "Szolgáltatói feltételek & Adatvédelmi szabályzat";
+"Version" = "Verzió";
+"About" = "Névjegy";
+"Add_Now" = "Hozzáad most";
+
+"User_Agreement" = "Felhasználói szerződés";
+"Languages" = "Nyelvek";
+"Perferences" = "Általános";
+"Auto_capitalization" = "Automatikusan nagy kezdőbetű";
+"openSound" = "Billentyű lenyomásának hangja";
+"openKeyboardSound" = "Hang lejátszása gépelés közben";
+"Capitalize_the_first_word_of_each_sentence" = "Minden mondat első szava nagybetűvel";
+
+"Swipe Typing" = "Csúsztatással való gépelés";
+"Input a word by sliding through the letters" = "Szó beírása úgy, hogy ujjait végigcsúsztatja a betűkön";
+"Allow_Now" = "Engedélyezés most";
+"Text_Correction" = "Szövegjavítás";
+"Show_correction_suggestions" = "Javítási ajánlások megjelenítése";
+"Display_suggested_word_while_typing" = "A javasolt szavak megjelenítése gépelés közben";
+"Auto_correction_suggestions" = "Javaslatok automatikus korrekcióra";
+"Spacebar_and_punctuation_automatically" = "A szóköz és a központozás automatikusan javítja az elgépelt és a befejezetlen szavakat";
+"Next_word_Suggestions" = "Következő szóra vonatkozó javaslatok";
+"Use_the_previous_word" = "Az előző szó felhasználása a javaslatoknál";
+"History_Suggestions" = "Testreszabott javaslatok";
+"Use_the_History_word" = "A gépelési előzmények használata a javaslattétel során";
+"Check_it_out" = "Nézd meg!";
+"General" = "Általános";
+"Rate_us" = "Értékelj bennünket";
+"THEME" = "TÉMA";
+"SETTINGS" = "BEÁLLÍTÁSOK";
+
+"Spanish" = "Spanyol";
+"English" = "Angol";
+"Indonesian" = "Indonéz";
+"Azerbaijani" = "Azeri";
+"Catalan" = "Katalán";
+"Czech" = "Cseh Köztársaság";
+"Danish" = "Dán";
+"German" = "Német";
+"Estonian" = "Észt";
+"Finnish" = "Finn";
+"French" = "Francia";
+"Croatian" = "Horvát";
+"Hungarian" = "Magyar";
+"Portuguese" = "Portugál";
+"Malay" = "Maláj";
+"Filipino" = "Fülöp-szigeti";
+"Turkish" = "Török";
+"Italian" = "Olasz";
+"Polish" = "Lengyel";
+"Romanian" = "Román";
+"Dutch" = "Holland";
+"Slovak" = "Szlovákia";
+"Latvian" = "Lett";
+"Norwegian Bokmal" = "Norvég bokmål";
+"Swedish" = "Svéd";
+
+"Change_Theme" = "Téma alkalmazása…";
+
+"FullAccess_Tip" = "Engedélyezz teljes hozzáférést a felhő prediktív szövegbevitelért";
+"Full_Now" = "Engedélyezés most";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Telepítsd a Cheetah Keyboardot ingyen a téma alkalmazásához";
+"Get_it_now_No_Ads" = "Szerezd meg most! (Reklámmentes)";
+"FREE_INSTALL" = "TELEPÍTÉS";
+"NOT_NOW" = "MOST NEM";

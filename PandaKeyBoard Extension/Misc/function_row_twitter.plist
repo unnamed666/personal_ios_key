@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keys</key>
+	<array>
+		<dict>
+			<key>weight_x</key>
+			<real>0.135</real>
+			<key>type</key>
+			<string>layout_switching</string>
+		</dict>
+		<dict>
+			<key>character</key>
+			<string>,</string>
+			<key>weight_x</key>
+			<real>0.0925</real>
+			<key>type</key>
+			<string>keyboard_switcher</string>
+		</dict>
+		<dict>
+			<key>weight_x</key>
+			<real>0.54</real>
+			<key>type</key>
+			<string>space</string>
+		</dict>
+		<dict>
+			<key>character</key>
+			<string>@</string>
+			<key>shiftedKey</key>
+			<string>@</string>
+			<key>weight_x</key>
+			<real>0.0925</real>
+			<key>type</key>
+			<string>character</string>
+			<key>functionnal</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>character</key>
+			<string>#</string>
+			<key>shiftedKey</key>
+			<string>#</string>
+			<key>weight_x</key>
+			<real>0.0925</real>
+			<key>type</key>
+			<string>character</string>
+			<key>functionnal</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>

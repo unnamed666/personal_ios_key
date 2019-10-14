@@ -1,0 +1,110 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+
+"Add_Cheetah_Keyboard" = "Agregar Hologram Keyboard";
+"Go_to" = "Ir a ";
+"Settings_General_Keyboard" = "Configuración > General > Teclado";
+"Tap" = "Pulsar ";
+"Add_New_Keyboard" = "Agregar nuevo teclado";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Pulsar el botón significar que estás de acuerdo con nuestro ";
+"Allow_Full_Access" = "Permitir total acceso";
+"Skip" = "Saltar";
+"Allow" = "Permitir";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard no guardará datos privados";
+"English_US" = "Inglés";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Mantener presionado";
+"to_switch_to" = "para cambiar a ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Sugerencias";
+"FeedbackPlaceholder" = "Tu opinión es importante para nosotros. ¡Compártela con nosotros para poder mejorar nuestra aplicación!";
+"E-Mail_Address" = "Tu dirección de correo electrónico";
+"Send" = "Enviar";
+"Choose_from_library" = "Importantes capturas de pantalla de las fotos";
+"Cancel" = "Cancelar";
+"No_access" = "Has desactivado el acceso a las Fotos, Actívalo en Configuración para capturas de pantalla importantes";
+"OK" = "Aceptar";
+"FeedbackSuccess" = "Enviado con éxito";
+"FeedbackFail" = "No se pudo enviar comentario";
+"ServicesPrivacy" = "Términos de servicio & Política de privacidad";
+"noNet" = "Problemas en la red, por favor inténtelo nuevamente";
+"netError" = "Error al cargar";
+
+
+
+"E_mail" = "Correo electrónico";
+"Terms_of_Services_Privacy_Policy" = "Términos de servicio & Política de privacidad";
+"Version" = "Versión";
+"About" = "Acerca de";
+"Add_Now" = "Añadir ahora";
+
+"User_Agreement" = "Acuerdo de usuario";
+"Languages" = "Idiomas";
+"Perferences" = "General";
+"Auto_capitalization" = "Mayúsculas automáticas";
+"openSound" = "Sonido de teclas";
+"openKeyboardSound" = "Reproduce sonidos al escribir";
+"Capitalize_the_first_word_of_each_sentence" = "Escribe con mayúscula la primera palabra de cada frase";
+
+"Swipe Typing" = "Teclado swipe";
+"Input a word by sliding through the letters" = "Ingresa una palabra deslizando el dedo sobre las letras.";
+"Allow_Now" = "Permitir ahora";
+"Text_Correction" = "Corrección ortográfica";
+"Show_correction_suggestions" = "Mostrar sugerencias de correcciones";
+"Display_suggested_word_while_typing" = "Mostrar palabras sugeridas al escribir";
+"Auto_correction_suggestions" = "Sugerencias de autocorrección";
+"Spacebar_and_punctuation_automatically" = "La barra de espacio y signos de puntuación automáticamente corrigen las palabras mal escritas y sin terminar";
+"Next_word_Suggestions" = "Suger. de próxima palabra";
+"Use_the_previous_word" = "Usar la palabra anterior para hacer sugerencias";
+"History_Suggestions" = "Sugerenc. personalizadas";
+"Use_the_History_word" = "Usa el historial de escritura para hacer sugerencias";
+"Check_it_out" = "¡Échale un vistazo!";
+"General" = "General";
+"Rate_us" = "Califícanos";
+"THEME" = "TEMA";
+"SETTINGS" = "AJUSTES";
+
+"Spanish" = "Español";
+"English" = "Inglés";
+"Indonesian" = "Indonesio";
+"Azerbaijani" = "Azerbaiyano";
+"Catalan" = "Catalán";
+"Czech" = "República Checa";
+"Danish" = "Danés";
+"German" = "Alemán";
+"Estonian" = "Estoniano";
+"Finnish" = "Finés";
+"French" = "Francés";
+"Croatian" = "Croata";
+"Hungarian" = "Húngaro";
+"Portuguese" = "Portugués";
+"Malay" = "Malayo";
+"Filipino" = "Filipino";
+"Turkish" = "Turco";
+"Italian" = "Italiano";
+"Polish" = "Polaco";
+"Romanian" = "Rumano";
+"Dutch" = "Holandés";
+"Slovak" = "Eslovaquia";
+"Latvian" = "Letón";
+"Norwegian Bokmal" = "Noruego bokmal";
+"Swedish" = "Sueco";
+
+"Change_Theme" = "Aplicando el tema…";
+
+"FullAccess_Tip" = "Permite acceso completo para la predicción de la nube";
+"Full_Now" = "Permitir ahora";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Instala Cheetah Keyboard gratis para usar este tema";
+"Get_it_now_No_Ads" = "Obtenlo ahora. (Sin anuncios)";
+"FREE_INSTALL" = "INSTALAR ";
+"NOT_NOW" = "AHORA NO";

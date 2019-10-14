@@ -1,0 +1,110 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+
+"Add_Cheetah_Keyboard" = "Add Hologram Keyboard";
+"Go_to" = "Go to ";
+"Settings_General_Keyboard" = "Settings > General > Keyboard";
+"Tap" = "Tap ";
+"Add_New_Keyboard" = "Add New Keyboard";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Tap the button means you agree to our ";
+"Allow_Full_Access" = "Allow Full Access";
+"Skip" = "Skip";
+"Allow" = "Allow";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard will not collect any private data";
+"English_US" = "English";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Long press and hold";
+"to_switch_to" = "to switch to ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Feedback";
+"FeedbackPlaceholder" = "Your feedback is important to us. Please share with us so that we can make our App better!";
+"E-Mail_Address" = "Your E-Mail Address";
+"Send" = "Send";
+"Choose_from_library" = "Import Screenshots from Photos";
+"Cancel" = "Cancel";
+"No_access" = "You have turned off the access to Photos. Please turn it on in Settings to import screenshots";
+"OK" = "OK";
+"FeedbackSuccess" = "Sent successfully";
+"FeedbackFail" = "Failed to send feedback";
+"ServicesPrivacy" = "Terms of Services & Privacy Policy";
+"noNet" = "Network error, please try again";
+"netError" = "Load Failed";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Terms of Services & Privacy Policy";
+"Version" = "Version";
+"About" = "About";
+"Add_Now" = "Add Now";
+
+"User_Agreement" = "User Agreements";
+"Languages" = "Languages";
+"Perferences" = "General";
+"Auto_capitalization" = "Auto-capitalization";
+"openSound" = "Keypress Sound";
+"openKeyboardSound" = "Play sounds while typing";
+"Capitalize_the_first_word_of_each_sentence" = "Capitalize the first word of each sentence";
+
+"Swipe Typing" = "Swipe Typing";
+"Input a word by sliding through the letters" = "Input a word by sliding through the letters";
+"Allow_Now" = "Allow Now";
+"Text_Correction" = "Text Correction";
+"Show_correction_suggestions" = "Show Correction Suggestions";
+"Display_suggested_word_while_typing" = "Display suggested words while typing";
+"Auto_correction_suggestions" = "Auto-correction Suggestions";
+"Spacebar_and_punctuation_automatically" = "Spacebar and punctuation automatically correct mistyped words and unfinished words";
+"Next_word_Suggestions" = "Next-word Suggestions";
+"Use_the_previous_word" = "Use the previous words in making suggestions";
+"History_Suggestions" = "Personalized Suggestions";
+"Use_the_History_word" = "Use typing history in making suggestions";
+"Check_it_out" = "Check it out!";
+"General" = "General";
+"Rate_us" = "Rate Us";
+"THEME" = "THEMES";
+"SETTINGS" = "SETTINGS";
+
+"Spanish" = "Spanish";
+"English" = "English";
+"Indonesian" = "Indonesian";
+"Azerbaijani" = "Azerbaijani";
+"Catalan" = "Catalan";
+"Czech" = "Czech";
+"Danish" = "Danish";
+"German" = "German";
+"Estonian" = "Estonian";
+"Finnish" = "Finnish";
+"French" = "French";
+"Croatian" = "Croatian";
+"Hungarian" = "Hungarian";
+"Portuguese" = "Portuguese";
+"Malay" = "Malay";
+"Filipino" = "Filipino";
+"Turkish" = "Turkish";
+"Italian" = "Italian";
+"Polish" = "Polish";
+"Romanian" = "Romanian";
+"Dutch" = "Dutch";
+"Slovak" = "Slovak";
+"Latvian" = "Latvian";
+"Norwegian Bokmal" = "Norwegian Bokmal";
+"Swedish" = "Swedish";
+
+"Change_Theme" = "Applying theme…";
+
+"FullAccess_Tip" = "Allow Full Access for Cloud Prediction";
+"Full_Now" = "Allow Now";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Install Cheetah Keyboard for free to apply this theme";
+"Get_it_now_No_Ads" = "Get it now. (No Ads)";
+"FREE_INSTALL" = "INSTALL";
+"NOT_NOW" = "NOT NOW";

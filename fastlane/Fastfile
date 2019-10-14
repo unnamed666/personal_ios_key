@@ -1,0 +1,304 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all avaijubeele actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all avaijubeele plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/avaijubeele-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  before_all do |lane, options|
+    ENV["MATCH_PASSWORD"] = "123456"
+    ENV["FASTLANE_PASSWORD"] = "Hzj700126."
+    # git_pull
+    # cocoapods(repo_update: true)
+    # carthage(
+    #   platform: "iOS",
+    #   configuration: "Debug"
+    #   )
+  end
+
+  lane :updateCert do
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji",
+      type: "development",
+      force_for_new_devices: true,
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.Extension",
+      type: "development",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.iMessageE",
+      type: "development",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    # match(
+    #   app_identifier: "com.cheetah.keyboard.theme.emoji",
+    #   type: "adhoc",
+    #   force_for_new_devices: true,
+    #   team_id: "D8TG8L77FL",
+    #   git_branch: "singapore",
+    #   username: "huangzijuan@cmcm.com",
+    # )
+
+    # match(
+    #   app_identifier: "com.cheetah.keyboard.theme.emoji.Extension",
+    #   type: "adhoc",
+    #   team_id: "D8TG8L77FL",
+    #   git_branch: "singapore",
+    #   force_for_new_devices: true,
+    #   username: "huangzijuan@cmcm.com",
+    # )
+
+    # match(
+    #   app_identifier: "com.cheetah.keyboard.theme.emoji.iMessageE",
+    #   type: "adhoc",
+    #   team_id: "D8TG8L77FL",
+    #   git_branch: "singapore",
+    #   force_for_new_devices: true,
+    #   username: "huangzijuan@cmcm.com",
+    # )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji",
+      type: "appstore",
+      force_for_new_devices: true,
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.Extension",
+      type: "appstore",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.iMessageE",
+      type: "appstore",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+  end
+
+  lane :debug do |options|
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji",
+      type: "development",
+      force_for_new_devices: true,
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.Extension",
+      type: "development",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.iMessageE",
+      type: "development",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    f_scheme = options.key?(:scheme) ? options[:scheme] : "PandaKeyboard"
+    f_version = increment_version_number(
+      version_number: options[:version] # Set a specific version number
+    )
+    f_build = increment_build_number(
+    	build_number: options[:build_number] # Set a specific build number
+    )
+
+    build_app(
+      workspace: "PandaKeyboard.xcworkspace", 
+      scheme: f_scheme, 
+      export_method: "development", 
+      configuration: "Debug",
+      clean: true,
+      output_directory: "./build",
+      archive_path: "./build/Archive",
+      output_name: "#{f_scheme}_#{f_version}_#{f_build}"
+    )
+
+    ftp(
+      host: '10.60.80.70',
+      username: 'keyboard',
+      password: 'keyboard123',
+      upload: {
+        src: "#{lane_context[SharedValues::IPA_OUTPUT_PATH]}",
+        dest:"/CheetahKey/Development/#{f_version}/#{f_build}"
+      }
+    )
+
+    clean_build_artifacts
+
+  end
+
+  lane :adhoc do |options|
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji",
+      type: "adhoc",
+      force_for_new_devices: true,
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.Extension",
+      type: "adhoc",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.iMessageE",
+      type: "adhoc",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    f_scheme = options.key?(:scheme) ? options[:scheme] : "PandaKeyboard"
+    f_version = increment_version_number(
+      version_number: options[:version] # Set a specific version number
+    )
+    f_build = increment_build_number(
+    	build_number: options[:build_number] # Set a specific build number
+    )
+
+    build_app(
+      workspace: "PandaKeyboard.xcworkspace", 
+      scheme: f_scheme, 
+      export_method: "ad-hoc", 
+      configuration: "ADHoc",
+      clean: true,
+      output_directory: "./build",
+      archive_path: "./build/Archive",
+      output_name: "#{f_scheme}_#{f_version}_#{f_build}"
+    )
+
+    pgyer(api_key: "292e6f251062573501a4f6f85c3e0f55", user_key: "151ddfce6c0202ac9db7514d33a50688")
+
+    ftp(
+      host: '10.60.80.70',
+      username: 'keyboard',
+      password: 'keyboard123',
+      upload: {
+        src: "#{lane_context[SharedValues::IPA_OUTPUT_PATH]}",
+        dest:"/CheetahKey/ADHoc/#{f_version}/#{f_build}"
+      }
+    )
+
+    clean_build_artifacts
+
+  end
+
+  lane :distribution do |options|
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji",
+      type: "appstore",
+      force_for_new_devices: true,
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.Extension",
+      type: "appstore",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    match(
+      app_identifier: "com.cheetah.keyboard.theme.emoji.iMessageE",
+      type: "appstore",
+      team_id: "D8TG8L77FL",
+      git_branch: "singapore.inc",
+      force_for_new_devices: true,
+      username: "huangzijuan@cmcm.com",
+    )
+
+    f_scheme = options.key?(:scheme) ? options[:scheme] : "PandaKeyboard"
+    f_version = increment_version_number(
+      version_number: options[:version] # Set a specific version number
+    )
+    f_build = increment_build_number(
+    	build_number: options[:build_number] # Set a specific build number
+    )
+
+    build_app(
+      workspace: "PandaKeyboard.xcworkspace", 
+      scheme: f_scheme, 
+      export_method: "app-store", 
+      configuration: "CheetahRelease",
+      clean: true,
+      output_directory: "./build",
+      archive_path: "./build/Archive",
+      output_name: "#{f_scheme}_#{f_version}_#{f_build}"
+    )
+
+    ftp(
+      host: '10.60.80.70',
+      username: 'keyboard',
+      password: 'keyboard123',
+      upload: {
+        src: "#{lane_context[SharedValues::IPA_OUTPUT_PATH]}",
+        dest:"/CheetahKey/Distribution/#{f_version}/#{f_build}"
+      }
+    )
+
+    # deliver(
+    # 	skip_screenshots: true,
+    # 	skip_metadata: true,
+    # 	force: true,
+    # 	username: "ks20180222@gmail.com"
+    # )
+
+    clean_build_artifacts
+  end
+
+end

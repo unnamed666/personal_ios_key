@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "CheetahKey uygulamasını ekle";
+"Go_to" = "Şuraya git: ";
+"Settings_General_Keyboard" = "Ayarlar > Genel > Klavye";
+"Tap" = "Dokun ";
+"Add_New_Keyboard" = "Yeni Klavye Ekle";
+"Tap_the_button_means_you_agree_to_our" = "Düğmeye dokunmak şunu kabul ettiğin anlamına gelir: ";
+"Allow_Full_Access" = "Tam Erişime İzin Ver";
+"Skip" = "Atla";
+"Allow" = "İzin Ver";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard özel bilgileri TOPLAMAZ";
+"English_US" = "İngilizce";
+"Emoji" = "Emoji";
+"Long_press_and_hold" = "Uzun bas ve tut";
+"to_switch_to" = "şuna geçmek için: ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Geri bildirim";
+"FeedbackPlaceholder" = "Geri bildirimin bizim için önemlidir. Lütfen Uygulamamızı daha iyi yapmamız için görüşlerini bizimle paylaş!";
+"E-Mail_Address" = "E-Posta Adresin";
+"Send" = "Gönder";
+"Choose_from_library" = "Fotoğraflardan Ekran Görüntüleri Al";
+"Cancel" = "İptal et";
+"No_access" = "Fotoğraflara erişimi kapadın. Ekran görüntüleri almak için lütfen Ayarlar bölümünden bunu aç";
+"OK" = "TAMAM";
+"FeedbackSuccess" = "Başarıyla gönderildi";
+"FeedbackFail" = "Geri bildirim gönderilemedi";
+"ServicesPrivacy" = "Hizmet Şartları & Gizlilik Politikası";
+"noNet" = "Ağ hatası, lütfen tekrar dene";
+"netError" = "Yükleme hatası";
+
+"E_mail" = "E-posta adresi";
+"Terms_of_Services_Privacy_Policy" = "Hizmet Şartları & Gizlilik Politikası";
+"Version" = "Sürüm";
+"About" = "Hakkında";
+"Add_Now" = "Şimdi ekle";
+
+"User_Agreement" = "Kullanıcı Sözleşmesi";
+"Languages" = "Diller";
+"Perferences" = "Genel";
+"Auto_capitalization" = "Otomatik büyük harfe çevir";
+"openSound" = "Tuş Sesi";
+"openKeyboardSound" = "Yazarken ses çalsın";
+
+"vibration_enable" = "Tuşa Basma Titreşimi";
+"vibration_enable_description" = "Yazarken titreşim";
+
+"keypress sound volume" = "Tuşa basma ses seviyesi";
+"keypress vibration" = "Tuşa basma titreşimi";
+
+"Double_space_Period" = "Çift Boşluk Nokta";
+"Double_tap_on_spacebar_inserts_a_period" = "Boşluk çubuğuna iki defa dokunulduğunda boşluktan sonra nokta girilir";
+"Capitalize_the_first_word_of_each_sentence" = "Her cümlenin ilk harfini büyük harf yap";
+
+"Swipe Typing" = "Kaydırarak Yazma";
+"Input a word by sliding through the letters" = "Kelime girmek için parmağını harflerin üzerinde kaydır";
+"Allow_Now" = "Şimdi İzin Ver";
+"Text_Correction" = "Metin Düzeltme";
+"Show_correction_suggestions" = "Düzeltme önerilerini göster";
+
+"Display_suggested_word_while_typing" = "Yazarken, önerilen kelimeleri görüntüle";
+"Auto_correction_suggestions" = "Otomatik Düzeltme Önerileri";
+"Spacebar_and_punctuation_automatically" = "Ara çubuğu ve noktalama işaretleri yanlış girilen sözcükleri ve tamamlanmamış sözcükleri otomatik olarak düzeltir";
+"Next_word_Suggestions" = "Sonraki kelime önerileri";
+"Use_the_previous_word" = "Öneride bulunurken önceki kelimeyi kullan";
+"History_Suggestions" = "Kişiselleştirilmiş öneriler";
+"Use_the_History_word" = "Öneride bulunurken yazma geçmişini kullan";
+"Check_it_out" = "İncele!";
+"General" = "Genel";
+"Rate_us" = "Bizi Değerlendirin";
+"THEME" = "TEMA";
+"SETTINGS" = "AYARLAR";
+
+"Spanish" = "İspanyolca";
+"English" = "İngilizce";
+"Indonesian" = "Endonezyaca";
+"Azerbaijani" = "Azerice";
+"Catalan" = "Katalanca";
+"Czech" = "Çek Cumhuriyeti";
+"Danish" = "Danca";
+"German" = "Almanca";
+"Estonian" = "Estonca";
+"Finnish" = "Fince";
+"French" = "Fransızca";
+"Croatian" = "Hırvatça";
+"Hungarian" = "Macarca";
+"Portuguese" = "Portekizce";
+"Malay" = "Malayca";
+"Filipino" = "Filipince";
+"Turkish" = "Türkçe";
+"Italian" = "İtalyanca";
+"Polish" = "Lehçe";
+"Romanian" = "Romence";
+"Dutch" = "Flemenkçe";
+"Slovak" = "Slovakya";
+"Latvian" = "Letonca";
+"Norwegian Bokmal" = "Norveççe Edebiyat Dili";
+"Swedish" = "İsveççe";
+
+"Change_Theme" = "Tema uygulanıyor…";
+
+"FullAccess_Tip" = "Akıllı Tahmin İçin Tam Erişime İzin Ver";
+"Full_Now" = "TAMAM";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Bu temayı ücretsiz uygulamak için Cheetah Keyboard'ı yükle";
+"Get_it_now_No_Ads" = "Hemen yükle. (Reklam Yok)";
+"FREE_INSTALL" = "YÜKLE";
+"NOT_NOW" = "ŞİMDİ DEĞİL";
+
+"GIF" = "GIF";
+
+"Sound" = "Ses";
+"Auto_caps" = "Büyük Harfe Otomatik Dönüştür";
+"Settings" = "Ayarlar";
+"Gesture\ntyping" = "Kaydırarak\nYazma";
+"Auto Capitalization:Enabled" = "Büyük Harfe Otomatik Dönüştürme: Etkin";
+"Auto Capitalization:Disabled" = "Büyük Harfe Otomatik Dönüştürme: Devre Dışı";
+"Gesture Typing is on" = "Kaydırarak Yazma açık";
+"Gesture Typing is off" = "Kaydırarak Yazma kapalı";
+
+"Turn up the phone's volume for a larger sound" = "Telefonunuzun ses seviyesini daha fazla yükseltin";
+"Allow Full Access for Voice Key" = "Ses Tuşu için Tam Erişime İzin Ver";
+
+"Net_Error" = "Şebeke hatası, lütfen kontrol edin.";
+"LoadNoMoreData_tip" = "Bugünün teması güncellendi. Yarın daha fazlasını görebilirsiniz.";
+"Default_Theme" = "Varsayılan Tema";
+"Daily_New_Theme" = "Günlük Yeni Tema";
+"Error_Refresh" = "Şebeke hatası, lütfen yenileyin.";
+
+"DOWNLOAD" = "İNDİR";
+"UPDATE" = "GÜNCELLE";
+"Update_Available" = "Güncelleme Mevcut";
+"Download_failed_please_check_your_network" = "İndirme başarısız. Lütfen şebekenizi kontrol edin";
+"Love_Cheetah_Keyboard" = "Cheetah Keyboard'u beğendin mi?";
+
+"LongPressSpace_Tip" = "Boşluk tuşunuza dokunun ve uzun süreli basın, hızlıca bir emoji seçin!😆";
+"Try_Keyboard" = "Klavyenizi şimdi deneyin";
+
+"Slide right or left to move the cursor" = "İmleci hareket ettirmek için sağa veya sola kaydır";
+"Allow Full Access for cursor" = "İmlece Tam Erişim İzni Ver";
+
+"Full Access to try funny AR-Emoticons feature" = "Eğlenceli AR Emoji özelliğinin tadını çıkarmak için kamerana tam erişim.";
+"Emoticon Paste" = "Kopyalandı! Paylaşmak için şimdi sohbet uygulamalarının metin kutucuğuna yapıştır!";
+
+"Switch_to_Cheetah_Keyboard" = "💖Cheetah Keyboard'a Geç";
+"Cool_funciton_teaching" = "Kaçıramayacağın hoş ipuçları💡";
+"Customized_themes_just_for_you" = "Sadece senin için özel temalar🎉";
+"Allow_notifycation_you_will_get_this_function" = "Takip ettiğin hizmetlerle ilgili bildirimlere izin ver";
+
+"Just_for_you" = "Sadece senin için💖";
+"Tips_Send_Emoji" = "İpuçları: Emoji Gönder😛";
+"Tips_Swipe_Typing" = "İpuçları: Kaydırarak Yazma👆";
+"So_many_themes" = "Çok fazla tema😍";
+"Tips_Auto_Correct_words" = "İpuçları: Otomatik sözcük düzeltme💯";
+"Coolest_3D_Keyboard" = "En Havalı 3D Klavye🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Tüm ücretsiz temalar şimdi seni bekliyor🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Hızlıca emoji göndermek için boşluk çubuğuna basılı tut!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Sözcükleri hızlıca yazmak için harfler arasında kaydırmayı dene!🙋";
+"Download_New_theme_everyday" = "Her gün yeni tema indir!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Hızlıca yaz ve sözcükleri otomatik olarak düzeltmene yardımcı olacağız.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Etkileyici parlak düğmelerle sorunsuz animasyon!👀";
+"Emoji" = "Emoji";
+"AR-Emoticon" = "AR Emoji";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Bu eşsiz öneri yapay zeka tarafından desteklenmekte ve büyük veri hacimleriyle geliştirilmekte. 😎";
+// iMessage
+"iMessage_Tip" = "İpuçları: Arkadaşlarına göndermek istediğin GIF'e dokun!";
+"Before_you_go" = "⚠️Gitmeden önce";
+"Come_back_this_app_after_you" = "Klavyeyi ekledikten sonra bu uygulamaya yine gel. Senin için çok sayıda müthiş temamız var!";
+"Got_it" = "Tamam";
+
+
+//1.10
+"Tab_Discovery" = "KEŞİF";
+"iMessage_Gif_Tip" = "GIF'lerini iMessage ile arkadaşlarınla paylaşabilirsin. Şimdi paylaş!";
+
+
+"Setting_CheetahKey" = "Ayarlar > CheetahKey";
+"Keyboards" = "Klavyeler";
+"WINK, SMILE or MOVE your head. Whatever you like." = "GÖZ KIRP, GÜLÜMSE veya kafanı SALLA. Ne istersen.";
+"This allows you to record videos to create AR-Emoticons." = "Bu özellik AR Emoji oluşturmak üzere video kaydetmene olanak sağlar.";
+"Don’t ALLOW" = "İZİN Verme";
+"Record Videos with CheetahKey" = "CheetahKey ile Video Kaydet";
+"Allow access to your camera to start recording videos with CheetahKey." = "CheetahKey ile video kaydetmeye başlamak için kamerana erişime izin ver.";
+"Allow Camera Access" = "Kameraya Erişime İzin Ver";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "AR Emoji ARTIK Cheetah Keyboard'da kullanabilirsin!";
+"Oops... an error occurred. Please try again." = "Hoop... bir hata oluştu. Lütfen tekrar dene.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "iOS sisteminde tam erişime izin vermek temaları başarılı bir şekilde değiştirmeye olanak sağlar.";
+"Full_Access_Now" = "Tam Erişime İzin Ver";
+"Custom" = "Özelleştirilmiş Temalar";
+"See_All" = "Tümünü Gör";
+"Do you want to save this theme?" = "Bu temayı kaydet?";
+"Switch to next keyboard" = "Klavye değiştir";
+"Setting" = "Ayarlar";
+"DIY" = "Kişisel Tema";
+"Allow access to your photos to customize themes with CheetahKey?" = "CheetahKey ile temaları kişiselleştirmek üzere fotoğraflarına erişime izin ver?";
+"Done" = "Bitti";
+"Do you want to save this theme?" = "Bu temayı kaydet?";
+"Get Start" = "Şimdi Başlat";
+"Back" = "Назад";
+"Custome_Theme" = "Kişisel Tema🌝";
+"Create_your" = "Kendi müthiş klavyeni tasarlayabilir ve oluşturabilirsin! ŞİMDİ dene!💅";
+"Express your styles in more than words" = "Bizimle Favori Klavyeni Bul";
+"Arabic" = "Arapça";
+"Custome Theme" = "Kişisel Tema";
+"Do you want to cancel this theme?" = "Değişiklikler kaydedilmeden çıkılsın mı?";
+"Allow access to your photos to customize themes with CheetahKey?" = "CheetahKey ile temaları kişiselleştirmek üzere fotoğraflarına erişime izin ver?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "CheetahKey Fotoğraflarına Erişim Sağlamak İstiyor. Bu eylem temaları kişiselleştirmek üzere fotoğraflarını kullanabilmeni sağlar.";
+"APPLY" = "UYGULA";
+"EDIT" = "KİŞİSELLEŞTİR";
+
+//1.12
+"Copy_Gif_Tip" = "Kopyalandı. Yapıştırmak için yukarıda uzun bas.";
+"Gif_Full_Access_Tip" = "Eğlenceli GIF özelliğinin tadını çıkarmak için tam erişime izin ver.";
+"Delete_this_theme" = "Bu tema silinsin mi?";
+"Custom_Theme_Edit" = "Düzenle";
+
+"All_premium_themes" = "Tüm premium temalar";
+"All_DIY_themes" = "Tüm Kendin Yap temalar";
+"All_AR-Emoji" = "Tüm AG-Emojiler";
+"All_GIFs" = "Tüm GIF'ler";
+
+
+"UNlock" = "Kilidini aç";
+"Restore" = "GERİ YÜKLE";
+"iapp_month_title" = "%@/AY \n 3 GÜNLÜK ÜCRETSİZ DENEME";
+"iapp_year_title" = "%@/YIL \nORTALAMA %@/AY";
+"iapp_year_privacy1" = "Ödeme, satın alma onayında iTunes Hesabından alınacaktır. Mevcut dönemin sona ermesinden en az 24 saat önce otomatik yenileme kapatılmadıkça abonelik otomatik olarak yenilenir. Mevcut dönemin sona ermesinden önce 24 saat içinde hesaptan yenileme ücreti alınacak ve yenileme maliyeti tanımlanacaktır. Abonelikler kullanıcı tarafından yönetilebilir ve otomatik yenileme, satın alma sonrasında kullanıcının Hesap Ayarları bölümüne gidilerek kapatılabilir. Ücretsiz bir deneme süresinin kullanılmamış kısımları kullanıcı o yayına bir abonelik satın aldığında kaybedilir. Daha fazla bilgi için lütfen şu bölümlerimize bak:";
+"iapp_year_privacy2" = " Hizmet Şartları";
+"iapp_year_privacy3" = " ve";
+"iapp_year_privacy4" = " Gizlilik Politikası.";
+"try_again" = "Tekrar Dene";
+"no_network" = "Bağlantı yok";
+"no_network_content" = "İnternete bağlı değilsin. Lütfen bağlan ve tekrar dene.";
+"slow_network" = "Zayıf Ağ";
+"slow_network_content" = "Lütfen daha hızlı bir bağlantı bul.";
+"restore_fail_title" = "Geri Yükleme Başarısız Oldu";
+"restore_fail_content" = "Geri yüklenecek öge yok.";
+"iapp_month_btn" = "%@/AY";
+"iapp_year_btn" = "3 GÜNLÜK ÜCRETSİZ DENEME\nSONRA %@/YIL";

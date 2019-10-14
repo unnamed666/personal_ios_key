@@ -1,0 +1,109 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Tambahkan Hologram Keyboard";
+"Go_to" = "Kunjungi ";
+"Settings_General_Keyboard" = "Pengaturan > Umum > Papan Ketik";
+"Tap" = "Tekan ";
+"Add_New_Keyboard" = "Tambahkan Papan Ketik Baru";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Ketuk tombol berarti Anda setuju dengan kami ";
+"Allow_Full_Access" = "Izinkan Akses Sepenuhnya";
+"Skip" = "Lewatkan";
+"Allow" = "Perbolehkan";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard Takkan mengumpulkan data pribadi apa pun";
+"English_US" = "Inggris";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Tekan lama dan tahan";
+"to_switch_to" = "untuk beralih ke ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Umpan Balik";
+"FeedbackPlaceholder" = "Anda dan pendapat Anda sangat penting bagi kami, untuk itu silakan berbagi pendapat dengan kami sehingga kami dapat membuat aplikasi kami lebih baik!";
+"E-Mail_Address" = "Alamat Email Anda";
+"Send" = "Mengirim";
+"Choose_from_library" = "Impor Tangkapan Layar dari Foto";
+"Cancel" = "Batal";
+"No_access" = "Anda telah menonaktifkan akses ke Foto. Harap aktifkan di Pengaturan untuk mengimpor tangkapan layar";
+"OK" = "Oke";
+"FeedbackSuccess" = "Berhasil dikirim";
+"FeedbackFail" = "Gagal mengirim saran";
+"ServicesPrivacy" = "Persyaratan Layanan & Kebijakan Privasi";
+"noNet" = "Koneksi internet bermasalah,\nsilahkan coba lagi lain waktu";
+"netError" = "Gagal memuat";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Persyaratan Layanan & Kebijakan Privasi";
+"Version" = "Versión";
+"About" = "Tentang";
+"Add_Now" = "Tambahkan sekarang";
+
+"User_Agreement" = "Perjanjian Pengguna";
+"Languages" = "Bahasa";
+"Perferences" = "Umum";
+"Auto_capitalization" = "Kapitalisasi otomatis";
+"openSound" = "Suara Tombol";
+"openKeyboardSound" = "Memutar suara selagi mengetik";
+"Capitalize_the_first_word_of_each_sentence" = "Kapitalisasi kata pertama di setiap kalimat";
+
+"Swipe Typing" = "Pengetikan Sapuan";
+"Input a word by sliding through the letters" = "Masukkan kata dengan menggeser huruf ke kanan/kiri";
+"Allow_Now" = "Izinkan sekarang";
+"Text_Correction" = "Koreksi teks";
+"Show_correction_suggestions" = "Tampilkan saran koreksi";
+"Display_suggested_word_while_typing" = "Tampilkan kata yang disarankan ketika mengetik";
+"Auto_correction_suggestions" = "Saran Koreksi Otomatis";
+"Spacebar_and_punctuation_automatically" = "Spasi dan tanda baca secara otomatis mengoreksi kata yang salah diketik dan kata yang belum selesai";
+"Next_word_Suggestions" = "Saran kata berikutnya";
+"Use_the_previous_word" = "Gunakan kata sebelumnya dalam membuat saran";
+"History_Suggestions" = "Saran hasil personalisasi";
+"Use_the_History_word" = "Gunakan riwayat pengetikan dalam membuat saran";
+"Check_it_out" = "Periksa!";
+"General" = "Umum";
+"Rate_us" = "Nilailah kami";
+"THEME" = "TEMA";
+"SETTINGS" = "SETELAN";
+
+"Spanish" = "Spanyol";
+"English" = "Inggris";
+"Indonesian" = "Indonesia";
+"Azerbaijani" = "Azerbaijan";
+"Catalan" = "Katala";
+"Czech" = "Ceska";
+"Danish" = "Denmark";
+"German" = "Jerman";
+"Estonian" = "Estonia";
+"Finnish" = "Suomi";
+"French" = "Perancis";
+"Croatian" = "Kroasia";
+"Hungarian" = "Hongaria";
+"Portuguese" = "Portugis";
+"Malay" = "Bahasa Malaysia";
+"Filipino" = "Tagalog";
+"Turkish" = "Turki";
+"Italian" = "Italia";
+"Polish" = "Polandia";
+"Romanian" = "Rumania";
+"Dutch" = "Belanda";
+"Slovak" = "Slowakia";
+"Latvian" = "Latvia";
+"Norwegian Bokmal" = "Bokmal Norwegia";
+"Swedish" = "Swedia";
+
+"Change_Theme" = "Menerapkan Tema…";
+
+"FullAccess_Tip" = "Izinkan Akses Penuh untuk Prediksi Cloud";
+"Full_Now" = "Izinkan sekarang";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Pasang Cheetah Keyboard gratis untuk menerapkan tema ini";
+"Get_it_now_No_Ads" = "Dapatkan sekarang. (Tanpa Iklan)";
+"FREE_INSTALL" = "PASANG";
+"NOT_NOW" = "NANTI";

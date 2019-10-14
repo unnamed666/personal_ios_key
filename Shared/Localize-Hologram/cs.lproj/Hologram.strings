@@ -1,0 +1,109 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Přidat Hologram Keyboard";
+"Go_to" = "Přejděte na ";
+"Settings_General_Keyboard" = "Nastavení > Obecné > Klávesnice";
+"Tap" = "Klepněte na ";
+"Add_New_Keyboard" = "Přidat novou klávesnici";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Klepnutí na tlačítko znamená, že souhlasíte s našimi ";
+"Allow_Full_Access" = "Povolit úplný přístup";
+"Skip" = "Přeskočit";
+"Allow" = "Povolit";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard Nezíská žádné soukromé údaje";
+"English_US" = "Angličtina";
+"Emoji" = "Emodži";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Dlouze stiskněte a držte";
+"to_switch_to" = "pro přepnutí na ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Zpětná vazba";
+"FeedbackPlaceholder" = "Vy a vaše názory jsou pro nás důležité. Sdílejte je prosím s námi, abychom mohli vylepšovat naši aplikaci!";
+"E-Mail_Address" = "Vaše e-mailová adresa";
+"Send" = "Odeslat";
+"Choose_from_library" = "Importovat snímky obrazovek z Fotek";
+"Cancel" = "Zrušit";
+"No_access" = "Vypnuli jste přístup k Fotkám. Chcete-li importovat snímky obrazovek, zapněte ho prosím v Nastavení";
+"OK" = "OK";
+"FeedbackSuccess" = "Úspěšně odesláno";
+"FeedbackFail" = "Zpětnou vazbu se nepodařilo odeslat";
+"ServicesPrivacy" = "Podmínky služby & Zásady ochrany osobních údajů";
+"noNet" = "Chyba sítě, zkuste to prosím znovu";
+"netError" = "Načtení selhalo";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Podmínky služby & Zásady ochrany osobních údajů";
+"Version" = "Verze";
+"About" = "O aplikaci";
+"Add_Now" = "Přidat nyní";
+
+"User_Agreement" = "Uživatelské smlouvy";
+"Languages" = "Jazyky";
+"Perferences" = "Obecné";
+"Auto_capitalization" = "Velká písmena automaticky";
+"openSound" = "Zvuk stisknutí klávesy";
+"openKeyboardSound" = "Hrát během psaní zvuky";
+"Capitalize_the_first_word_of_each_sentence" = "Kapitalizace prvního slova každé věty";
+
+"Swipe Typing" = "Psaní potažením";
+"Input a word by sliding through the letters" = "Zadávání slov přejetím po písmenech";
+"Allow_Now" = "Povolit nyní";
+"Text_Correction" = "Oprava textu";
+"Show_correction_suggestions" = "Zobrazit návrhy oprav";
+"Display_suggested_word_while_typing" = "Zobrazovat navržená slova během psaní";
+"Auto_correction_suggestions" = "Návrhy automatických oprav";
+"Spacebar_and_punctuation_automatically" = "Mezerník a interpunkce automaticky opravují chybně napsaná nebo nedokončená slova";
+"Next_word_Suggestions" = "Návrhy dalšího slova";
+"Use_the_previous_word" = "Návrhy na základě předchozího slova";
+"History_Suggestions" = "Personalizované návrhy";
+"Use_the_History_word" = "Použít historii psaní pro návrhy";
+"Check_it_out" = "Mrkněte na to!";
+"General" = "Obecné";
+"Rate_us" = "Ohodnoťte nás";
+"THEME" = "VZHLED";
+"SETTINGS" = "NASTAVENÍ";
+
+"Spanish" = "Španělština";
+"English" = "Angličtina";
+"Indonesian" = "Indonéština";
+"Azerbaijani" = "Ázerbájdžánština";
+"Catalan" = "Katalánština";
+"Czech" = "Česká republika";
+"Danish" = "Dánština";
+"German" = "Němčina";
+"Estonian" = "Estonština";
+"Finnish" = "Finština";
+"French" = "Francouzština";
+"Croatian" = "Chorvatština";
+"Hungarian" = "Maďarština";
+"Portuguese" = "Portugalština";
+"Malay" = "Malajština";
+"Filipino" = "Filipínština";
+"Turkish" = "Turečtina";
+"Italian" = "Italština";
+"Polish" = "Polština";
+"Romanian" = "Rumunština";
+"Dutch" = "Holandština";
+"Slovak" = "Slovensko";
+"Latvian" = "Lotyština";
+"Norwegian Bokmal" = "Norština (Bokmal)";
+"Swedish" = "Švédština";
+
+"Change_Theme" = "Aplikuji motiv…";
+
+"FullAccess_Tip" = "Povolte úplný přístup pro předpovědi z cloudu";
+"Full_Now" = "Povolit nyní";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Chcete-li použít tento motiv, pak si zdarma nainstalujte Cheetah Keyboard";
+"Get_it_now_No_Ads" = "Získejte nyní, (Bez reklam)";
+"FREE_INSTALL" = "INSTALOVAT";
+"NOT_NOW" = "NYNÍ NE";

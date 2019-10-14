@@ -1,0 +1,248 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "A CheetahKey hozzáadása";
+"Go_to" = "Továbblépés ide: ";
+"Settings_General_Keyboard" = "Beállítások > Általános > Billentyűzet";
+"Tap" = "Koppints ";
+"Add_New_Keyboard" = "Új billentyűzet hozzáadása";
+"Tap_the_button_means_you_agree_to_our" = "A gomb megérintése azt jelenti, hogy ön elfogadja a mi ";
+"Allow_Full_Access" = "Teljes körű hozzáférés engedélyezése";
+"Skip" = "Kihagyás";
+"Allow" = "Engedélyez";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "A Cheetah Keyboard Nem gyűjt személyes adatokat";
+"English_US" = "Angol";
+"Emoji" = "Hangulatjel";
+"Long_press_and_hold" = "Nyomja meg és tartsa lenyomva hosszasan";
+"to_switch_to" = "hogy átkapcsoljon ide: ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Visszajelzés";
+"FeedbackPlaceholder" = "Te és a véleményed egyaránt fontosak vagytok számunkra, ezért kérjük, oszd meg velünk, hogy még jobbá tehessük az alkalmazásunkat!";
+"E-Mail_Address" = "Az ön e-mail-címe";
+"Send" = "Előre";
+"Choose_from_library" = "Képernyő-felvételek importálása a fotók közül";
+"Cancel" = "Mégse";
+"No_access" = "Kikapcsolta a fotókhoz való hozzáférést. Kapcsolja be a beállításokban a képernyő-felvételek importálásához";
+"OK" = "OK";
+"FeedbackSuccess" = "Sikeresen elküldve";
+"FeedbackFail" = "Nem sikerült visszajelzést küldeni";
+"ServicesPrivacy" = "Szolgáltatói feltételek & Adatvédelmi szabályzat";
+"noNet" = "Hálózat hiba, kérjük próbáld meg később";
+"netError" = "A betöltés sikertelen";
+
+"E_mail" = "E-mail cím";
+"Terms_of_Services_Privacy_Policy" = "Szolgáltatói feltételek & Adatvédelmi szabályzat";
+"Version" = "Verzió";
+"About" = "Névjegy";
+"Add_Now" = "Hozzáad most";
+
+"User_Agreement" = "Felhasználói szerződés";
+"Languages" = "Nyelvek";
+"Perferences" = "Általános";
+"Auto_capitalization" = "Automatikusan nagy kezdőbetű";
+"openSound" = "Billentyű lenyomásának hangja";
+"openKeyboardSound" = "Hang lejátszása gépelés közben";
+
+"vibration_enable" = "Rezgés a billentyű lenyomásakor";
+"vibration_enable_description" = "Rezgés gépelés közben";
+
+"keypress sound volume" = "Gombnyomás hangereje";
+"keypress vibration" = "Rezgés a billentyű lenyomásakor";
+
+"Double_space_Period" = "Pont és szóköz";
+"Double_tap_on_spacebar_inserts_a_period" = "A szóköz kétszeri megérintése beszúr egy pontot, majd egy szóközt";
+"Capitalize_the_first_word_of_each_sentence" = "Minden mondat első szava nagybetűvel";
+
+"Swipe Typing" = "Csúsztatással való gépelés";
+"Input a word by sliding through the letters" = "Szó beírása úgy, hogy ujjait végigcsúsztatja a betűkön";
+"Allow_Now" = "Engedélyezés most";
+"Text_Correction" = "Szövegjavítás";
+"Show_correction_suggestions" = "Javítási ajánlások megjelenítése";
+
+"Display_suggested_word_while_typing" = "A javasolt szavak megjelenítése gépelés közben";
+"Auto_correction_suggestions" = "Javaslatok automatikus korrekcióra";
+"Spacebar_and_punctuation_automatically" = "A szóköz és a központozás automatikusan javítja az elgépelt és a befejezetlen szavakat";
+"Next_word_Suggestions" = "Következő szóra vonatkozó javaslatok";
+"Use_the_previous_word" = "Az előző szó felhasználása a javaslatoknál";
+"History_Suggestions" = "Testreszabott javaslatok";
+"Use_the_History_word" = "A gépelési előzmények használata a javaslattétel során";
+"Check_it_out" = "Nézd meg!";
+"General" = "Általános";
+"Rate_us" = "Értékelj bennünket";
+"THEME" = "TÉMA";
+"SETTINGS" = "BEÁLLÍTÁSOK";
+
+"Spanish" = "Spanyol";
+"English" = "Angol";
+"Indonesian" = "Indonéz";
+"Azerbaijani" = "Azeri";
+"Catalan" = "Katalán";
+"Czech" = "Cseh Köztársaság";
+"Danish" = "Dán";
+"German" = "Német";
+"Estonian" = "Észt";
+"Finnish" = "Finn";
+"French" = "Francia";
+"Croatian" = "Horvát";
+"Hungarian" = "Magyar";
+"Portuguese" = "Portugál";
+"Malay" = "Maláj";
+"Filipino" = "Fülöp-szigeti";
+"Turkish" = "Török";
+"Italian" = "Olasz";
+"Polish" = "Lengyel";
+"Romanian" = "Román";
+"Dutch" = "Holland";
+"Slovak" = "Szlovákia";
+"Latvian" = "Lett";
+"Norwegian Bokmal" = "Norvég bokmål";
+"Swedish" = "Svéd";
+
+"Change_Theme" = "Téma alkalmazása…";
+
+"FullAccess_Tip" = "Teljes hozzáférés engedélyezése az okos jóslásért";
+"Full_Now" = "OK";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Telepítsd a Cheetah Keyboardot ingyen a téma alkalmazásához";
+"Get_it_now_No_Ads" = "Szerezd meg most! (Reklámmentes)";
+"FREE_INSTALL" = "TELEPÍT";
+"NOT_NOW" = "MOST NEM";
+
+"Sound" = "Hang";
+"Auto_caps" = "Automatikus nagybetűírás";
+"Settings" = "Beállítások";
+"Gesture\ntyping" = "Csúsztatással\nvaló gépelés";
+"Auto Capitalization:Enabled" = "Automatikus nagybetűírás: engedélyezve";
+"Auto Capitalization:Disabled" = "Automatikus nagybetűírás: letiltva";
+"Gesture Typing is on" = "Csúsztatással való gépelés bekapcsolva";
+"Gesture Typing is off" = "Csúsztatással való gépelés kikapcsolva";
+
+"Turn up the phone's volume for a larger sound" = "Hangosítsd fel a telefonod az erősebb hangért";
+"Allow Full Access for Voice Key" = "Engedélyezz teljes hozzáférést a hangbeviteli gombhoz";
+
+"Net_Error" = "Hálózati hiba történt, kérjük, ellenőrizd.";
+"LoadNoMoreData_tip" = "A mai téma frissítésre került. Gyere, nézz vissza holnap még többért.";
+"Default_Theme" = "Alapértelmezett téma";
+"Daily_New_Theme" = "Napi új téma";
+"Error_Refresh" = "Hálózati hiba, kérjük, frissíts.";
+
+"DOWNLOAD" = "LETÖLTÉS";
+"UPDATE" = "FRISSÍTÉS";
+"Update_Available" = "Frissítés elérhető";
+"Download_failed_please_check_your_network" = "Letöltés nem sikerült. Kérjük, ellenőrizd a hálózatodat";
+"Love_Cheetah_Keyboard" = "Tetszik a Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Koppints és érintsd meg hosszan a szóköz billentyűdet, válassz gyorsan egy hangulatjelet!😆";
+"Try_Keyboard" = "Próbáld ki billentyűzeted most";
+
+"Slide right or left to move the cursor" = "Csúsztatás jobbra vagy balra a kurzor mozgatásához";
+"Allow Full Access for cursor" = "Teljes hozzáférés engedélyezése a kurzor számára";
+
+"Full Access to try funny AR-Emoticons feature" = "Teljes hozzáférés a kamerádhoz a vicces AR-hangulatjel funkció élvezetéhez.";
+"Emoticon Paste" = "Másolva! Most illeszd be a csevegőalkalmazásod szövegmezőjébe, hogy megoszthasd!";
+
+"Switch_to_Cheetah_Keyboard" = "Válts a 💖Cheetah Keyboardra";
+"Cool_funciton_teaching" = "Menő tippek, amelyekről nem maradhatsz le";
+"Customized_themes_just_for_you" = "Személyre szabott témák csak neked🎉";
+"Allow_notifycation_you_will_get_this_function" = "Értesítések engedélyezése a következő szolgáltatásokról";
+
+"Just_for_you" = "Csak neked💖";
+"Tips_Send_Emoji" = "Tippek: Emojik küldése😛";
+"Tips_Swipe_Typing" = "Tippek: Sepréses gépelés👆";
+"So_many_themes" = "Oly sok téma😍";
+"Tips_Auto_Correct_words" = "Tippek: Szavak automatikus javítása💯";
+"Coolest_3D_Keyboard" = "A legmenőbb 3D-s billentyűzet🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Minden ingyenes téma rád vár most🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Tartsd lenyomva a szóköz-billentyűt az emojik gyors elküldéséhez!💪\n \nContext | Request Context";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Próbáld meg a betűk közti seprést a szavak gyors beírásához!🙋";
+"Download_New_theme_everyday" = "Tölts le új témákat mindennap!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Gépelj gyorsan, mi majd segítünk automatikusan kijavítani a szavakat.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Sima animáció lenyűgöző, ragyogó gombokkal!👀";
+"Emoji" = "Hangulatjel";
+"AR-Emoticon" = "AR-hangulatjel";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Ezt a különleges javaslatot az MI támogatja, és hatalmas adatvolumenre alapozta. 😎";
+// iMessage
+"iMessage_Tip" = "Tippek: Koppints egy GIF-re, és küldd el barátaidnak!";
+"Before_you_go" = "⚠️Mielőtt elmész";
+"Come_back_this_app_after_you" = "Térj vissza ehhez az apphoz, miután hozzáadtad a billentyűzetet. Rengeteg csodálatos témánk van a számodra!";
+"Got_it" = "MEGÉRTETTEM";
+
+
+//1.10
+"Tab_Discovery" = "FELFEDEZÉS";
+"iMessage_Gif_Tip" = "Az iMessage-en keresztül GIF-eket oszthatsz meg a barátaiddal. Oszd meg most!";
+
+
+"Setting_CheetahKey" = "Beállítások > CheetahKey";
+"Keyboards" = "Billentyűzetek";
+"WINK, SMILE or MOVE your head. Whatever you like." = "KACSINTÁS, MOSOLY vagy a fejed MOZGATÁSA. Tetszés szerint bármi.";
+"This allows you to record videos to create AR-Emoticons." = "Ez videók rögzítését teszi lehetővé, hogy AR-hangulatjeleket készíts.";
+"Don’t ALLOW" = "Ne ENGEDÉLYEZD";
+"Record Videos with CheetahKey" = "Rögzíts videókat a CheetahKey-vel";
+"Allow access to your camera to start recording videos with CheetahKey." = "Engedélyezz teljes hozzáférést a kamerádhoz, hogy megkezdhesd a videók rögzítését a CheetahKey-vel.";
+"Allow Camera Access" = "Engedélyezz kamera hozzáférést";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "Használhatod az AR-hangulatjeleket a Cheetah Keyboard-odban MOST!";
+"Oops... an error occurred. Please try again." = "Hoppá... hiba lépett fel. Kérjük, próbáld meg újra.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "Az iOS rendszerben a teljes hozzáférés engedélyezése biztosítja a témák közötti átváltás sikerét.";
+"Full_Access_Now" = "Teljes körű hozzáférés engedélyezése";
+"Custom" = "Testre szabott témák";
+"See_All" = "Mutasd mind";
+"Do you want to save this theme?" = "Elmented ezt a témát?";
+"Switch to next keyboard" = "Billentyűzet átváltása";
+"Setting" = "Beállítások";
+"DIY" = "Testre szabott téma";
+"Allow access to your photos to customize themes with CheetahKey?" = "Engedélyezz hozzáférést a fotóidhoz témák testre szabásához a CheetahKey-vel?";
+"Done" = "Kész";
+"Do you want to save this theme?" = "Elmented ezt a témát?";
+"Get Start" = "Indítás most";
+"Back" = "Vissza";
+"Custome_Theme" = "Testre szabott téma🌝";
+"Create_your" = "Megtervezheted és létrehozhatod saját fantasztikus billentyűzeted! Próbáld ki MOST!💅";
+"Express your styles in more than words" = "Derítsd ki velünk, mi a kedvenc billentyűzeted!";
+"Arabic" = "Arab";
+"Custome Theme" = "Testre szabott téma";
+"Do you want to cancel this theme?" = "Módosítások mentése nélkül lépsz ki?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Engedélyezz hozzáférést a fotóidhoz témák testre szabásához a CheetahKey-vel?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "A CheetahKey hozzáférést szeretne a fotóidhoz. Ez lehetővé teszi, hogy a fotóidat felhasználhasd témák testre szabásához.";
+"APPLY" = "ALKALMAZ";
+"EDIT" = "EGYÉNRE SZABÁS";
+
+//1.12
+"Copy_Gif_Tip" = "Másolva. Tartsa lenyomva felül a beillesztéshez.";
+"Gif_Full_Access_Tip" = "Engedjen teljes hozzáférést a mókás GIF funkció élvezése végett.";
+"Delete_this_theme" = "Törlöd ezt a témát?";
+"Custom_Theme_Edit" = "Szerkesztés";
+
+"All_premium_themes" = "Minden prémium téma";
+"All_DIY_themes" = "Minden CsM téma";
+"All_AR-Emoji" = "Minden AR emoji";
+"All_GIFs" = "Minden GIF";
+
+
+"UNlock" = "Feloldás";
+"Restore" = "HELYREÁLLÍTÁS";
+"iapp_month_title" = "%@/HÓ \n 3-NAPOS INGYENES KIPRÓBÁLÁS";
+"iapp_year_title" = "%@/ÉV \n ÁTLAGOSAN %@/HÓ";
+"iapp_year_privacy1" = "A kifizetés az iTunes-számlára kerül terhelésre a vásárlás megerősítésekor. Az előfizetés automatikusan megújul, kivéve akkor, ha az automatikus megújítást legalább 24 órával az aktuális időszak vége előtt kikapcsolják. A számla 24 órával az aktuális időszak lejárta előtt kerül terhelésre, és a megújítás költsége megnevezésre kerül. Az előfizetéseket a felhasználó kezelheti, és az automatikus megújítás kikapcsolható a vásárlást követően a felhasználó Fiókbeállításaiban. Az ingyenes próbaidőszak esetlegesen fel nem használt része elveszik, amikor a felhasználó előfizetést vásárol az illetékes kiadványnál. További információért, kérjük, tekintse meg";
+"iapp_year_privacy2" = " Szolgáltatási feltételeket";
+"iapp_year_privacy3" = " és";
+"iapp_year_privacy4" = " Adatvédelmi szabályzat.";
+"try_again" = "Próbáld újra";
+"no_network" = "Nincs hálózat";
+"no_network_content" = "Nem kapcsolódsz az internethez. Kérlük, csatlakozz, és próbáld újra.";
+"slow_network" = "Gyenge hálózat";
+"slow_network_content" = "Kérünk, keress gyorsabb kapcsolatot.";
+"restore_fail_title" = "Helyreállítás nem sikerült";
+"restore_fail_content" = "Nincsenek helyreállítandó elemek.";
+"iapp_month_btn" = "%@/HÓNAP";
+"iapp_year_btn" = "3-NAPOS INGYENES KIPRÓBÁLÁS \nMAJD %@/ÉV";

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author/>
+      <authoring_tool>FBX COLLADA exporter</authoring_tool>
+      <comments/>
+    </contributor>
+    <created>2017-10-23T07:45:39Z</created>
+    <keywords/>
+    <modified>2017-10-23T07:45:39Z</modified>
+    <revision/>
+    <subject/>
+    <title/>
+    <unit meter="0.010000" name="centimeter"/>
+    <up_axis>Y_UP</up_axis>
+  </asset>
+  <library_animations>
+    <animation>
+        <source id="Ear_L1-Matrix-animation-input">
+          <float_array id="Ear_L1-Matrix-animation-input-array" count="26">
+
+0.041667 0.083333 0.125000 0.166667 0.208333 0.250000 0.291667 0.333333 0.375000 0.416667 0.458333 0.500000 0.541667 0.583333 0.625000 0.666667
+0.708333 0.750000 0.791667 0.833333 0.875000 0.916667 0.958333 1.000000 1.041667 1.083333</float_array>
+          <technique_common>
+            <accessor source="#Ear_L1-Matrix-animation-input-array" count="26">
+              <param name="TIME" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Ear_L1-Matrix-animation-output-transform">
+          <float_array id="Ear_L1-Matrix-animation-output-transform-array" count="416">
+
+0.132998 -0.121598 0.983629 4.298202 0.725946 -0.663722 -0.180207 4.891394 0.674769 0.738029 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.117946 -0.136247 0.983629 4.298202 0.643788 -0.743682 -0.180207 4.891394 0.756060 0.654503 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.079524 -0.161711 0.983629 4.298202 0.434066 -0.882673 -0.180207 4.891394 0.897364 0.441291 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.035898 -0.176595 0.983629 4.298202 0.195946 -0.963914 -0.180207 4.891394 0.979957 0.199207 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.015107 -0.179572 0.983629 4.298202 0.082458 -0.980166 -0.180207 4.891394 0.996480 0.083830 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.031835 -0.177373 0.983629 4.298202 0.173764 -0.968159 -0.180207 4.891394 0.984273 0.176656 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.070319 -0.165921 0.983629 4.298202 0.383825 -0.905651 -0.180207 4.891394 0.920725 0.390213 -0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.111527 -0.141549 0.983629 4.298202 0.608753 -0.772622 -0.180207 4.891394 0.785481 0.618885 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.140101 -0.113341 0.983629 4.298202 0.764720 -0.618651 -0.180207 4.891394 0.628947 0.777448 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.150087 -0.099741 0.983629 4.298202 0.819226 -0.544421 -0.180207 4.891394 0.553482 0.832861 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.147571 -0.103427 0.983629 4.298202 0.805493 -0.564540 -0.180207 4.891394 0.573937 0.818900 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.140889 -0.112360 0.983629 4.298202 0.769019 -0.613298 -0.180207 4.891394 0.623506 0.781819 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.131399 -0.123324 0.983629 4.298202 0.717220 -0.673143 -0.180207 4.891394 0.684346 0.729157 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.121058 -0.133489 0.983629 4.298202 0.660776 -0.728629 -0.180207 4.891394 0.740756 0.671774 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.112567 -0.140724 0.983629 4.298202 0.614427 -0.768118 -0.180207 4.891394 0.780902 0.624653 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.109047 -0.143468 0.983629 4.298202 0.595217 -0.783098 -0.180207 4.891394 0.796131 0.605124 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.111162 -0.141836 0.983629 4.298202 0.606757 -0.774191 -0.180207 4.891394 0.787076 0.616856 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.116339 -0.137622 0.983629 4.298202 0.635017 -0.751185 -0.180207 4.891394 0.763687 0.645586 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.122830 -0.131861 0.983629 4.298202 0.670447 -0.719740 -0.180207 4.891394 0.731719 0.681606 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.129036 -0.125794 0.983629 4.298202 0.704322 -0.686626 -0.180207 4.891394 0.698054 0.716045 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.133607 -0.120928 0.983629 4.298202 0.729272 -0.660066 -0.180207 4.891394 0.671052 0.741410 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.135385 -0.118935 0.983629 4.298202 0.738974 -0.649187 -0.180207 4.891394 0.659992 0.751273 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.135015 -0.119354 0.983629 4.298202 0.736957 -0.651475 -0.180207 4.891394 0.662318 0.749223 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.134198 -0.120272 0.983629 4.298202 0.732496 -0.656487 -0.180207 4.891394 0.667413 0.744688 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.133374 -0.121185 0.983629 4.298202 0.728001 -0.661468 -0.180207 4.891394 0.672478 0.740117 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000
+0.132998 -0.121598 0.983629 4.298202 0.725946 -0.663722 -0.180207 4.891394 0.674769 0.738029 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000</float_array>
+          <technique_common>
+            <accessor source="#Ear_L1-Matrix-animation-output-transform-array" count="26" stride="16">
+              <param type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Ear_L1-Interpolations">
+          <Name_array id="Ear_L1-Interpolations-array" count="26">
+ LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR
+LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR
+LINEAR LINEAR LINEAR</Name_array>
+          <technique_common>
+            <accessor source="#Ear_L1-Interpolations-array" count="26">
+              <param type="name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <sampler id="Ear_L1-Matrix-animation-transform">
+          <input semantic="INPUT" source="#Ear_L1-Matrix-animation-input"/>
+          <input semantic="OUTPUT" source="#Ear_L1-Matrix-animation-output-transform"/>
+          <input semantic="INTERPOLATION" source="#Ear_L1-Interpolations"/>
+        </sampler>
+        <channel source="#Ear_L1-Matrix-animation-transform" target="Ear_L1/matrix"/>
+        <source id="Ear_L2-Matrix-animation-input">
+          <float_array id="Ear_L2-Matrix-animation-input-array" count="26">
+
+0.041667 0.083333 0.125000 0.166667 0.208333 0.250000 0.291667 0.333333 0.375000 0.416667 0.458333 0.500000 0.541667 0.583333 0.625000 0.666667
+0.708333 0.750000 0.791667 0.833333 0.875000 0.916667 0.958333 1.000000 1.041667 1.083333</float_array>
+          <technique_common>
+            <accessor source="#Ear_L2-Matrix-animation-input-array" count="26">
+              <param name="TIME" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Ear_L2-Matrix-animation-output-transform">
+          <float_array id="Ear_L2-Matrix-animation-output-transform-array" count="416">
+
+0.977826 -0.209421 0.000000 -3.082515 0.209421 0.977826 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.946816 -0.321774 0.000000 -3.082515 0.321774 0.946816 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.834214 -0.551441 0.000000 -3.082515 0.551441 0.834214 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.667032 -0.745029 0.000000 -3.082515 0.745029 0.667032 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.575813 -0.817582 0.000000 -3.082515 0.817582 0.575813 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.649751 -0.760147 0.000000 -3.082515 0.760147 0.649751 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.801938 -0.597408 0.000000 -3.082515 0.597408 0.801938 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.930945 -0.365160 0.000000 -3.082515 0.365160 0.930945 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.988692 -0.149962 0.000000 -3.082515 0.149962 0.988692 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.998383 -0.056840 0.000000 -3.082515 0.056840 0.998383 0.000000 0.000022 -0.000000 -0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.996670 -0.081545 0.000000 -3.082515 0.081545 0.996670 0.000000 0.000022 -0.000000 -0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.989714 -0.143058 0.000000 -3.082515 0.143058 0.989714 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.975008 -0.222169 0.000000 -3.082515 0.222169 0.975008 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.953989 -0.299841 0.000000 -3.082515 0.299841 0.953989 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.933609 -0.358294 0.000000 -3.082515 0.358294 0.933609 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.924450 -0.381303 0.000000 -3.082515 0.381303 0.924450 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.929999 -0.367562 0.000000 -3.082515 0.367562 0.929999 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.942976 -0.332861 0.000000 -3.082515 0.332861 0.942976 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.957908 -0.287075 0.000000 -3.082515 0.287075 0.957908 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.970619 -0.240623 0.000000 -3.082515 0.240623 0.970619 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.978865 -0.204505 0.000000 -3.082515 0.204505 0.978865 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.981789 -0.189977 0.000000 -3.082515 0.189977 0.981789 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.981195 -0.193020 0.000000 -3.082515 0.193020 0.981195 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.979855 -0.199709 0.000000 -3.082515 0.199709 0.979855 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.978470 -0.206388 0.000000 -3.082515 0.206388 0.978470 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000
+0.977826 -0.209421 0.000000 -3.082515 0.209421 0.977826 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</float_array>
+          <technique_common>
+            <accessor source="#Ear_L2-Matrix-animation-output-transform-array" count="26" stride="16">
+              <param type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Ear_L2-Interpolations">
+          <Name_array id="Ear_L2-Interpolations-array" count="26">
+ LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR
+LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR LINEAR
+LINEAR LINEAR LINEAR</Name_array>
+          <technique_common>
+            <accessor source="#Ear_L2-Interpolations-array" count="26">
+              <param type="name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <sampler id="Ear_L2-Matrix-animation-transform">
+          <input semantic="INPUT" source="#Ear_L2-Matrix-animation-input"/>
+          <input semantic="OUTPUT" source="#Ear_L2-Matrix-animation-output-transform"/>
+          <input semantic="INTERPOLATION" source="#Ear_L2-Interpolations"/>
+        </sampler>
+        <channel source="#Ear_L2-Matrix-animation-transform" target="Ear_L2/matrix"/>
+    </animation>
+  </library_animations>
+  <library_visual_scenes>
+    <visual_scene id="Dog@DogLEar" name="Dog@DogLEar">
+      <node name="Root" id="Root" sid="Root" type="JOINT">
+        <matrix sid="matrix">-0.000000 -0.000000 -1.000000 0.000000 -0.147492 0.989063 0.000000 10.354388 0.989063 0.147492 -0.000000 -4.775148 0.000000 0.000000 0.000000 1.000000</matrix>
+        <extra>
+          <technique profile="FCOLLADA">
+            <visibility>1.000000</visibility>
+          </technique>
+        </extra>
+        <node name="Spine1" id="Spine1" sid="Spine1" type="JOINT">
+          <matrix sid="matrix">0.994421 -0.105488 0.000000 2.862871 0.105488 0.994421 -0.000000 0.000000 -0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+          <extra>
+            <technique profile="FCOLLADA">
+              <visibility>1.000000</visibility>
+            </technique>
+          </extra>
+          <node name="Spine2" id="Spine2" sid="Spine2" type="JOINT">
+            <matrix sid="matrix">0.988318 -0.152408 0.000000 2.933543 0.152408 0.988318 0.000000 0.000000 -0.000000 -0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+            <extra>
+              <technique profile="FCOLLADA">
+                <visibility>1.000000</visibility>
+              </technique>
+            </extra>
+            <node name="Neck" id="Neck" sid="Neck" type="JOINT">
+              <matrix sid="matrix">0.949647 -0.313323 0.000000 2.399693 0.313323 0.949647 0.000000 -0.164272 -0.000000 -0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+              <extra>
+                <technique profile="FCOLLADA">
+                  <visibility>1.000000</visibility>
+                </technique>
+              </extra>
+              <node name="Head" id="Head" sid="Head" type="JOINT">
+                <matrix sid="matrix">0.969368 0.245612 0.000000 1.923384 -0.245612 0.969368 0.000000 -0.601959 -0.000000 -0.000000 1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                <extra>
+                  <technique profile="FCOLLADA">
+                    <visibility>1.000000</visibility>
+                  </technique>
+                </extra>
+                <node name="Head_end" id="Head_end" sid="Head_end" type="JOINT">
+                  <matrix sid="matrix">0.000000 0.180207 0.983629 6.615932 -0.000000 0.983629 -0.180207 -0.000000 -1.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                  <extra>
+                    <technique profile="FCOLLADA">
+                      <visibility>1.000000</visibility>
+                    </technique>
+                  </extra>
+                </node>
+                <node name="Ear_R1" id="Ear_R1" sid="Ear_R1" type="JOINT">
+                  <matrix sid="matrix">-0.132998 0.121598 -0.983629 4.298190 -0.725946 0.663722 0.180207 4.891348 0.674769 0.738029 0.000000 4.620309 0.000000 0.000000 0.000000 1.000000</matrix>
+                  <extra>
+                    <technique profile="FCOLLADA">
+                      <visibility>1.000000</visibility>
+                    </technique>
+                  </extra>
+                  <node name="Ear_R2" id="Ear_R2" sid="Ear_R2" type="JOINT">
+                    <matrix sid="matrix">0.977826 -0.209421 0.000000 3.082500 0.209421 0.977826 0.000000 0.000000 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                    <extra>
+                      <technique profile="FCOLLADA">
+                        <visibility>1.000000</visibility>
+                      </technique>
+                    </extra>
+                    <node name="Ear_R3" id="Ear_R3" sid="Ear_R3" type="JOINT">
+                      <matrix sid="matrix">-0.814365 -0.580352 0.000000 3.471988 -0.580352 0.814365 0.000000 0.000000 -0.000000 0.000000 -1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                      <extra>
+                        <technique profile="FCOLLADA">
+                          <visibility>1.000000</visibility>
+                        </technique>
+                      </extra>
+                    </node>
+                  </node>
+                </node>
+                <node name="Ear_L1" id="Ear_L1" sid="Ear_L1" type="JOINT">
+                  <matrix sid="matrix">0.132998 -0.121598 0.983629 4.298202 0.725946 -0.663722 -0.180207 4.891394 0.674769 0.738029 0.000000 -4.620310 0.000000 0.000000 0.000000 1.000000</matrix>
+                  <extra>
+                    <technique profile="FCOLLADA">
+                      <visibility>1.000000</visibility>
+                    </technique>
+                  </extra>
+                  <node name="Ear_L2" id="Ear_L2" sid="Ear_L2" type="JOINT">
+                    <matrix sid="matrix">0.977826 -0.209421 0.000000 -3.082515 0.209421 0.977826 0.000000 0.000022 -0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                    <extra>
+                      <technique profile="FCOLLADA">
+                        <visibility>1.000000</visibility>
+                      </technique>
+                    </extra>
+                    <node name="Ear_L3" id="Ear_L3" sid="Ear_L3" type="JOINT">
+                      <matrix sid="matrix">-0.814365 -0.580352 0.000000 -3.472004 -0.580352 0.814365 -0.000000 0.000017 -0.000000 -0.000000 -1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                      <extra>
+                        <technique profile="FCOLLADA">
+                          <visibility>1.000000</visibility>
+                        </technique>
+                      </extra>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Hip_L1" id="Hip_L1" sid="Hip_L1" type="JOINT">
+              <matrix sid="matrix">-0.323405 -0.946260 -0.000000 1.181721 -0.946260 0.323405 -0.000000 -4.990921 0.000000 0.000000 -1.000000 -3.026884 0.000000 0.000000 0.000000 1.000000</matrix>
+              <extra>
+                <technique profile="FCOLLADA">
+                  <visibility>1.000000</visibility>
+                </technique>
+              </extra>
+              <node name="Knee_L1" id="Knee_L1" sid="Knee_L1" type="JOINT">
+                <matrix sid="matrix">0.789636 -0.613576 -0.000000 2.487114 -0.613576 -0.789636 -0.000000 -0.133238 -0.000000 0.000000 -1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                <extra>
+                  <technique profile="FCOLLADA">
+                    <visibility>1.000000</visibility>
+                  </technique>
+                </extra>
+                <node name="Foot_L1" id="Foot_L1" sid="Foot_L1" type="JOINT">
+                  <matrix sid="matrix">0.000000 -0.903936 0.427668 2.005376 0.000000 0.427668 0.903936 -0.248054 -1.000000 -0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                  <extra>
+                    <technique profile="FCOLLADA">
+                      <visibility>1.000000</visibility>
+                    </technique>
+                  </extra>
+                  <node name="Toes_L1" id="Toes_L1" sid="Toes_L1" type="JOINT">
+                    <matrix sid="matrix">1.000000 -0.000000 0.000000 0.007203 0.000000 1.000000 -0.000000 -0.549091 -0.000000 0.000000 1.000000 1.160829 0.000000 0.000000 0.000000 1.000000</matrix>
+                    <extra>
+                      <technique profile="FCOLLADA">
+                        <visibility>1.000000</visibility>
+                      </technique>
+                    </extra>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node name="Hip_R1" id="Hip_R1" sid="Hip_R1" type="JOINT">
+              <matrix sid="matrix">0.323405 0.946260 -0.000000 1.181716 0.946260 -0.323405 -0.000000 -4.990921 -0.000000 -0.000000 -1.000000 3.026880 0.000000 0.000000 0.000000 1.000000</matrix>
+              <extra>
+                <technique profile="FCOLLADA">
+                  <visibility>1.000000</visibility>
+                </technique>
+              </extra>
+              <node name="Knee_R1" id="Knee_R1" sid="Knee_R1" type="JOINT">
+                <matrix sid="matrix">0.789636 -0.613576 0.000000 -2.487111 -0.613576 -0.789636 0.000000 0.133243 0.000000 -0.000000 -1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                <extra>
+                  <technique profile="FCOLLADA">
+                    <visibility>1.000000</visibility>
+                  </technique>
+                </extra>
+                <node name="Foot_R1" id="Foot_R1" sid="Foot_R1" type="JOINT">
+                  <matrix sid="matrix">0.000000 -0.903936 0.427668 -2.005374 -0.000000 0.427668 0.903936 0.248059 -1.000000 -0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                  <extra>
+                    <technique profile="FCOLLADA">
+                      <visibility>1.000000</visibility>
+                    </technique>
+                  </extra>
+                  <node name="Toes_R1" id="Toes_R1" sid="Toes_R1" type="JOINT">
+                    <matrix sid="matrix">1.000000 0.000000 -0.000000 -0.007210 0.000000 1.000000 0.000000 0.549091 0.000000 0.000000 1.000000 -1.160834 0.000000 0.000000 0.000000 1.000000</matrix>
+                    <extra>
+                      <technique profile="FCOLLADA">
+                        <visibility>1.000000</visibility>
+                      </technique>
+                    </extra>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Hip_L2" id="Hip_L2" sid="Hip_L2" type="JOINT">
+          <matrix sid="matrix">-0.070578 -0.997506 -0.000000 1.098346 -0.997506 0.070578 -0.000000 -5.271998 0.000000 0.000000 -1.000000 -3.026884 0.000000 0.000000 0.000000 1.000000</matrix>
+          <extra>
+            <technique profile="FCOLLADA">
+              <visibility>1.000000</visibility>
+            </technique>
+          </extra>
+          <node name="Knee_L2" id="Knee_L2" sid="Knee_L2" type="JOINT">
+            <matrix sid="matrix">0.789636 -0.613576 -0.000000 2.487114 -0.613576 -0.789636 -0.000000 -0.133238 -0.000000 0.000000 -1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+            <extra>
+              <technique profile="FCOLLADA">
+                <visibility>1.000000</visibility>
+              </technique>
+            </extra>
+            <node name="Foot_L2" id="Foot_L2" sid="Foot_L2" type="JOINT">
+              <matrix sid="matrix">0.000000 -0.903936 0.427668 2.005376 -0.000000 0.427668 0.903936 -0.248054 -1.000000 -0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+              <extra>
+                <technique profile="FCOLLADA">
+                  <visibility>1.000000</visibility>
+                </technique>
+              </extra>
+              <node name="Toes_L2" id="Toes_L2" sid="Toes_L2" type="JOINT">
+                <matrix sid="matrix">1.000000 -0.000000 0.000000 0.007203 0.000000 1.000000 -0.000000 -0.549091 -0.000000 0.000000 1.000000 0.914430 0.000000 0.000000 0.000000 1.000000</matrix>
+                <extra>
+                  <technique profile="FCOLLADA">
+                    <visibility>1.000000</visibility>
+                  </technique>
+                </extra>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Hip_R2" id="Hip_R2" sid="Hip_R2" type="JOINT">
+          <matrix sid="matrix">0.070578 0.997506 -0.000000 1.098347 0.997506 -0.070578 -0.000000 -5.271999 -0.000000 -0.000000 -1.000000 3.026880 0.000000 0.000000 0.000000 1.000000</matrix>
+          <extra>
+            <technique profile="FCOLLADA">
+              <visibility>1.000000</visibility>
+            </technique>
+          </extra>
+          <node name="Knee_R2" id="Knee_R2" sid="Knee_R2" type="JOINT">
+            <matrix sid="matrix">0.789636 -0.613576 0.000000 -2.487113 -0.613576 -0.789636 0.000000 0.133233 0.000000 -0.000000 -1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+            <extra>
+              <technique profile="FCOLLADA">
+                <visibility>1.000000</visibility>
+              </technique>
+            </extra>
+            <node name="Foot_R2" id="Foot_R2" sid="Foot_R2" type="JOINT">
+              <matrix sid="matrix">0.000000 -0.903936 0.427668 -2.005378 -0.000000 0.427668 0.903936 0.248050 -1.000000 -0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+              <extra>
+                <technique profile="FCOLLADA">
+                  <visibility>1.000000</visibility>
+                </technique>
+              </extra>
+              <node name="Toes_R2" id="Toes_R2" sid="Toes_R2" type="JOINT">
+                <matrix sid="matrix">1.000000 -0.000000 -0.000000 -0.007210 0.000000 1.000000 -0.000000 0.549091 0.000000 0.000000 1.000000 -0.914424 0.000000 0.000000 0.000000 1.000000</matrix>
+                <extra>
+                  <technique profile="FCOLLADA">
+                    <visibility>1.000000</visibility>
+                  </technique>
+                </extra>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Tail1" id="Tail1" sid="Tail1" type="JOINT">
+          <matrix sid="matrix">-0.963919 0.266195 -0.000000 -1.841257 0.266195 0.963919 -0.000000 0.986721 0.000000 -0.000000 -1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+          <extra>
+            <technique profile="FCOLLADA">
+              <visibility>1.000000</visibility>
+            </technique>
+          </extra>
+          <node name="Tail2" id="Tail2" sid="Tail2" type="JOINT">
+            <matrix sid="matrix">0.761689 -0.647943 -0.000000 2.826110 0.647943 0.761689 -0.000000 -0.000000 0.000000 0.000000 1.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+            <extra>
+              <technique profile="FCOLLADA">
+                <visibility>1.000000</visibility>
+              </technique>
+            </extra>
+            <node name="Tail3" id="Tail3" sid="Tail3" type="JOINT">
+              <matrix sid="matrix">0.907226 -0.420644 -0.000000 2.450695 0.420644 0.907226 -0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+              <extra>
+                <technique profile="FCOLLADA">
+                  <visibility>1.000000</visibility>
+                </technique>
+              </extra>
+              <node name="Tail4" id="Tail4" sid="Tail4" type="JOINT">
+                <matrix sid="matrix">0.000000 0.999898 -0.014284 1.458514 0.000000 0.014284 0.999898 0.000000 1.000000 -0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+                <extra>
+                  <technique profile="FCOLLADA">
+                    <visibility>1.000000</visibility>
+                  </technique>
+                </extra>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node name="Tail" id="Tail" sid="Tail">
+          <matrix sid="matrix">0.000000 -0.147492 0.989063 6.250113 0.000000 0.989063 0.147492 -9.536850 -1.000000 -0.000000 0.000000 -0.000000 0.000000 0.000000 0.000000 1.000000</matrix>
+          <extra>
+            <technique profile="FCOLLADA">
+              <visibility>1.000000</visibility>
+            </technique>
+          </extra>
+        </node>
+      </node>
+      <extra>
+        <technique profile="MAX3D">
+          <frame_rate>24.000000</frame_rate>
+        </technique>
+        <technique profile="FCOLLADA">
+          <start_time>0.041667</start_time>
+          <end_time>8.333333</end_time>
+        </technique>
+      </extra>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Dog@DogLEar"/>
+  </scene>
+</COLLADA>

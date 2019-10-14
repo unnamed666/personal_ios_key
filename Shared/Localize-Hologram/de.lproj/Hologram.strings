@@ -1,0 +1,109 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Hologram Keyboard hinzufügen";
+"Go_to" = "Gehe zu ";
+"Settings_General_Keyboard" = "Einstellungen>Allgemein>Tastatur";
+"Tap" = "Antippen";
+"Add_New_Keyboard" = "Neue Tastatur hinzufügen";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Das Antippen des Knopfes bedeutet, dass unseren zustimmen";
+"Allow_Full_Access" = "Vollständigen Zugriff erlauben";
+"Skip" = "Überspringen";
+"Allow" = "Erlaubnis";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard wird Keine privaten Daten sammeln";
+"English_US" = "Englisch";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Lange gedrückt halten";
+"to_switch_to" = "um zu wechseln auf";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Rückmeldung";
+"FeedbackPlaceholder" = "Ihr Feedback ist uns wichtig. Bitte teilen Sie es mit uns, sodass wir unsere App verbessern können!";
+"E-Mail_Address" = "Ihre E-Mailadresse";
+"Send" = "Weiter";
+"Choose_from_library" = "Screenshots von Bilder importieren";
+"Cancel" = "Abbrechen";
+"No_access" = "Sie haben den Zugriff auf Bilder ausgeschaltet. Bitte schalten Sie ihn in den Einstellungen wieder ein, um Screenshots zu importieren";
+"OK" = "OK";
+"FeedbackSuccess" = "Erfolgreich gesendet";
+"FeedbackFail" = "Senden des Feedbacks fehlgeschlagen";
+"ServicesPrivacy" = "Nutzungsbedingungen& Datenschutzrichtlinie";
+"noNet" = "Internet-Verbindung instabil, bitte versuchen Sie es später noch einmal";
+"netError" = "Laden fehlgeschlagen";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Nutzungsbedingungen& Datenschutzrichtlinie";
+"Version" = "Version";
+"About" = "Über uns";
+"Add_Now" = "Jetzt hinzufügen";
+
+"User_Agreement" = "Nutzungsvereinbarung";
+"Languages" = "Sprachen";
+"Perferences" = "Allgemeines";
+"Auto_capitalization" = "Autom. Groß-/Kleinschreibung";
+"openSound" = "Tastendruck-Ton";
+"openKeyboardSound" = "Spiele beim Tippen Töne";
+"Capitalize_the_first_word_of_each_sentence" = "Das erste Wort jedes Satzes großschreiben";
+
+"Swipe Typing" = "Wisch und Tipp";
+"Input a word by sliding through the letters" = "Durch Bewegen der Finger über die Buchstaben ein Wort eingeben";
+"Allow_Now" = "Jetzt erlauben";
+"Text_Correction" = "Textkorrektur";
+"Show_correction_suggestions" = "Änderungsvorschläge";
+"Display_suggested_word_while_typing" = "Vorgeschlagene Wörter während des Tippens anzeigen";
+"Auto_correction_suggestions" = "Autokorrekturvorschläge";
+"Spacebar_and_punctuation_automatically" = "Leertaste und Satzzeichen korrigieren automatisch fehlerhafte Wörter";
+"Next_word_Suggestions" = "Vorschläge für nächstes Wort";
+"Use_the_previous_word" = "Vorschläge anhand des vorherigen Wortes machen";
+"History_Suggestions" = "Personalisierte Vorschläge";
+"Use_the_History_word" = "Vorschläge anhand des Eingabeverlaufs machen";
+"Check_it_out" = "Schau es dir an!";
+"General" = "Allgemeines";
+"Rate_us" = "Bewerte uns";
+"THEME" = "DESIGN";
+"SETTINGS" = "EINSTELLUNGEN";
+
+"Spanish" = "Spanisch";
+"English" = "Englisch";
+"Indonesian" = "Indonesisch";
+"Azerbaijani" = "Aserbaidschanisch";
+"Catalan" = "Katalanisch";
+"Czech" = "Tschechische Republik";
+"Danish" = "Dänisch";
+"German" = "Deutsch";
+"Estonian" = "Estnisch";
+"Finnish" = "Finnisch";
+"French" = "Französisch";
+"Croatian" = "Kroatisch";
+"Hungarian" = "Ungarisch";
+"Portuguese" = "Portuguese";
+"Malay" = "Malay";
+"Filipino" = "Filipino";
+"Turkish" = "Türkisch";
+"Italian" = "Italienisch";
+"Polish" = "Polnisch";
+"Romanian" = "Rumänisch";
+"Dutch" = "Niederländisch";
+"Slovak" = "Slowakei";
+"Latvian" = "Lettisch";
+"Norwegian Bokmal" = "Norwegisch";
+"Swedish" = "Schwedisch";
+
+"Change_Theme" = "Vorlage wird angewendet…";
+
+"FullAccess_Tip" = "Für Cloud-Vorhersage ist vollständige Freigabe erforderlich";
+"Full_Now" = "Jetzt erlauben";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Für diese Design einfach Cheetah Keyboard gratis installieren";
+"Get_it_now_No_Ads" = "Jetzt holen. (Werbefrei)";
+"FREE_INSTALL" = "INSTALLIEREN";
+"NOT_NOW" = "JETZT NICHT";

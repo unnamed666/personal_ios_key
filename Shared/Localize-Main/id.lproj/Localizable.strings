@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Tambahkan CheetahKey";
+"Go_to" = "Kunjungi ";
+"Settings_General_Keyboard" = "Pengaturan > Umum > Papan Ketik";
+"Tap" = "Tekan ";
+"Add_New_Keyboard" = "Tambahkan Papan Ketik Baru";
+"Tap_the_button_means_you_agree_to_our" = "Ketuk tombol berarti Anda setuju dengan kami ";
+"Allow_Full_Access" = "Izinkan Akses Sepenuhnya";
+"Skip" = "Lewatkan";
+"Allow" = "Perbolehkan";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard Takkan mengumpulkan data pribadi apa pun";
+"English_US" = "Inggris";
+"Emoji" = "Emoji";
+"Long_press_and_hold" = "Tekan lama dan tahan";
+"to_switch_to" = "untuk beralih ke ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Umpan Balik";
+"FeedbackPlaceholder" = "Anda dan pendapat Anda sangat penting bagi kami, untuk itu silakan berbagi pendapat dengan kami sehingga kami dapat membuat aplikasi kami lebih baik!";
+"E-Mail_Address" = "Alamat Email Anda";
+"Send" = "Mengirim";
+"Choose_from_library" = "Impor Tangkapan Layar dari Foto";
+"Cancel" = "Batalkan";
+"No_access" = "Anda telah menonaktifkan akses ke Foto. Harap aktifkan di Pengaturan untuk mengimpor tangkapan layar";
+"OK" = "OKE";
+"FeedbackSuccess" = "Berhasil dikirim";
+"FeedbackFail" = "Gagal mengirim saran";
+"ServicesPrivacy" = "Persyaratan Layanan & Kebijakan Privasi";
+"noNet" = "Koneksi internet bermasalah,\nsilahkan coba lagi lain waktu";
+"netError" = "Gagal memuat";
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Persyaratan Layanan & Kebijakan Privasi";
+"Version" = "Versi";
+"About" = "Tentang";
+"Add_Now" = "Tambahkan sekarang";
+
+"User_Agreement" = "Perjanjian Pengguna";
+"Languages" = "Bahasa";
+"Perferences" = "Umum";
+"Auto_capitalization" = "Kapitalisasi otomatis";
+"openSound" = "Suara Tombol";
+"openKeyboardSound" = "Memutar suara selagi mengetik";
+
+"vibration_enable" = "Getaran Tekan Tombol";
+"vibration_enable_description" = "Getaran saat mengetik";
+
+"keypress sound volume" = "Volume suara saat tekan tombol";
+"keypress vibration" = "Getaran tekan tombol";
+
+"Double_space_Period" = "Tanda Titik untuk Dua Spasi";
+"Double_tap_on_spacebar_inserts_a_period" = "Dua ketukan pada tombol spasi akan menambahkan tanda titik yang diikuti spasi";
+"Capitalize_the_first_word_of_each_sentence" = "Kapitalisasi kata pertama di setiap kalimat";
+
+"Swipe Typing" = "Pengetikan Usap";
+"Input a word by sliding through the letters" = "Masukkan kata dengan menggeser huruf ke kanan/kiri";
+"Allow_Now" = "Izinkan sekarang";
+"Text_Correction" = "Koreksi Teks";
+"Show_correction_suggestions" = "Tampilkan saran koreksi";
+
+"Display_suggested_word_while_typing" = "Tampilkan kata yang disarankan ketika mengetik";
+"Auto_correction_suggestions" = "Saran Koreksi Otomatis";
+"Spacebar_and_punctuation_automatically" = "Spasi dan tanda baca secara otomatis mengoreksi kata yang salah diketik dan kata yang belum selesai";
+"Next_word_Suggestions" = "Saran kata berikutnya";
+"Use_the_previous_word" = "Gunakan kata sebelumnya dalam membuat saran";
+"History_Suggestions" = "Saran hasil personalisasi";
+"Use_the_History_word" = "Gunakan riwayat pengetikan dalam membuat saran";
+"Check_it_out" = "Ayo lihat!";
+"General" = "Umum";
+"Rate_us" = "Nilailah kami";
+"THEME" = "TEMA";
+"SETTINGS" = "PENGATURAN";
+
+"Spanish" = "Spanyol";
+"English" = "Inggris";
+"Indonesian" = "Indonesia";
+"Azerbaijani" = "Azerbaijan";
+"Catalan" = "Katala";
+"Czech" = "Ceska";
+"Danish" = "Denmark";
+"German" = "Jerman";
+"Estonian" = "Estonia";
+"Finnish" = "Suomi";
+"French" = "Perancis";
+"Croatian" = "Kroasia";
+"Hungarian" = "Hongaria";
+"Portuguese" = "Portugis";
+"Malay" = "Bahasa Malaysia";
+"Filipino" = "Tagalog";
+"Turkish" = "Turki";
+"Italian" = "Italia";
+"Polish" = "Polandia";
+"Romanian" = "Rumania";
+"Dutch" = "Belanda";
+"Slovak" = "Slowakia";
+"Latvian" = "Latvia";
+"Norwegian Bokmal" = "Bokmal Norwegia";
+"Swedish" = "Swedia";
+
+"Change_Theme" = "Menerapkan Tema…";
+
+"FullAccess_Tip" = "Izinkan Akses Penuh untuk Prediksi Cerdas";
+"Full_Now" = "OKE";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Pasang Cheetah Keyboard gratis untuk menerapkan tema ini";
+"Get_it_now_No_Ads" = "Dapatkan sekarang. (Tanpa Iklan)";
+"FREE_INSTALL" = "PASANG";
+"NOT_NOW" = "NANTI";
+
+"GIF" = "GIF";
+
+"Sound" = "Suara";
+"Auto_caps" = "Huruf Besar Otomatis";
+"Settings" = "Pengaturan";
+"Gesture\ntyping" = "Ketikan\nUsap";
+"Auto Capitalization:Enabled" = "Huruf Besar Otomatis: Aktif";
+"Auto Capitalization:Disabled" = "Huruf Besar Otomatis: Nonaktif";
+"Gesture Typing is on" = "Pengetikan Usap aktif";
+"Gesture Typing is off" = "Pengetikan Usap nonaktif";
+
+"Turn up the phone's volume for a larger sound" = "Tingkatkan volume ponsel untuk membesarkan suara";
+"Allow Full Access for Voice Key" = "Izinkan Akses Penuh ke Tombol Suara";
+
+"Net_Error" = "Kesalahan jaringan, harap periksa.";
+"LoadNoMoreData_tip" = "Tema hari ini telah diperbarui. Datang dan lihat lebih banyak besok.";
+"Default_Theme" = "Tema Default";
+"Daily_New_Theme" = "Tema Baru Harian";
+"Error_Refresh" = "Kesalahan jaringan, harap segarkan.";
+
+"DOWNLOAD" = "UNDUH";
+"UPDATE" = "PERBARUI";
+"Update_Available" = "Pembaruan Tersedia";
+"Download_failed_please_check_your_network" = "Pengunduhan gagal. Periksalah jaringan Anda";
+"Love_Cheetah_Keyboard" = "Suka Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Ketuk dan tekan tombol spasi dengan lama, pilih emoji dengan cepat!😆";
+"Try_Keyboard" = "Coba papan ketik Anda sekarang";
+
+"Slide right or left to move the cursor" = "Geser ke kanan atau kiri utk memindahkan kursor";
+"Allow Full Access for cursor" = "Izinkan Akses Penuh untuk Kursor";
+
+"Full Access to try funny AR-Emoticons feature" = "Akses penuh ke kamera Anda untuk menikmati fitur Emoji-AR yang lucu.";
+"Emoticon Paste" = "Disalin! Sekarang, rekatkan ke kotak teks di aplikasi obrolan Anda untuk membagikannya!";
+
+"Switch_to_Cheetah_Keyboard" = "Ganti ke 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Kiat keren sehingga Anda tak akan melewatkan💡";
+"Customized_themes_just_for_you" = "Tema khusus hanya untuk Anda🎉";
+"Allow_notifycation_you_will_get_this_function" = "Izinkan pemberitahuan seputar layanan berikut";
+
+"Just_for_you" = "Hanya untuk Anda💖";
+"Tips_Send_Emoji" = "Kiat: Kirim Emoji😛";
+"Tips_Swipe_Typing" = "Kiat: Sapu Mengetik👆";
+"So_many_themes" = "Banyak tema😍";
+"Tips_Auto_Correct_words" = "Kiat: Koreksi kata otomatis💯";
+"Coolest_3D_Keyboard" = "Keyboard 3D Paling Keren🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Tema gratis kini menunggu Anda🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Tahan spasi utk langsung kirim emoji!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Coba sapu huruf utk mengetik kata dengan cepat!🙋";
+"Download_New_theme_everyday" = "Unduh tema baru setiap hari!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Ketik cepat & kami akan bantu Anda koreksi kata dengan otomatis.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Animasi mulus dengan tombol berpendar yang keren!👀";
+"Emoji" = "Emoji";
+"AR-Emoticon" = "Emoji-AR";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Saran unik ini ditenagai Al & diperoleh dari volume data yang besar. 😎";
+// iMessage
+"iMessage_Tip" = "Kiat: Ketuk sebuah GIF untuk mengirimkannya kepada teman Anda!";
+"Before_you_go" = "⚠️Sebelum Anda pergi";
+"Come_back_this_app_after_you" = "Kembali ke aplikasi ini setelah Anda menambahkan papan ketik. Kami memiliki banyak tema yang menakjubkan untuk Anda!";
+"Got_it" = "Lo entiendo";
+
+
+//1.10
+"Tab_Discovery" = "JELAJAH";
+"iMessage_Gif_Tip" = "Anda dapat membagikan GIF kepada teman-teman melalui iMessage. Bagikan sekarang!";
+
+
+"Setting_CheetahKey" = "Pengaturan > CheetahKey";
+"Keyboards" = "Papan Ketik";
+"WINK, SMILE or MOVE your head. Whatever you like." = "KEDIPKAN MATA, SENYUM, atau GERAKKAN kepala Anda. Apa pun yang Anda suka.";
+"This allows you to record videos to create AR-Emoticons." = "Dengan ini Anda dapat merekam video untuk menciptakan Emoji-AR.";
+"Don’t ALLOW" = "Jangan IZINKAN";
+"Record Videos with CheetahKey" = "Rekam Video dengan CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Izinkan akses ke kamera untuk mulai merekam video dengan CheetahKey.";
+"Allow Camera Access" = "Izinkan Akses Kamera";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "Anda dapat menggunakan Emoji-AR di Cheetah Keyboard SEKARANG!";
+"Oops... an error occurred. Please try again." = "Ups... terjadi kesalahan. Silakan coba lagi.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "Dalam sistem iOS, mengizinkan akses penuh memastikan beralih tema dengan sukses.";
+"Full_Access_Now" = "Izinkan Akses Sepenuhnya";
+"Custom" = "Tema yang Disesuaikan";
+"See_All" = "Lihat Semuanya";
+"Do you want to save this theme?" = "Simpan tema ini?";
+"Switch to next keyboard" = "Beralih papan ketik";
+"Setting" = "Pengaturan";
+"DIY" = "Tema Kustom";
+"Allow access to your photos to customize themes with CheetahKey?" = "Izinkan akses ke foto Anda untuk menyesuiakan tema dengan CheetahKey?";
+"Done" = "Selesai";
+"Do you want to save this theme?" = "Simpan tema ini?";
+"Get Start" = "Mulai Semua";
+"Back" = "Kembali";
+"Custome_Theme" = "Tema Kustom🌝";
+"Create_your" = "Anda dapat mendesain dan membuat papan ketik Anda sendiri yang menakjubkan! Cobalah SEKARANG!💅";
+"Express your styles in more than words" = "Cari Tahu Papan Ketik Favorit Anda Dengan Kami";
+"Arabic" = "Bahasa Arab";
+"Custome Theme" = "Tema Kustom";
+"Do you want to cancel this theme?" = "Keluar tanpa menyimpan perubahan?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Izinkan akses ke foto Anda untuk menyesuiakan tema dengan CheetahKey?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "CheetahKey Ingin Mengakses Foto Anda. Ini memungkinkan Anda menggunakan foto Anda untuk menyesuiakan tema.";
+"APPLY" = "TERAPKAN";
+"EDIT" = "KUSTOMISASIKAN";
+
+//1.12
+"Copy_Gif_Tip" = "Disalin. Tekan dan tahan di atas untuk merekatkan.";
+"Gif_Full_Access_Tip" = "Izinkan akses penuh untuk menikmati fitur GIF yang lucu.";
+"Delete_this_theme" = "Hapus tema ini?";
+"Custom_Theme_Edit" = "Sunting";
+
+"All_premium_themes" = "Semua tema premium";
+"All_DIY_themes" = "Semu tema DIY";
+"All_AR-Emoji" = "Semua Emoji AR";
+"All_GIFs" = "Semua GIF";
+
+
+"UNlock" = "Buka";
+"Restore" = "PULIHKAN";
+"iapp_month_title" = "%@/BULAN \n PERCOBAAN GRATIS 3 HARI";
+"iapp_year_title" = "%@/TAHUN\n RATA-RATA %@/BULAN";
+"iapp_year_privacy1" = "Pembayaran akan dikenakan ke Akun iTunes saat konfirmasi pembelian. Secara otomatis langganan diperbarui kecuali pembaruan otomatis dinonaktifkan setidaknya 24 jam sebelum akhir dari periode saat ini. Akun akan dikenai biaya untuk pembaruan dalam waktu 24 jam sebelum akhir dari periode saat ini, dan mengidentifikasi biaya pembaruan tersebut. Langganan dikelola oleh pengguna dan pembaruan otomatis bisa dinonaktifkan dari Pengaturan Akun pengguna setelah pembelian. Bagian yang tidak digunakan dari periode percobaan gratis akan ditiadakan ketika pengguna memutuskan untuk berlangganan publikasi tersebut. Untuk informasi lebih lanjut, silakan lihat";
+"iapp_year_privacy2" = " Persyaratan Layanan";
+"iapp_year_privacy3" = " dan";
+"iapp_year_privacy4" = " Kebijakan Privasi.";
+"try_again" = "Coba Lagi";
+"no_network" = "Tidak Ada Jaringan";
+"no_network_content" = "Anda tidak terhubung dengan internet. Harap hubungkan dan coba lagi.";
+"slow_network" = "Jaringan Buruk";
+"slow_network_content" = "Harap cari koneksi lebih cepat.";
+"restore_fail_title" = "Gagal Memulihkan";
+"restore_fail_content" = "Tidak ada barang yang ada untuk dipulihkan.";
+"iapp_month_btn" = "%@/BULAN";
+"iapp_year_btn" = "PERCOBAAN GRATIS 3 HARI \nKEMUDIAN %@/TAHUN";

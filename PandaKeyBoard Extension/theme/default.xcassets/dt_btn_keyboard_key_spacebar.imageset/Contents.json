@@ -1,0 +1,56 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 25
+        },
+        "cap-insets" : {
+          "right" : 41,
+          "left" : 43
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "btn_keyboard_key_spacebar@2x.png",
+      "alignment-insets" : {
+        "top" : 11,
+        "left" : 51,
+        "bottom" : 50,
+        "right" : 0
+      },
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 22
+        },
+        "cap-insets" : {
+          "right" : 80,
+          "left" : 80
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "btn_keyboard_key_spacebar@3x.png",
+      "alignment-insets" : {
+        "top" : 17,
+        "left" : 50,
+        "bottom" : 83,
+        "right" : 0
+      },
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

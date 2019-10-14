@@ -1,0 +1,63 @@
+cheetahkeyboard_public:1 userid:string ver:string channel:string pkg_name:string child_channel:string mcc:short mnc:short language_setting:string brand:string model:string country_setting:string osver:string installtime:int resolution:short screensize:string
+cheetahkeyboard_active:101 network:short clktime:int inputtype:string lang:string dictver:string theme:string
+cheetahkeyboard_main_active:102 network:short clktime:int
+cheetahkeyboard_activate_show:103 isfirst:short action:short clktime:int
+cheetahkeyboard_activate_click:104 isfirst:short action:short clktime:int
+cheetahkeyboard_main_show:105 tab:short inway:short clktime:int
+cheetahkeyboard_main_openkey:107 tab:short clktime:int
+cheetahkeyboard_set_lang:108 value:short
+cheetahkeyboard_set_lang_chan:109 value:short class:string
+cheetahkeyboard_set_gene:110 value:short
+cheetahkeyboard_set_gene_cap:111 value:short
+cheetahkeyboard_set_corr:112 value:short
+cheetahkeyboard_set_corr_showcorr:113 value:short
+cheetahkeyboard_set_corr_autocorr:114 value:short
+cheetahkeyboard_set_corr_nextsugg:115 value:short
+cheetahkeyboard_emoji_click:117 value:string inway:short clktime:int
+cheetahkeyboard_close:118 value:short clktime:int
+cheetahkeyboard_switch_nextkey:119 value:short clktime:int
+cheetahkeyboard_coexist:120 app:string lang:string layout:string
+cheetahkeyboard_input_collect:121 value:string lang:string inputtype:short dictver:string clktime:int
+cheetahkeyboard_input_words:122 iword:string cword:string clktime:int ctype:short dtype:short inputtype:short lang:string dictver:string
+cheetahkeyboard_set_gene_sound:123 value:short
+cheetahkeyboard_set_corr_history:124 value:short
+cheetahkeyboard_tip_show:125 value:short clktime:int
+cheetahkeyboard_tip_click:126 value:short clktime:int
+cheetahkeyboard_tip_close:127 value:short class:short clktime:int
+cheetahkeyboard_setting_fun_click:128 value:byte inputtype:string
+cheetahkeyboard_setting_click:129 value:byte inputtype:string
+cheetahkeyboard_star:130 action:byte click:byte
+cheetahkeyboard_main_theme_down:131 name:string xy:short action:short class:short
+cheetahkeyboard_main_theme_refresh:132 action:short
+cheetahkeyboard_main_delete:133 tab:short clktime:int
+cheetahkeyboard_set_gene_doub:134 value:short
+cheetahkeyboard_set_gene_vibra:135 value:short
+cheetahkeyboard_cursor_click:136 value:byte inputtype:string
+cheetahkeyboard_cursor_action:137 value:byte inputtype:string
+cheetahkeyboard_noti_perm_show:138 value:short
+cheetahkeyboard_noti_perm_choo:139 value:short
+cheetahkeyboard_noti_perm:140 value:short
+cheetahkeyboard_app:141 pkg:string
+cheetahkeyboard_ime_gif:142 value:short link:string clktime:int
+cheetahkeyboard_input_str:143 value:string lang:string inputtype:short clktime:int
+cheetahkeyboard_input_str_clo:144 lang:string inputtype:short clktime:int
+cheetahkeyboard_ime_gif_send:145 value:short link:string clktime:int
+cheetahkeyboard_main_disc_show:146 inway:short clktime:int
+cheetahkeyboard_main_disc_click:147 name:short clktime:int
+cheetahkeyboard_ar_show:148 inway:short class:short clktime:int
+cheetahkeyboard_ar_click:149 name:short clktime:int
+cheetahkeyboard_ar_done:150 videtime:short anim:short
+cheetahkeyboard_ar_done_clic:151 value:short
+cheetahkeyboard_emoji:152 value:short clktime:int class:short
+cheetahkeyboard_main_theme_click:153 name:string xy:short clktime:int value:short
+cheetahkeyboard_diy_cancel:156 inway:short action:short
+cheetahkeyboard_welcom:158 clktime:int
+cheetahkeyboard_welcom_clk:159 value:string xy:short clktime:int
+cheetahkeyboard_switch:160 value:short
+cheetahkeyboard_diy:161 inway:short clktime:int xy:short
+cheetahkeyboard_diy_done:162 bgname:string bgtime:short btname:string bttime:short ftname:string fttime:short action:short inway:short clktime:int voicname:string voictime:short
+cheetahkeyboard_diy_all:163 clktime:int x:short
+cheetahkeyboard_diy_all_clic:164 value:short y:string clktime:int
+cheetahkeyboard_emoji_switch:165 value:short clktime:int
+cheetahkeyboard_guide_test:166 action:byte
+cheetahkeyboard_guide:167 action:byte sku:string

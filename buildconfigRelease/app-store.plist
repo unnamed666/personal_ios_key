@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.cheetah.keyboard.theme.emoji</key>
+		<string>com.cheetah.keyboard.theme.emoji</string>
+		<key>com.cheetah.keyboard.theme.emoji.Extension</key>
+		<string>com.cheetah.keyboard.theme.emoji.Extension</string>
+		<key>com.cheetah.keyboard.theme.emoji.iMessageE</key>
+		<string>com.cheetah.keyboard.theme.emoji.iMessageE</string>
+	</dict>
+	<key>teamID</key>
+	<string>VRGS6G42JR</string>
+	<key>method</key>
+	<string>app-store</string>
+	<key>compileBitcode</key>
+	<true/>
+	<key>uploadSymbols</key>
+	<true/>
+</dict>
+</plist>

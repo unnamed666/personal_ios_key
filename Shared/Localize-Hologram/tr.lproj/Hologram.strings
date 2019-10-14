@@ -1,0 +1,110 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+
+"Add_Cheetah_Keyboard" = "Hologram Keyboard uygulamasını ekle";
+"Go_to" = "Şuraya git: ";
+"Settings_General_Keyboard" = "Ayarlar > Genel > Klavye";
+"Tap" = "Dokun ";
+"Add_New_Keyboard" = "Yeni Klavye Ekle";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Düğmeye dokunmak şunu kabul ettiğin anlamına gelir: ";
+"Allow_Full_Access" = "Tam Erişime İzin Ver";
+"Skip" = "Atla";
+"Allow" = "İzin Ver";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard özel bilgileri TOPLAMAZ";
+"English_US" = "İngilizce";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Uzun bas ve tut";
+"to_switch_to" = "şuna geçmek için: ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Geri Bildirim";
+"FeedbackPlaceholder" = "Siz ve sizin görüşleriniz bizim için önemlidir, uygulamamızı daha iyi yapabilmemiz için lütfen onları bizimle paylaşın!";
+"E-Mail_Address" = "E-Posta Adresin";
+"Send" = "Gönder";
+"Choose_from_library" = "Fotoğraflardan Ekran Görüntüleri Al";
+"Cancel" = "İptal";
+"No_access" = "Fotoğraflara erişimi kapadın. Ekran görüntüleri almak için lütfen Ayarlar bölümünden bunu aç";
+"OK" = "Tamam";
+"FeedbackSuccess" = "Başarıyla gönderildi";
+"FeedbackFail" = "Geri bildirim gönderilemedi";
+"ServicesPrivacy" = "Hizmet Şartları & Gizlilik Politikası";
+"noNet" = "Ağ hatası, lütfen tekrar dene";
+"netError" = "Yükleme hatası";
+
+
+
+"E_mail" = "E-posta";
+"Terms_of_Services_Privacy_Policy" = "Hizmet Şartları & Gizlilik Politikası";
+"Version" = "Sürüm";
+"About" = "Hakkımızda";
+"Add_Now" = "Şimdi ekle";
+
+"User_Agreement" = "Kullanıcı Sözleşmesi";
+"Languages" = "Diller";
+"Perferences" = "Genel";
+"Auto_capitalization" = "Otomatik büyük harf yap";
+"openSound" = "Tuş Sesi";
+"openKeyboardSound" = "Yazarken ses çalsın";
+"Capitalize_the_first_word_of_each_sentence" = "Her cümlenin ilk harfini büyük harf yap";
+
+"Swipe Typing" = "Kaydırarak Yazma";
+"Input a word by sliding through the letters" = "Kelime girmek için parmağınızı harflerin üzerinde kaydırın";
+"Allow_Now" = "Şimdi İzin Ver";
+"Text_Correction" = "Metin düzeltme";
+"Show_correction_suggestions" = "Düzeltme önerilerini göster";
+"Display_suggested_word_while_typing" = "Yazarken, önerilen kelimeleri görüntüle";
+"Auto_correction_suggestions" = "Otomatik Düzeltme Önerileri";
+"Spacebar_and_punctuation_automatically" = "Ara çubuğu ve noktalama işaretleri yanlış girilen sözcükleri ve tamamlanmamış sözcükleri otomatik olarak düzeltir";
+"Next_word_Suggestions" = "Sonraki kelime önerileri";
+"Use_the_previous_word" = "Öneride bulunurken önceki kelimeyi kullan";
+"History_Suggestions" = "Kişiselleştirilmiş öneriler";
+"Use_the_History_word" = "Öneride bulunurken yazma geçmişini kullan";
+"Check_it_out" = "İncele!";
+"General" = "Genel";
+"Rate_us" = "Bizi Değerlendirin";
+"THEME" = "TEMA";
+"SETTINGS" = "AYARLAR";
+
+"Spanish" = "İspanyolca";
+"English" = "İngilizce";
+"Indonesian" = "Endonezyaca";
+"Azerbaijani" = "Azerice";
+"Catalan" = "Katalanca";
+"Czech" = "Çek Cumhuriyeti";
+"Danish" = "Danca";
+"German" = "Almanca";
+"Estonian" = "Estonca";
+"Finnish" = "Fince";
+"French" = "Fransızca";
+"Croatian" = "Hırvatça";
+"Hungarian" = "Macarca";
+"Portuguese" = "Portekizce";
+"Malay" = "Malayca";
+"Filipino" = "Filipince";
+"Turkish" = "Türkçe";
+"Italian" = "İtalyanca";
+"Polish" = "Lehçe";
+"Romanian" = "Romence";
+"Dutch" = "Flemenkçe";
+"Slovak" = "Slovakya";
+"Latvian" = "Letonca";
+"Norwegian Bokmal" = "Norveççe Edebiyat Dili";
+"Swedish" = "İsveççe";
+
+"Change_Theme" = "Tema uygulanıyor…";
+
+"FullAccess_Tip" = "Bulut Tahmini İçin Tam Erişime İzin Ver";
+"Full_Now" = "Şimdi İzin Ver";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Bu temayı ücretsiz uygulamak için Cheetah Keyboard'ı yükle";
+"Get_it_now_No_Ads" = "Hemen yükle. (Reklam Yok)";
+"FREE_INSTALL" = "YÜKLE";
+"NOT_NOW" = "ŞIMDI DEĞIL";

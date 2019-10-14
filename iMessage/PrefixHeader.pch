@@ -1,0 +1,27 @@
+//
+//  PrefixHeader.pch
+//  iMessage
+//
+//  Created by yanzhao on 2017/9/28.
+//  Copyright © 2017年 CMCM. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import "KeyboardKit.h"
+
+#ifndef SCHEME
+#define CMLocalizedString(key, comment) \
+NSLocalizedString(key, comment)
+#else
+#define CMLocalizedString(key, comment) \
+NSLocalizedStringFromTable(key, @"Hologram", comment)
+#endif
+
+#endif
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,6 @@
+[submodule "sub"]
+	path = sub
+	url = git@gitlab.liebaopay.com:liuzhenghui/keyboard_engine.git
+[submodule "sliding_fst_decoder"]
+        path = Shared/decoder/third-party/sliding_fst_decoder
+        url = git@gitlab.liebaopay.com:jiani/sliding_fst_decoder.git

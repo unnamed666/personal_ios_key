@@ -1,0 +1,248 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Přidat CheetahKey";
+"Go_to" = "Přejděte na ";
+"Settings_General_Keyboard" = "Nastavení > Obecné > Klávesnice";
+"Tap" = "Klepněte na ";
+"Add_New_Keyboard" = "Přidat novou klávesnici";
+"Tap_the_button_means_you_agree_to_our" = "Klepnutí na tlačítko znamená, že souhlasíte s našimi ";
+"Allow_Full_Access" = "Povolit úplný přístup";
+"Skip" = "Přeskočit";
+"Allow" = "Povolit";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard Nezíská žádné soukromé údaje";
+"English_US" = "Angličtina";
+"Emoji" = "Emodži";
+"Long_press_and_hold" = "Dlouze stiskněte a držte";
+"to_switch_to" = "pro přepnutí na ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Připomínky";
+"FeedbackPlaceholder" = "Vy a vaše názory jsou pro nás důležité. Sdílejte je prosím s námi, abychom mohli vylepšovat naši aplikaci!";
+"E-Mail_Address" = "Vaše e-mailová adresa";
+"Send" = "Odeslat";
+"Choose_from_library" = "Importovat snímky obrazovek z Fotek";
+"Cancel" = "Zrušit";
+"No_access" = "Vypnuli jste přístup k Fotkám. Chcete-li importovat snímky obrazovek, zapněte ho prosím v Nastavení";
+"OK" = "Potvrzení";
+"FeedbackSuccess" = "Úspěšně odesláno";
+"FeedbackFail" = "Zpětnou vazbu se nepodařilo odeslat";
+"ServicesPrivacy" = "Podmínky služby & Zásady ochrany osobních údajů";
+"noNet" = "Chyba sítě, zkuste to prosím znovu";
+"netError" = "Načtení selhalo";
+
+"E_mail" = "E-mailová";
+"Terms_of_Services_Privacy_Policy" = "Podmínky služby & Zásady ochrany osobních údajů";
+"Version" = "Verze";
+"About" = "O aplikaci";
+"Add_Now" = "Přidat nyní";
+
+"User_Agreement" = "Uživatelské smlouvy";
+"Languages" = "Jazyky";
+"Perferences" = "Obecné";
+"Auto_capitalization" = "Velká písmena automaticky";
+"openSound" = "Zvuk stisknutí klávesy";
+"openKeyboardSound" = "Hrát během psaní zvuky";
+
+"vibration_enable" = "Vibrace při stisku klávesy";
+"vibration_enable_description" = "Vibrace při psaní";
+
+"keypress sound volume" = "Hlasitost stisknutí klávesy";
+"keypress vibration" = "Vibrace při stisku klávesy";
+
+"Double_space_Period" = "Tečka dvojitým mezerníkem";
+"Double_tap_on_spacebar_inserts_a_period" = "Dvojím klepnutím na mezerník vložíte tečku následovanou mezerou";
+"Capitalize_the_first_word_of_each_sentence" = "Kapitalizace prvního slova každé věty";
+
+"Swipe Typing" = "Psaní potažením";
+"Input a word by sliding through the letters" = "Zadávání slov přejetím po písmenech";
+"Allow_Now" = "Povolit nyní";
+"Text_Correction" = "Oprava textu";
+"Show_correction_suggestions" = "Zobrazit návrhy oprav";
+
+"Display_suggested_word_while_typing" = "Zobrazovat navržená slova během psaní";
+"Auto_correction_suggestions" = "Návrhy automatických oprav";
+"Spacebar_and_punctuation_automatically" = "Mezerník a interpunkce automaticky opravují chybně napsaná nebo nedokončená slova";
+"Next_word_Suggestions" = "Návrhy dalšího slova";
+"Use_the_previous_word" = "Návrhy na základě předchozího slova";
+"History_Suggestions" = "Personalizované návrhy";
+"Use_the_History_word" = "Použít historii psaní pro návrhy";
+"Check_it_out" = "Mrkněte na to!";
+"General" = "Obecné";
+"Rate_us" = "Ohodnoťte nás";
+"THEME" = "VZHLED";
+"SETTINGS" = "NASTAVENÍ";
+
+"Spanish" = "Španělština";
+"English" = "Angličtina";
+"Indonesian" = "Indonéština";
+"Azerbaijani" = "Ázerbájdžánština";
+"Catalan" = "Katalánština";
+"Czech" = "Česká republika";
+"Danish" = "Dánština";
+"German" = "Němčina";
+"Estonian" = "Estonština";
+"Finnish" = "Finština";
+"French" = "Francouzština";
+"Croatian" = "Chorvatština";
+"Hungarian" = "Maďarština";
+"Portuguese" = "Portugalština";
+"Malay" = "Malajština";
+"Filipino" = "Filipínština";
+"Turkish" = "Turečtina";
+"Italian" = "Italština";
+"Polish" = "Polština";
+"Romanian" = "Rumunština";
+"Dutch" = "Holandština";
+"Slovak" = "Slovensko";
+"Latvian" = "Lotyština";
+"Norwegian Bokmal" = "Norština (Bokmal)";
+"Swedish" = "Švédština";
+
+"Change_Theme" = "Aplikuji motiv…";
+
+"FullAccess_Tip" = "Povolte úplný přístup pro chytré předpovědi";
+"Full_Now" = "Potvrzení";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Chcete-li použít tento motiv, pak si zdarma nainstalujte Cheetah Keyboard";
+"Get_it_now_No_Ads" = "Získejte nyní, (Bez reklam)";
+"FREE_INSTALL" = "INSTALOVAT";
+"NOT_NOW" = "NYNÍ NE";
+
+"Sound" = "Zvuk";
+"Auto_caps" = "Automaticky velká písmena";
+"Settings" = "Nastavení";
+"Gesture\ntyping" = "Psaní\npotažením";
+"Auto Capitalization:Enabled" = "Automaticky velká písmena: Povoleno";
+"Auto Capitalization:Disabled" = "Automaticky velká písmena: Zakázáno";
+"Gesture Typing is on" = "Psaní gesty je zapnuto";
+"Gesture Typing is off" = "Psaní gesty je vypnuto";
+
+"Turn up the phone's volume for a larger sound" = "Zvyšte hlasitost telefonu a získejte větší zvuk";
+"Allow Full Access for Voice Key" = "Povolit úplný přístup pro Voice Key";
+
+"Net_Error" = "Chyba sítě. Zkontrolujte to prosím.";
+"LoadNoMoreData_tip" = "Dnešní motiv byl aktualizován. Přijďte a zkontrolujte více zítra.";
+"Default_Theme" = "Výchozí motiv";
+"Daily_New_Theme" = "Denně nový motiv";
+"Error_Refresh" = "Chyba sítě, obnovte prosím.";
+
+"DOWNLOAD" = "STÁHNOUT";
+"UPDATE" = "AKTUALIZOVAT";
+"Update_Available" = "Dostupná aktualizace";
+"Download_failed_please_check_your_network" = "Stahování se nezdařilo. Zkontrolujte prosím svou síť";
+"Love_Cheetah_Keyboard" = "Máte rádi aplikaci Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Klepněte a dlouze stiskněte mezerník, rychle zvolte emodži! 😆";
+"Try_Keyboard" = "Vyzkoušejte nyní svou klávesnici";
+
+"Slide right or left to move the cursor" = "Potažením prstem doprava nebo doleva posunujte kurzor";
+"Allow Full Access for cursor" = "Povolte úplný přístup pro kurzor";
+
+"Full Access to try funny AR-Emoticons feature" = "Úplný přístup ke kameře, abyste si mohli užívat zábavnou funkci AR-Emodži.";
+"Emoticon Paste" = "Zkopírováno! Nyní to vložte do textového pole chatovací aplikace a sdílejte se světem!";
+
+"Switch_to_Cheetah_Keyboard" = "Přepněte se na 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Skvělé tipy, které nemůžete zmeškat💡";
+"Customized_themes_just_for_you" = "Přizpůsobené motivy jen pro vás🎉";
+"Allow_notifycation_you_will_get_this_function" = "Povolit oznámení o službách sledování";
+
+"Just_for_you" = "Jen pro vás💖";
+"Tips_Send_Emoji" = "Tipy: Posílejte emoji😛";
+"Tips_Swipe_Typing" = "Tipy: Pište potažením prstem👆";
+"So_many_themes" = "Tolik motivů😍";
+"Tips_Auto_Correct_words" = "Tipy: Automaticky opravujte slova💯";
+"Coolest_3D_Keyboard" = "Nejskvělejší 3D klávesnice🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Všechny bezplatné motivy nyní čekají na vás🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Držte mezerník a odesílejte emoji rychle!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Zkuste psát slova rychle potažením prstem přes písmena!🙋";
+"Download_New_theme_everyday" = "Stahujte si každý den nové motivy!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Pište rychle a my vám pomůžeme automaticky opravovat slova.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Rychlá animace s ohromujícími zářivými tlačítky!👀";
+"Emoji" = "Emodži";
+"AR-Emoticon" = "AR-Emodži";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Toto unikátní doporučení je založeno na umělé inteligenci a učilo se z velkého objemu dat. 😎";
+// iMessage
+"iMessage_Tip" = "Tipy: Klepnutím na GIF ho odešlete svým přátelům!";
+"Before_you_go" = "⚠Než odejdete";
+"Come_back_this_app_after_you" = "Po přidání klávesnice se vraťte zpět k této aplikaci. Máme pro vás spoustu úžasných motivů!";
+"Got_it" = "ROZUMÍM";
+
+
+//1.10
+"Tab_Discovery" = "ODHALENÍ";
+"iMessage_Gif_Tip" = "GIFy můžete sdílet se svými kamarády pomocí aplikace iMessage. Sdílejte nyní!";
+
+
+"Setting_CheetahKey" = "Nastavení > CheetahKey";
+"Keyboards" = "Klávesnice";
+"WINK, SMILE or MOVE your head. Whatever you like." = "MRKNĚTE, USMĚJTE SE nebo HÝBEJTE hlavou. Cokoliv se vám líbí.";
+"This allows you to record videos to create AR-Emoticons." = "Toto umožňuje nahrávat videa pro tvorbu AR-Emodži.";
+"Don’t ALLOW" = "NEPOVOLIT";
+"Record Videos with CheetahKey" = "Nahrávat videa pomocí CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Povolte přístup ke kameře, abyste mohli začít nahrávat videa pomocí CheetahKey.";
+"Allow Camera Access" = "Povolit přístup ke kameře";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "NYNÍ můžete v Cheetah Keyboard používat AR-Emodži!";
+"Oops... an error occurred. Please try again." = "Jejda… nastala chyba. Zkuste to prosím znovu.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "Povolení úplného přístupu v systému iOS zajistí úspěšné přepínání motivů.";
+"Full_Access_Now" = "Povolit úplný přístup";
+"Custom" = "Vlastní motivy";
+"See_All" = "Zobrazit vše";
+"Do you want to save this theme?" = "Uložit tento motiv?";
+"Switch to next keyboard" = "Přepnout klávesnici";
+"Setting" = "Nastavení";
+"DIY" = "Vlastní motiv";
+"Allow access to your photos to customize themes with CheetahKey?" = "Povolte přístup k fotografiím, abyste si mohli s aplikací CheetahKey přizpůsobit motivy?";
+"Done" = "Hotovo";
+"Do you want to save this theme?" = "Uložit tento motiv?";
+"Get Start" = "Spustit nyní";
+"Back" = "Zpět";
+"Custome_Theme" = "Vlastní motiv🌝";
+"Create_your" = "Můžete si navrhnout a vytvořit vlastní úžasnou klávesnici! Vyzkoušejte to NYNÍ!💅";
+"Express your styles in more than words" = "Najděte s námi svou oblíbenou klávesnici";
+"Arabic" = "Arabština";
+"Custome Theme" = "Vlastní motiv";
+"Do you want to cancel this theme?" = "Odejít bez uložení změn?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Povolte přístup k fotografiím, abyste si mohli s aplikací CheetahKey přizpůsobit motivy?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "Aplikace CheetahKey chce přistoupit k vašim fotografiím. To vám umožní používat fotografie k přizpůsobení motivů.";
+"APPLY" = "APLIKOVAT";
+"EDIT" = "UPRAVIT";
+
+//1.12
+"Copy_Gif_Tip" = "Zkopírováno. Dlouhým stisknutím výše vložte.";
+"Gif_Full_Access_Tip" = "Povolte úplný přístup, abyste si užili funkci zábavných GIFů.";
+"Delete_this_theme" = "Odstranit tento motiv?";
+"Custom_Theme_Edit" = "Upravit";
+
+"All_premium_themes" = "Všechny prémiové motivy";
+"All_DIY_themes" = "Všechny motivy Udělejte si sami";
+"All_AR-Emoji" = "Všechna AR-emodži";
+"All_GIFs" = "Všechny GIFy";
+
+
+"UNlock" = "Odemknout";
+"Restore" = "OBNOVIT";
+"iapp_month_title" = "%@/MĚSÍC\n3DENNÍ ZKUŠEBNÍ VERZE ZDARMA";
+"iapp_year_title" = "%@/ROK\nV PRŮMĚRU %@/MĚSÍC";
+"iapp_year_privacy1" = "Po potvrzení nákupu bude platba účtována na účet iTunes. Předplatné se automaticky obnovuje, pokud není automatické obnovení vypnuto nejméně 24 hodin před koncem aktuálního období. Náklady na obnovení budou určeny a účtovány během 24 hodin před koncem stávajícího období. Uživatel může spravovat předplatné a vypnout automatické obnovení tak, že po zakoupení přejde do Nastavení účtu uživatele. Jakákoli nevyužitá část bezplatného zkušebního období propadne, když uživatel zakoupí předplatné této publikace. Další informace naleznete v našich dokumentech";
+"iapp_year_privacy2" = " Podmínky služby";
+"iapp_year_privacy3" = " a";
+"iapp_year_privacy4" = " Zásady ochrany osobních údajů.";
+"try_again" = "Zkuste to znovu";
+"no_network" = "Žádná síť";
+"no_network_content" = "Nejste připojeni k internetu. Připojte se a zkuste to znovu.";
+"slow_network" = "Slabý signál";
+"slow_network_content" = "Najděte rychlejší připojení.";
+"restore_fail_title" = "Obnovení se nezdařilo";
+"restore_fail_content" = "Neexistují žádné položky dostupné pro obnovení.";
+"iapp_month_btn" = "%@/MĚSÍC";
+"iapp_year_btn" = "3DENNÍ ZKUŠEBNÍ DOBA\nPOTÉ %@/ROK";

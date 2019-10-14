@@ -1,0 +1,50 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 4,
+          "height" : 65
+        },
+        "cap-insets" : {
+          "bottom" : 36,
+          "top" : 13,
+          "right" : 39,
+          "left" : 42
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "Artboar Copy.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 4,
+          "height" : 95
+        },
+        "cap-insets" : {
+          "bottom" : 62,
+          "top" : 33,
+          "right" : 64,
+          "left" : 75
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "Artboar.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

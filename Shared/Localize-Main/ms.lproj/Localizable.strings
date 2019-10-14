@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Tambah CheetahKey";
+"Go_to" = "Pergi ke ";
+"Settings_General_Keyboard" = "Tetapan > Umum > Papan Kekunci";
+"Tap" = "Ketik ";
+"Add_New_Keyboard" = "Tambah Papan Kekunci Baharu";
+"Tap_the_button_means_you_agree_to_our" = "Mengetik pada butang bermakna anda bersetuju dengan ";
+"Allow_Full_Access" = "Benarkan Akses Sepenuhnya";
+"Skip" = "Langkau";
+"Allow" = "Benarkan";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard tidak AKAN mengumpulkan data peribadi";
+"English_US" = "Bahasa Inggeris";
+"Emoji" = "Emoji";
+"Long_press_and_hold" = "Tekan lama dan tahan";
+"to_switch_to" = "untuk menukar ke ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Maklum Balas";
+"FeedbackPlaceholder" = "Anda dan pandangan anda adalah penting bagi kami, sila kongsikannya bersama kami agar kami dapat menjadikan aplikasi kami lebih baik!";
+"E-Mail_Address" = "Alamat E-mel Anda";
+"Send" = "Hantar";
+"Choose_from_library" = "Import Tangkapan Skrin daripada Foto";
+"Cancel" = "Batalkan";
+"No_access" = "Anda telah mematikan akses ke Foto. Sila hidupkannya dalam Tetapan untuk mengimport tangkapan skrin";
+"OK" = "OK";
+"FeedbackSuccess" = "Berjaya dihantar";
+"FeedbackFail" = "Gagal menghantar maklum balas";
+"ServicesPrivacy" = "Terma Perkhidmatan & Dasar Privasi";
+"noNet" = "Rangkaian ralat, sila cuba sebentar lagi";
+"netError" = "Gagal dilancarkan";
+
+"E_mail" = "E-mel";
+"Terms_of_Services_Privacy_Policy" = "Terma Perkhidmatan & Dasar Privasi";
+"Version" = "Versi";
+"About" = "Tentang";
+"Add_Now" = "Tambah sekarang";
+
+"User_Agreement" = "Perjanjian Pengguna kami";
+"Languages" = "Bahasa";
+"Perferences" = "Am";
+"Auto_capitalization" = "Penghurufbesaran automatik";
+"openSound" = "Bunyi Tekan Kekunci";
+"openKeyboardSound" = "Mainkan bunyi ketika menaip";
+
+"vibration_enable" = "Getaran Tekanan Kekunci";
+"vibration_enable_description" = "Getaran ketika menaip";
+
+"keypress sound volume" = "Kelantangan bunyi tekan kekunci";
+"keypress vibration" = "Getaran tekanan kekunci";
+
+"Double_space_Period" = "Tempoh jarak berganda";
+"Double_tap_on_spacebar_inserts_a_period" = "Dwiketik bar jarak akan memasukkan titik diikuti dengan jarak";
+"Capitalize_the_first_word_of_each_sentence" = "Besarkan perkataan pertama setiap ayat";
+
+"Swipe Typing" = "Taipan Leret";
+"Input a word by sliding through the letters" = "Input perkataan dengan menggelangsar melalui huruf";
+"Allow_Now" = "Benarkan Sekarang";
+"Text_Correction" = "Pembetulan teks";
+"Show_correction_suggestions" = "Tunjukkan cadangan pembetulan";
+
+"Display_suggested_word_while_typing" = "Paparkan cadangan perkataan semasa menaip";
+"Auto_correction_suggestions" = "Cadangan pembetulan automatik";
+"Spacebar_and_punctuation_automatically" = "Bar jarak dan tanda baca secara automatik membetulkan perkataan yang ditaip salah dan perkataan yang tidak lengkap";
+"Next_word_Suggestions" = "Cadangan perkataan seterusnya";
+"Use_the_previous_word" = "Gunakan perkataan sebelumnya dalam membuat cadangan";
+"History_Suggestions" = "Cadangan diperibadikan";
+"Use_the_History_word" = "Gunakan sejarah penaipan dalam membuat cadangan";
+"Check_it_out" = "Cubalah lihat!";
+"General" = "Am";
+"Rate_us" = "Berikan penilaian";
+"THEME" = "TEMA";
+"SETTINGS" = "TETAPAN";
+
+"Spanish" = "Bahasa Sepanyol";
+"English" = "Bahasa Inggeris";
+"Indonesian" = "Bahasa Indonesia";
+"Azerbaijani" = "Bahasa Azerbaijan";
+"Catalan" = "Bahasa Catalan";
+"Czech" = "Bahasa Czech";
+"Danish" = "Bahasa Denmark";
+"German" = "Bahasa Jerman";
+"Estonian" = "Bahasa Estonia";
+"Finnish" = "Bahasa Finland";
+"French" = "Bahasa Perancis";
+"Croatian" = "Bahasa Croatia";
+"Hungarian" = "Bahasa Hungary";
+"Portuguese" = "Bahasa Portugis";
+"Malay" = "Bahasa Melayu";
+"Filipino" = "Bahasa Filipina";
+"Turkish" = "Bahasa Turki";
+"Italian" = "Bahasa Itali";
+"Polish" = "Bahasa Poland";
+"Romanian" = "Bahasa Romania";
+"Dutch" = "Bahasa Belanda";
+"Slovak" = "Bahasa Slovakia";
+"Latvian" = "Bahasa Latvia";
+"Norwegian Bokmal" = "Bahasa Bokmal Norway";
+"Swedish" = "Bahasa Sweden";
+
+"Change_Theme" = "Sedang menggunakan tema…";
+
+"FullAccess_Tip" = "Benarkan Akses Sepenuhnya untuk Ramalan Pintar";
+"Full_Now" = "OK";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Pasang Cheetah Keyboard secara percuma untuk menggunakan tema ini";
+"Get_it_now_No_Ads" = "Dapatkannya sekarang. (Tiada Iklan)";
+"FREE_INSTALL" = "PASANG";
+"NOT_NOW" = "BUKAN SEKARANG";
+
+"GIF" = "GIF";
+
+"Sound" = "Bunyi";
+"Auto_caps" = "Huruf Besar Automatik";
+"Settings" = "Tetapan";
+"Gesture\ntyping" = "Taipan\nLeret";
+"Auto Capitalization:Enabled" = "Huruf Besar Automatik: Didayakan";
+"Auto Capitalization:Disabled" = "Huruf Besar Automatik: Dinyahdayakan";
+"Gesture Typing is on" = "Taipan Leret dihidupkan";
+"Gesture Typing is off" = "Taipan Leret dimatikan";
+
+"Turn up the phone's volume for a larger sound" = "Naikkan volum telefon untuk bunyi lebih kuat";
+"Allow Full Access for Voice Key" = "Benarkan Akses Sepenuhnya untuk Kekunci Suara";
+
+"Net_Error" = "Ralat rangkaian, sila periksa talian.";
+"LoadNoMoreData_tip" = "Tema hari ini telah dikemas kini. Ayuh lihat lebih banyak lagi esok.";
+"Default_Theme" = "Tema Lalai";
+"Daily_New_Theme" = "Tema Baharu Setiap Hari";
+"Error_Refresh" = "Ralat rangkaian, sila segarkan semula.";
+
+"DOWNLOAD" = "MUAT TURUN";
+"UPDATE" = "KEMAS KINI";
+"Update_Available" = "Pengemaskinian Tersedia";
+"Download_failed_please_check_your_network" = "Muat turun gagal. Sila periksa rangkaian anda";
+"Love_Cheetah_Keyboard" = "Sukakan Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Ketik dan tekan lama kekunci ruang anda, pilih emoji dengan cepat!😆";
+"Try_Keyboard" = "Cuba papan kekunci anda sekarang";
+
+"Slide right or left to move the cursor" = "Gelangsarkan ke kanan atau ke kiri untuk menggerakkan kursor";
+"Allow Full Access for cursor" = "Benarkan Akses Sepenuhnya untuk Kursor";
+
+"Full Access to try funny AR-Emoticons feature" = "Akses penuh ke kamera anda untuk menikmati ciri Emoji AR yang melucukan.";
+"Emoticon Paste" = "Telah disalin! Sekarang, tampalkannya ke kotak teks aplikasi perbualan anda untuk dikongsi bersama!";
+
+"Switch_to_Cheetah_Keyboard" = "Tukar ke 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Petua menarik yang anda tidak mahu lepaskan💡";
+"Customized_themes_just_for_you" = "Suaikan tema hanya untuk anda🎉";
+"Allow_notifycation_you_will_get_this_function" = "Benarkan pemberitahuan tentang perkhidmatan berikut";
+
+"Just_for_you" = "Hanya untuk anda💖";
+"Tips_Send_Emoji" = "Petua: Hantar Emoji😛";
+"Tips_Swipe_Typing" = "Petua: Penaipan Meleret👆";
+"So_many_themes" = "Sungguh banyak tema😍";
+"Tips_Auto_Correct_words" = "Petua: Autopembetulan perkataan💯";
+"Coolest_3D_Keyboard" = "Papan Kekunci 3D Paling Sempoi🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Semua tema percuma menanti anda🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Tahan bar jarak untuk menghantar emoji dengan pantas!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Cuba leretkan menerusi huruf-huruf untuk menaip perkataan dengan pantas!🙋";
+"Download_New_theme_everyday" = "Muat turn tema baharu setiap hari!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Taip dengan pantas dan kami akan membantu anda membetulkan perkataan secara automatik.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Animasi yang lancar dengan butang bersinar yang mengagumkan!👀";
+"Emoji" = "Emoji";
+"AR-Emoticon" = "Emoji AR";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Cadangan unik ini dikuasakan oleh AI dan dilatih daripada volum data yang besar. 😎";
+// iMessage
+"iMessage_Tip" = "Petua: Ketik pada GIF untuk menghantarnya kepada kawan anda!";
+"Before_you_go" = "⚠️Sebelum anda pergi";
+"Come_back_this_app_after_you" = "Kembali ke aplikasi ini selepas anda menambah papan kekunci. Kami ada banyak tema menakjubkan untuk anda!";
+"Got_it" = "GOT IT";
+
+
+//1.10
+"Tab_Discovery" = "PENEMUAN";
+"iMessage_Gif_Tip" = "Anda boleh berkongsi GIF dengan kawan-kawan anda melalui iMessage. Kongsi sekarang!";
+
+
+"Setting_CheetahKey" = "Tetapan > CheetahKey";
+"Keyboards" = "Papan Kekunci";
+"WINK, SMILE or MOVE your head. Whatever you like." = "KENYIT, SENYUM atau GERAKKAN kepala anda. Apa sahaja yang anda suka.";
+"This allows you to record videos to create AR-Emoticons." = "Ini membenarkan anda merakam video untuk mencipta Emoji AR.";
+"Don’t ALLOW" = "Jangan BENARKAN";
+"Record Videos with CheetahKey" = "Rakam Video dengan CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Benarkan akses kepada kamera anda untuk mula merakam video dengan CheetahKey.";
+"Allow Camera Access" = "Benarkan Kamera Akses";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "Anda boleh menggunakan Emoji AR dalam Cheetah Keyboard SEKARANG!";
+"Oops... an error occurred. Please try again." = "Oops… ralat berlaku. Sila cuba lagi.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "Dalam sistem iOS, membenarkan akses sepenuhnya memastikan penukaran tema berjaya.";
+"Full_Access_Now" = "Benarkan Akses Sepenuhnya";
+"Custom" = "Tema Tersuai";
+"See_All" = "Lihat Semua";
+"Do you want to save this theme?" = "Simpan tema ini?";
+"Switch to next keyboard" = "Tukar papan kekunci";
+"Setting" = "Tetapan";
+"DIY" = "Tema Tersuai";
+"Allow access to your photos to customize themes with CheetahKey?" = "Benarkan akses ke foto anda untuk menyuaikan tema dengan CheetahKey?";
+"Done" = "Siap";
+"Do you want to save this theme?" = "Simpan tema ini?";
+"Get Start" = "Mulakan Semua";
+"Back" = "Kembali";
+"Custome_Theme" = "Tema Tersuai🌝";
+"Create_your" = "Anda boleh mereka bentuk dan mencipta sendiri papan kekunci anda yang menakjubkan! Cubalah SEKARANG!💅";
+"Express your styles in more than words" = "Dapatkan Papan Kekunci Kegemaran Anda Dengan Kami";
+"Arabic" = "Bahasa Arabb";
+"Custome Theme" = "Tema Tersuai";
+"Do you want to cancel this theme?" = "Tinggalkan tanpa menyimpan perubahan?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Benarkan akses ke foto anda untuk menyuaikan tema dengan CheetahKey?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "CheetahKey Ingin Mengakses Foto Anda. Ini membolehkan anda menggunakan foto anda untuk menyuaikan tema.";
+"APPLY" = "GUNA";
+"EDIT" = "SUAIKAN";
+
+//1.12
+"Copy_Gif_Tip" = "Telah disalin. Tekan lama di atas untuk menampal.";
+"Gif_Full_Access_Tip" = "Benarkan akses penuh untuk menikmati ciri GIF melucukan.";
+"Delete_this_theme" = "Padamkan tema ini?";
+"Custom_Theme_Edit" = "Sunting";
+
+"All_premium_themes" = "Semua tema premium";
+"All_DIY_themes" = "Semua tema DIY";
+"All_AR-Emoji" = "Semua Emoji AR";
+"All_GIFs" = "Semua GIF";
+
+
+"UNlock" = "Buka Kunci";
+"Restore" = "PULIHKAN";
+"iapp_month_title" = "%@/BULAN \n PERCUBAAN PERCUMA 3 HARI";
+"iapp_year_title" = "%@/TAHUN \n PURATA %@/BULAN";
+"iapp_year_privacy1" = "Pembayaran akan dicaj kepada Akaun iTunes semasa pengesahan pembelian. Langganan akan diperbaharui secara automatik melainkan pembaharuan automatik dimatikan 24 jam sebelum tamat tempoh semasa. Akaun akan dicaj untuk pembaharuan dalam tempoh 24 jam sebelum sebelum tamat tempoh semasa, dan kos pembaharuan akan dikenal pasti. Langganan boleh diuruskan oleh pengguna dan pembaharuan automatik boleh dimatikan dengan pergi ke Tetapan Akaun pengguna selepas pembelian. Mana-mana bahagian yang tidak digunakan daripada tempoh percubaan percuma akan dilucutkan apabila pengguna membeli langganan penerbitan itu. Untuk maklumat lanjut, sila lihat";
+"iapp_year_privacy2" = " Terma Perkhidmatan";
+"iapp_year_privacy3" = " dan";
+"iapp_year_privacy4" = " Dasar Privasi.";
+"try_again" = "Cuba Lagi";
+"no_network" = "Tiada Rangkaian";
+"no_network_content" = "Anda tidak bersambung ke internet. Sila sambungkan dan cuba semula.";
+"slow_network" = "Rangkaian Teruk";
+"slow_network_content" = "Sila dapatkan sambungan lebih laju.";
+"restore_fail_title" = "Pemulihan gagal";
+"restore_fail_content" = "Tiada item tersedia untuk dipulihkan.";
+"iapp_month_btn" = "%@/BULAN";
+"iapp_year_btn" = "PERCUBAAN PERCUMA 3-DAY \nKEMUDIAN %@/TAHUN";

@@ -1,0 +1,200 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "";
+"Go_to" = "";
+"Settings_General_Keyboard" = "";
+"Tap" = "";
+"Add_New_Keyboard" = "";
+"Cheetah_Keyboard" = "";
+"Tap_the_button_means_you_agree_to_our" = "";
+"Allow_Full_Access" = "";
+"Skip" = "";
+"Allow" = "";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "";
+"English_US" = "";
+"Emoji" = "";
+"Cheetach_Keyboard" = "";
+"Long_press_and_hold" = "";
+"to_switch_to" = "";
+"CHEETAH_KEYBOARD" = "";
+
+"Feedback" = "";
+"FeedbackPlaceholder" = "Your feedback is important to us. Please share with us so that we can make our App better!";
+"E-Mail_Address" = "Your E-Mail Address";
+"Send" = "Send";
+"Choose_from_library" = "Import Screenshots from Photos";
+"Cancel" = "Cancel";
+"No_access" = "You have turned off the access to Photos. Please turn it on in Settings to import screenshots";
+"OK" = "OK";
+"FeedbackSuccess" = "Sent successfully";
+"FeedbackFail" = "Failed to send feedback";
+"ServicesPrivacy" = "Terms of Services & Privacy Policy";
+"noNet" = "Network error, please try again";
+"netError" = "Load Failed";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Terms of Services & Privacy Policy";
+"Version" = "Version";
+"About" = "About";
+"Add_Now" = "Add Now";
+
+"User_Agreement" = "User Agreements";
+"Languages" = "Languages";
+"Perferences" = "General";
+"Auto_capitalization" = "Auto-capitalization";
+"openSound" = "Keypress Sound";
+"openKeyboardSound" = "Play sounds while typing";
+
+"vibration_enable" = "Keypress Vibration";
+"vibration_enable_description" = "Vibration while typing";
+
+"keypress sound volume" = "Keypress sound volume";
+"keypress vibration" = "Keypress vibration";
+
+"Double_space_Period" = "Double-space Period";
+"Double_tap_on_spacebar_inserts_a_period" = "Double tap spacebar inserts a period followed by a space";
+"Capitalize_the_first_word_of_each_sentence" = "Capitalize the first word of each sentence";
+
+"Swipe Typing" = "Swipe Typing";
+"Input a word by sliding through the letters" = "Input a word by sliding through the letters";
+"Allow_Now" = "Allow Now";
+"Text_Correction" = "Text Correction";
+"Show_correction_suggestions" = "Show Correction Suggestions";
+
+"Display_suggested_word_while_typing" = "Display suggested words while typing";
+"Auto_correction_suggestions" = "Auto-correction Suggestions";
+"Spacebar_and_punctuation_automatically" = "Spacebar and punctuation automatically correct mistyped words and unfinished words";
+"Next_word_Suggestions" = "Next-word Suggestions";
+"Use_the_previous_word" = "Use the previous words in making suggestions";
+"History_Suggestions" = "Personalized Suggestions";
+"Use_the_History_word" = "Use typing history in making suggestions";
+"Check_it_out" = "Check it out!";
+"General" = "General";
+"Rate_us" = "Rate Us";
+"THEME" = "THEMES";
+"SETTINGS" = "SETTINGS";
+
+"Spanish" = "Spanish";
+"English" = "English";
+"Indonesian" = "Indonesian";
+"Azerbaijani" = "Azerbaijani";
+"Catalan" = "Catalan";
+"Czech" = "Czech";
+"Danish" = "Danish";
+"German" = "German";
+"Estonian" = "Estonian";
+"Finnish" = "Finnish";
+"French" = "French";
+"Croatian" = "Croatian";
+"Hungarian" = "Hungarian";
+"Portuguese" = "Portuguese";
+"Malay" = "Malay";
+"Filipino" = "Filipino";
+"Turkish" = "Turkish";
+"Italian" = "Italian";
+"Polish" = "Polish";
+"Romanian" = "Romanian";
+"Dutch" = "Dutch";
+"Slovak" = "Slovak";
+"Latvian" = "Latvian";
+"Norwegian Bokmal" = "Norwegian Bokmal";
+"Swedish" = "Swedish";
+
+"Change_Theme" = "Applying theme…";
+
+"FullAccess_Tip" = "Allow Full Access for Smart Prediction";
+"Full_Now" = "OK";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Install Cheetah Keyboard for free to apply this theme";
+"Get_it_now_No_Ads" = "Get it now. (No Ads)";
+"FREE_INSTALL" = "INSTALL";
+"NOT_NOW" = "NOT NOW";
+
+
+
+"Sound" = "Sound";
+"Auto_caps" = "Auto Caps";
+"Settings" = "Settings";
+"Gesture\ntyping" = "Swipe\nTyping";
+"Auto Capitalization:Enabled" = "Auto Capitalization: Enabled";
+"Auto Capitalization:Disabled" = "Auto Capitalization: Disabled";
+"Gesture Typing is on" = "Swipe Typing is on";
+"Gesture Typing is off" = "Swipe Typing is off";
+
+"Turn up the phone's volume for a larger sound" = "Turn up the phone's volume for a larger sound";
+"Allow Full Access for Voice Key" = "Allow Full Access for Voice Key";
+
+"Net_Error" = "Network error, please check it.";
+"LoadNoMoreData_tip" = "Today's theme has been updated. Come and check out more tomorrow.";
+"Default_Theme" = "Default Theme";
+"Daily_New_Theme" = "Daily New Theme";
+"Error_Refresh" = "Network error, please refresh.";
+
+"DOWNLOAD" = "DOWNLOAD";
+"UPDATE" = "UPDATE";
+"Update_Available" = "Update Available";
+"Download_failed_please_check_your_network" = "Download failed. Please check your network";
+"Love_Cheetah_Keyboard" = "Love Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Tap and long press your space key, choose an emoji quickly!😆";
+"Try_Keyboard" = "Try your keyboard now";
+
+"Slide right or left to move the cursor" = "Slide right or left to move the cursor";
+"Allow Full Access for cursor" = "Allow Full Access for Cursor";
+
+"Full Access to try funny AR-Emoticons feature" = "Full access to your camera to enjoy the funny AR-Emoticons feature.";
+"Emoticon Paste" = "Copied! Now paste it to the textbox of your chat apps to share around!";
+
+"Switch_to_Cheetah_Keyboard" = "Switch to 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Cool tips that you can't miss💡";
+"Customized_themes_just_for_you" = "Customized themes just for you🎉";
+"Allow_notifycation_you_will_get_this_function" = "Allow notifications about the following services";
+
+"Just_for_you" = "Just for you💖";
+"Tips_Send_Emoji" = "Tips: Send Emojis😛";
+"Tips_Swipe_Typing" = "Tips: Swipe Typing👆";
+"So_many_themes" = "So many themes😍";
+"Tips_Auto_Correct_words" = "Tips: Auto correct words💯";
+"Coolest_3D_Keyboard" = "Coolest 3D Keyboard🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "All free themes are waiting for you now🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Hold spacebar to send emojis quickly!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Try swipe through letters to type words fast!🙋";
+"Download_New_theme_everyday" = "Download new themes everyday!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Type fast and we will help you correct words automatically.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Smooth animation with impressive glowing buttons!👀";
+"Emoji" = "Emoji";
+"AR-Emoticon" = "AR-Emoticon";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "This unique suggestion is powered by AI and trained from huge volumes of data. 😎";
+// iMessage
+"iMessage_Tip" = "Tips: Tap a GIF to send it to your friends!";
+"Before_you_go" = "⚠️Before you go";
+"Come_back_this_app_after_you" = "Come back to this app after you've added the keyboard. We have got lots of amazing themes for you!";
+"Got_it" = "Got it";
+
+
+//1.10
+"Tab_Discovery" = "DISCOVERY";
+"iMessage_Gif_Tip" = "You can share GIFs with your friends via iMessage. Share now!";
+
+
+"Setting_CheetahKey" = "Settings > CheetahKey";
+"Keyboards" = "Keyboards";
+"WINK, SMILE or MOVE your head. Whatever you like." = "WINK, SMILE or MOVE your head. Whatever you like.";
+"This allows you to record videos to create AR-Emoticons." = "This allows you to record videos to create AR-Emoticons.";
+"Don’t ALLOW" = "Don't ALLOW";
+"Record Videos with CheetahKey" = "Record Videos with CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Allow access to your camera to start recording videos with CheetahKey.";
+"Allow Camera Access" = "Allow Camera Access";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "You can use the AR-Emoticons in your Cheetah Keyboard NOW!";
+"Oops... an error occurred. Please try again." = "Oops... an error occurred. Please try again.";
+

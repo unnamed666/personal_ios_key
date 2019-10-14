@@ -1,0 +1,110 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+
+"Add_Cheetah_Keyboard" = "Dodaj klawiaturę Hologram Keyboard";
+"Go_to" = "Przejdź do ";
+"Settings_General_Keyboard" = "Ustawienia > Ogólne > Klawiatura";
+"Tap" = "Dotknij ";
+"Add_New_Keyboard" = "Dodaj nową klawiaturę";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Dotknięcie przycisku oznacza, że akceptujesz ";
+"Allow_Full_Access" = "Zezwól na pełny dostęp";
+"Skip" = "Pomiń";
+"Allow" = "Zezwól";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard NIE gromadzi żadnych prywatnych danych";
+"English_US" = "Angielski";
+"Emoji" = "Emotikony";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Naciśnij i przytrzymaj dłużej";
+"to_switch_to" = "by zmienić klawiaturę na ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Opinia";
+"FeedbackPlaceholder" = "Ty i Twoje opinie są dla nas ważne. Podziel się nimi z nami, abyśmy mogli ulepszać tę aplikację!";
+"E-Mail_Address" = "Twój adres e-mail";
+"Send" = "Wyślij";
+"Choose_from_library" = "Importuj zrzuty ekranu ze Zdjęć";
+"Cancel" = "Anuluj";
+"No_access" = "Wyłączyłeś dostęp do Zdjęć. Włącz go w Ustawieniach, by importować zrzuty ekranu";
+"OK" = "OK";
+"FeedbackSuccess" = "Wysłano pomyślnie";
+"FeedbackFail" = "Nie udało się wysłać informacji zwrotnej";
+"ServicesPrivacy" = "Warunki użytkowania & Polityka prywatności";
+"noNet" = "Błąd sieci, prosimy spróbować ponownie później";
+"netError" = "Błąd ładownia";
+
+
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Warunki użytkowania & Polityka prywatności";
+"Version" = "Wersja";
+"About" = "O aplikacji";
+"Add_Now" = "Dodaj teraz";
+
+"User_Agreement" = "Umowy użytkownika";
+"Languages" = "Języki";
+"Perferences" = "Ogólne";
+"Auto_capitalization" = "Wstawiaj wielkie litery";
+"openSound" = "Dźwięk Keypress";
+"openKeyboardSound" = "Odtwarzaj dźwięki pisząc";
+"Capitalize_the_first_word_of_each_sentence" = "Zaczynaj każde zdanie wielką literą";
+
+"Swipe Typing" = "Pisz przesuwając";
+"Input a word by sliding through the letters" = "Wpisuj słowa, przesuwając palcem po literach";
+"Allow_Now" = "Zezwól teraz";
+"Text_Correction" = "Korekta tekstu";
+"Show_correction_suggestions" = "Pokazuj propozycje poprawek";
+"Display_suggested_word_while_typing" = "Wyświetlaj proponowane słowa podczas wpisywania";
+"Auto_correction_suggestions" = "Propozycje autokorekty";
+"Spacebar_and_punctuation_automatically" = "Spacja i znaki interpunkcyjne automatycznie poprawiają błędnie napisane i niedokończone słowa";
+"Next_word_Suggestions" = "Podpowiadaj kolejne słowo";
+"Use_the_previous_word" = "Pokazuj podpowiedzi na podstawie poprzedniego słowa";
+"History_Suggestions" = "Spersonalizowane sugestie";
+"Use_the_History_word" = "Użyj historii wpisywania do tworzenia podpowiedzi";
+"Check_it_out" = "Sprawdź to!";
+"General" = "Ogólne";
+"Rate_us" = "Oceń nas";
+"THEME" = "MOTYW";
+"SETTINGS" = "USTAWIENIA";
+
+"Spanish" = "Hiszpański";
+"English" = "Angielski";
+"Indonesian" = "Indonezyjski";
+"Azerbaijani" = "Azerski";
+"Catalan" = "Kataloński";
+"Czech" = "Czechy";
+"Danish" = "Duński";
+"German" = "Niemiecki";
+"Estonian" = "Estoński";
+"Finnish" = "Fiński";
+"French" = "Francuski";
+"Croatian" = "Chorwacki";
+"Hungarian" = "Węgierski";
+"Portuguese" = "Portugalski";
+"Malay" = "Malajski";
+"Filipino" = "Filipiński";
+"Turkish" = "Turecki";
+"Italian" = "Włoski";
+"Polish" = "Polski";
+"Romanian" = "Rumuński";
+"Dutch" = "Niderlandzki";
+"Slovak" = "Słowacja";
+"Latvian" = "Łotewski";
+"Norwegian Bokmal" = "Norweski bokmål";
+"Swedish" = "Szwedzki";
+
+"Change_Theme" = "Trwa zastosowywanie motywu…";
+
+"FullAccess_Tip" = "Zezwól na pełny dostęp dla podpowiedzi chmury";
+"Full_Now" = "Zezwól teraz";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Zainstaluj za darmo Cheetah Keyboard, aby zastosować ten motyw";
+"Get_it_now_No_Ads" = "Pobierz teraz. (Bez reklam)";
+"FREE_INSTALL" = "ZAINSTALUJ";
+"NOT_NOW" = "NIE TERAZ";

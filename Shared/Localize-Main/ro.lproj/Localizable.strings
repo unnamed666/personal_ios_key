@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Adaugă CheetahKey";
+"Go_to" = "Mergi la ";
+"Settings_General_Keyboard" = "Setări > Generale > Tastatură";
+"Tap" = "Atinge ";
+"Add_New_Keyboard" = "Adaugă tastatură nouă";
+"Tap_the_button_means_you_agree_to_our" = "Dacă atingi butonul, înseamnă că ești de acord cu ";
+"Allow_Full_Access" = "Permite accesul deplin";
+"Skip" = "Treci peste";
+"Allow" = "Permitere";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard NU va colecta date personale";
+"English_US" = "Engleză";
+"Emoji" = "Emoji";
+"Long_press_and_hold" = "Apasă lung și ține apăsat";
+"to_switch_to" = "pentru a comuta la ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Feedback";
+"FeedbackPlaceholder" = "Tu şi opiniile tale sunteți importante pentru noi aşa că te rugăm să le partajezi cu noi, astfel încât să putem face aplicaţia noastră mai bună!";
+"E-Mail_Address" = "Adresa ta de e-mail";
+"Send" = "Trimiteți";
+"Choose_from_library" = "Importă capturi de ecran din Fotografii";
+"Cancel" = "Anulare";
+"No_access" = "Ai dezactivat accesul la Fotografii. Te rugăm să îl activezi din Setări pentru a importa capturi de ecran";
+"OK" = "OK";
+"FeedbackSuccess" = "Trimis cu succes";
+"FeedbackFail" = "Eroare la trimiterea feedback-ului";
+"ServicesPrivacy" = "Termenii de utilizare & Politica de confidențialitate";
+"noNet" = "Eroare rețea, încercați mai târziu";
+"netError" = "Încărcare nereușită";
+
+"E_mail" = "E-mail";
+"Terms_of_Services_Privacy_Policy" = "Termenii de utilizare & Politica de confidențialitate";
+"Version" = "Versiune";
+"About" = "Despre";
+"Add_Now" = "Adaugă acum";
+
+"User_Agreement" = "Acord de utilizare";
+"Languages" = "Limbi";
+"Perferences" = "Generale";
+"Auto_capitalization" = "Scriere automată cu majuscule";
+"openSound" = "Sunet de tastare";
+"openKeyboardSound" = "Emite sunete în timp ce tastezi";
+
+"vibration_enable" = "Vibrație la apăsarea tastelor";
+"vibration_enable_description" = "Vibrații când tastezi";
+
+"keypress sound volume" = "Sunet la apăsarea tastelor";
+"keypress vibration" = "Vibrație la apăsarea tastelor";
+
+"Double_space_Period" = "Inserează punct spațiu";
+"Double_tap_on_spacebar_inserts_a_period" = "Dubla apăsare pe bara de spațiu inserează un punct urmat de spațiu";
+"Capitalize_the_first_word_of_each_sentence" = "Scrie cu majusculă primul cuvânt din fiecare propoziție";
+
+"Swipe Typing" = "Tastare prin glisare";
+"Input a word by sliding through the letters" = "Introduceți un cuvânt glisând ușor între litere";
+"Allow_Now" = "Permite acum";
+"Text_Correction" = "Corectarea textului";
+"Show_correction_suggestions" = "Afișați sugestii de corectare";
+
+"Display_suggested_word_while_typing" = "Afișează sugestii de cuvinte în timpul introducerii textului";
+"Auto_correction_suggestions" = "Sugestii de autocorecție";
+"Spacebar_and_punctuation_automatically" = "Bara de spațiu și punctuația corectează automat cuvintele tastate greșit și cuvintele neterminate";
+"Next_word_Suggestions" = "Sugestii pentru cuvântul următor";
+"Use_the_previous_word" = "Utilizează cuvântul anterior pentru sugestii";
+"History_Suggestions" = "Sugestii personalizate";
+"Use_the_History_word" = "Utilizează istoricul de tastare la sugestii";
+"Check_it_out" = "Testează!";
+"General" = "Generale";
+"Rate_us" = "Evaluează-ne";
+"THEME" = "TEMA";
+"SETTINGS" = "SETĂRI";
+
+"Spanish" = "Spaniolă";
+"English" = "Engleză";
+"Indonesian" = "Indoneziană";
+"Azerbaijani" = "Azeră";
+"Catalan" = "Catalană";
+"Czech" = "Republica Cehă";
+"Danish" = "Daneză";
+"German" = "Germană";
+"Estonian" = "Estoniană";
+"Finnish" = "Finlandeză";
+"French" = "Franceză";
+"Croatian" = "Croată";
+"Hungarian" = "Maghiară";
+"Portuguese" = "Portugheză";
+"Malay" = "Malaeziană";
+"Filipino" = "Filipineză";
+"Turkish" = "Turcă";
+"Italian" = "Italiană";
+"Polish" = "Poloneză";
+"Romanian" = "Română";
+"Dutch" = "Olandeză";
+"Slovak" = "Slovacia";
+"Latvian" = "Letonă";
+"Norwegian Bokmal" = "Norvegiană Bokmal";
+"Swedish" = "Suedeză";
+
+"Change_Theme" = "Se aplică tema...";
+
+"FullAccess_Tip" = "Permite accesul complet pentru Predicție inteligentă";
+"Full_Now" = "OK";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Instalează gratuit Cheetah Keyboard pentru a aplica această temă";
+"Get_it_now_No_Ads" = "Obține-o acum. (Fără reclame)";
+"FREE_INSTALL" = "INSTALAŢI";
+"NOT_NOW" = "NU ACUM";
+
+"GIF" = "GIF";
+
+"Sound" = "Sunet";
+"Auto_caps" = "Majuscule automate";
+"Settings" = "Setări";
+"Gesture\ntyping" = "Tastare\n prin glisare";
+"Auto Capitalization:Enabled" = "Scriere automată cu majuscule: Activată";
+"Auto Capitalization:Disabled" = "Scriere automată cu majuscule: Dezactivată";
+"Gesture Typing is on" = "Tastarea prin glisare este pornită";
+"Gesture Typing is off" = "Tastarea prin glisare este oprită";
+
+"Turn up the phone's volume for a larger sound" = "Mărește volumul telefonului pentru un sunet mai amplu";
+"Allow Full Access for Voice Key" = "Permite accesul complet pentru tasta de voce";
+
+"Net_Error" = "Eroare de rețea, te rugăm să o verifici.";
+"LoadNoMoreData_tip" = "Tema de azi a fost actualizată. Vino să vezi mai multe mâine.";
+"Default_Theme" = "Tema implicită";
+"Daily_New_Theme" = "Tema nouă zilnică";
+"Error_Refresh" = "Eroare de rețea, te rugăm să reîmprospătezi.";
+
+"DOWNLOAD" = "DESCĂRCARE";
+"UPDATE" = "ACTUALIZARE";
+"Update_Available" = "Actualizare disponibilă";
+"Download_failed_please_check_your_network" = "Descărcarea a eșuat. Te rugăm să îți verifici rețeaua";
+"Love_Cheetah_Keyboard" = "Îți place Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Apasă prelung pe tasta spațiu și alege rapid un emoji!😆";
+"Try_Keyboard" = "Încearcă-ți tastatura acum";
+
+"Slide right or left to move the cursor" = "Glisează spre dreapta sau spre stânga pentru a muta cursorul";
+"Allow Full Access for cursor" = "Permite accesul complet pentru Cursor";
+
+"Full Access to try funny AR-Emoticons feature" = "Acces total la camera ta foto, ca să te bucuri de amuzanta funcție AR-Emoji.";
+"Emoticon Paste" = "Copiat! Acum lipește-l în căsuța de text a aplicațiilor tale de chat ca să-l trimiți oricui vrei!";
+
+"Switch_to_Cheetah_Keyboard" = "Treci la 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Sfaturi grozave pe care nu le poți rata💡";
+"Customized_themes_just_for_you" = "Teme personalizate doar pentru tine🎉";
+"Allow_notifycation_you_will_get_this_function" = "Permite notificările despre următoarele servicii";
+
+"Just_for_you" = "Doar pentru tine💖";
+"Tips_Send_Emoji" = "Sfaturi: Trimite emoji😛";
+"Tips_Swipe_Typing" = "Sfaturi: Introdu text prin glisare👆";
+"So_many_themes" = "Foarte multe teme😍";
+"Tips_Auto_Correct_words" = "Sfaturi: Corectare automată💯";
+"Coolest_3D_Keyboard" = "Cea mai grozavă tastatură 3D🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Te așteaptă teme gratuite🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Apasă lung bara de spațiu pentru a trimite emoji-uri rapid!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Încearcă să glisezi peste litere pentru a tasta rapid!🙋";
+"Download_New_theme_everyday" = "Descarcă teme noi în fiecare zi!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Tastează rapid, iar noi te vom ajuta să corectezi cuvintele automat.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Animații frumoase cu butoane strălucitoare impresionante!👀";
+"Emoji" = "Emoji";
+"AR-Emoticon" = "AR-Emoji";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Această sugestie unică este susținută de IA și este bazată pe un volum imens de date. 😎";
+// iMessage
+"iMessage_Tip" = "Sfat: apasă pe un GIF ca să-l trimiți prietenilor!";
+"Before_you_go" = "⚠️Înainte de a pleca";
+"Come_back_this_app_after_you" = "Revino la această aplicație după ce ai adăugat tastatura. Avem foarte multe teme uimitoare pentru tine!";
+"Got_it" = "Am înțeles";
+
+
+//1.10
+"Tab_Discovery" = "DESCOPERIRE";
+"iMessage_Gif_Tip" = "Poți trimite GIF-uri prietenilor tăi prin iMessage. Partajează acum!";
+
+
+"Setting_CheetahKey" = "Setări > CheetahKey";
+"Keyboards" = "Tastaturi";
+"WINK, SMILE or MOVE your head. Whatever you like." = "FĂ CU OCHIUL, ZÂMBEȘTE sau DĂ din cap. Orice ai chef.";
+"This allows you to record videos to create AR-Emoticons." = "Astfel, vei înregistra videoclipuri ca să creezi AR-Emoji.";
+"Don’t ALLOW" = "Nu PERMITE";
+"Record Videos with CheetahKey" = "Înregistrează videoclipuri cu CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Permite accesul la camera foto ca să începi să înregistrezi videoclipuri cu CheetahKey.";
+"Allow Camera Access" = "Permite accesul la camera foto";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "Poți folosi AR-Emoji în Cheetah Keyboard ACUM!";
+"Oops... an error occurred. Please try again." = "Ups… a survenit o eroare. Mai încearcă o dată.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "În sistemul iOS, permiterea accesului complet asigură comutarea temelor.";
+"Full_Access_Now" = "Permite accesul deplin";
+"Custom" = "Teme personalizate";
+"See_All" = "Vezi tot";
+"Do you want to save this theme?" = "Vrei să salvezi această temă?";
+"Switch to next keyboard" = "Comutare tastatură";
+"Setting" = "Setări";
+"DIY" = "Personalizează tema";
+"Allow access to your photos to customize themes with CheetahKey?" = "Permite accesul la fotografiile tale pentru a personaliza teme cu CheetahKey?";
+"Done" = "Realizat";
+"Do you want to save this theme?" = "Vrei să salvezi această temă?";
+"Get Start" = "Pornește acum";
+"Back" = "Înapoi";
+"Custome_Theme" = "Personalizează tema🌝";
+"Create_your" = "Îți poți proiecta și crea propria tastatură uimitoare! Încearcă ACUM!💅";
+"Express your styles in more than words" = "Găsește-ți tastatura prefererată cu ajutorul nostru";
+"Arabic" = "Arabă";
+"Custome Theme" = "Personalizează tema";
+"Do you want to cancel this theme?" = "Pleci fără a salva modificările?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Permite accesul la fotografiile tale pentru a personaliza teme cu CheetahKey?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "CheetahKey vrea să-ți acceseze fotografiile. Aceasta îți permite să-ți folosești fotografiile pentru a personaliza teme.";
+"APPLY" = "APLICARE";
+"EDIT" = "PERSONALIZEAZĂ";
+
+//1.12
+"Copy_Gif_Tip" = "Copiat. Apasă lung deasupra ca să lipești.";
+"Gif_Full_Access_Tip" = "Permite accesul total ca să te distrezi cu amuzanta funcție GIF.";
+"Delete_this_theme" = "Dorești să ștergi această temă?";
+"Custom_Theme_Edit" = "Editați";
+
+"All_premium_themes" = "Toate temele premium";
+"All_DIY_themes" = "Toate temele creație proprie";
+"All_AR-Emoji" = "Toate emoji-urile AR";
+"All_GIFs" = "Toate GIF-urile";
+
+
+"UNlock" = "Deblochează";
+"Restore" = "RESTABILEȘTE";
+"iapp_month_title" = "%@/LUNĂ \n3 ZILE DE ÎNCERCARE GRATIS";
+"iapp_year_title" = "%@/AN \n ÎN MEDIE, %@/LUNĂ";
+"iapp_year_privacy1" = "Plata va fi debitată din contul iTunes la confirmarea achiziției. Abonamentul se reînnoiește automat dacă reînnoirea automată nu este dezactivată cu cel puțin 24 de ore înainte de sfârșitul perioadei actuale. Contul va fi debitat pentru reînnoire în cele 24 de ore de dinaintea încheierii perioadei actuale și va indica costul reînnoirii. Abonamentele pot fi gestionate de utilizator, iar reînnoirea automată poate fi dezactivată accesând Setările contului după achiziție. Toate zilele neutilizate din perioada de încercare gratuită vor fi anulate atunci când utilizatorul achiziționează un abonament la acea publicație. Pentru mai multe informații, consultați";
+"iapp_year_privacy2" = " Condiţii de utilizare";
+"iapp_year_privacy3" = " și";
+"iapp_year_privacy4" = " Politica de confidenţialitate.";
+"try_again" = "Încearcă din nou";
+"no_network" = "Fără rețea";
+"no_network_content" = "Nu ești conectat la internet. Te rugăm să te conectezi și să încerci din nou.";
+"slow_network" = "Rețea slabă";
+"slow_network_content" = "Te rugăm să găsești o conexiune mai rapidă.";
+"restore_fail_title" = "Restabilirea a eșuat";
+"restore_fail_content" = "Nu există elemente care să poată fi reinstalate.";
+"iapp_month_btn" = "%@/LUNĂ";
+"iapp_year_btn" = "3 ZILE DE TESTARE GRATUITĂ \nAPOI %@/AN";

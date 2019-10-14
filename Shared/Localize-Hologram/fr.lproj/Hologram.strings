@@ -1,0 +1,108 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Ajouter Hologram Keyboard";
+"Go_to" = "Allez à";
+"Settings_General_Keyboard" = "Paramètres > Général > Clavier";
+"Tap" = "Tapoter";
+"Add_New_Keyboard" = "Ajouter un nouveau clavier";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Cliquer sur le bouton signifie que vous adhérez à notre";
+"Allow_Full_Access" = "Autoriser un accès complet";
+"Skip" = "Passer";
+"Allow" = "Autoriser";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard ne recueillera AUCUNE donnée privée";
+"English_US" = "Anglais";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Pressez longuement et maintenez";
+"to_switch_to" = "pour passer au";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Commentaires";
+"FeedbackPlaceholder" = "Vous et vos avis sont importants pour nous donc veuillez les partager avec nous afin que nous améliorons au mieux notre application !";
+"E-Mail_Address" = "Votre adresse e-mail";
+"Send" = "Suivant";
+"Choose_from_library" = "Importer des captures d'écran à partir des photos";
+"Cancel" = "Annuler";
+"No_access" = "Vous avez désactivé l'accès aux photos. Veuillez l'activer dans les Paramètres pour importer des captures d'écran";
+"OK" = "OK";
+"FeedbackSuccess" = "Envoyer avec succès";
+"FeedbackFail" = "Échec de l'envoi du feedback";
+"ServicesPrivacy" = "Conditions d'Utilisation & Politique de Confidentialité";
+"noNet" = "Erreur de réseau, veuillez réessayer plus tard";
+"netError" = "Chargement échoué";
+
+
+"E_mail" = "Courriel";
+"Terms_of_Services_Privacy_Policy" = "Conditions d'Utilisation & Politique de Confidentialité";
+"Version" = "Version";
+"About" = "À propos";
+"Add_Now" = "Ajouter";
+
+"User_Agreement" = "Contrat d'utilisation";
+"Languages" = "Langues";
+"Perferences" = "Général";
+"Auto_capitalization" = "Majuscules auto";
+"openSound" = "Son de touche";
+"openKeyboardSound" = "Entendre des sons pendant la saisie";
+"Capitalize_the_first_word_of_each_sentence" = "Majuscule au premier mot de chaque phrase";
+
+"Swipe Typing" = "Balayez saisie";
+"Input a word by sliding through the letters" = "Saisir un mot en faisant glisser le doigt sur les lettres";
+"Allow_Now" = "Autoriser maintenant";
+"Text_Correction" = "Correction du texte";
+"Show_correction_suggestions" = "Suggestions de correction";
+"Display_suggested_word_while_typing" = "Afficher les suggestions de terme lors de la saisie";
+"Auto_correction_suggestions" = "Suggestions d'auto- corrections";
+"Spacebar_and_punctuation_automatically" = "La barre d'espace et la ponctuation corrigent automatiquement les mots mal orthographiés et non terminés";
+"Next_word_Suggestions" = "Suggestions pour mot suivant";
+"Use_the_previous_word" = "Utiliser le mot précédent pour les suggestions";
+"History_Suggestions" = "Suggestions personnalisées";
+"Use_the_History_word" = "Utiliser l'historique de saisie pour les suggestions";
+"Check_it_out" = "À découvrir !";
+"General" = "Général";
+"Rate_us" = "Évaluez nous";
+"THEME" = "THÈME";
+"SETTINGS" = "PARAMÈTRES";
+
+"Spanish" = "Espagnol";
+"English" = "Anglais";
+"Indonesian" = "Indonésien";
+"Azerbaijani" = "Azerbaïdjanais";
+"Catalan" = "Catalan";
+"Czech" = "République tchèque";
+"Danish" = "Danois";
+"German" = "Allemand";
+"Estonian" = "Estonien";
+"Finnish" = "Finlandais";
+"French" = "Français";
+"Croatian" = "Croate";
+"Hungarian" = "Hongrois";
+"Portuguese" = "Portuguese";
+"Malay" = "Malay";
+"Filipino" = "Philippin";
+"Turkish" = "Turc";
+"Italian" = "Italien";
+"Polish" = "Polonais";
+"Romanian" = "Roumain";
+"Dutch" = "Néerlandais";
+"Slovak" = "Slovaquie";
+"Latvian" = "Letton";
+"Norwegian Bokmal" = "Norvégien Bokmål";
+"Swedish" = "Suédois";
+
+"Change_Theme" = "Application du thème…";
+
+"FullAccess_Tip" = "Autorisez l'accès total à la saisie intuitive basée sur le cloud";
+"Full_Now" = "Autoriser maintenant";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Installez Cheetah Keyboard gratuit et appliquez ce thème";
+"Get_it_now_No_Ads" = "Téléchargez-le maintenant. (Sans pub)";
+"FREE_INSTALL" = "INSTALLER";
+"NOT_NOW" = "PLUS TARD";

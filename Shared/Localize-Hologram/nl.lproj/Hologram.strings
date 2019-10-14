@@ -1,0 +1,110 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+
+"Add_Cheetah_Keyboard" = "Hologram Keyboard toevoegen";
+"Go_to" = "Ga naar ";
+"Settings_General_Keyboard" = "Instellingen > Algemeen > Toetsenbord";
+"Tap" = "Tik ";
+"Add_New_Keyboard" = "Nieuw toetsenbord toevoegen";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Door op de knop te tikken, ga je akkoord met onze ";
+"Allow_Full_Access" = "Volledige toegang toelaten";
+"Skip" = "Overslaan";
+"Allow" = "Toestaan";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard zal Geen privé gegevens verzamelen";
+"English_US" = "Engels";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Hou lang ingedrukt";
+"to_switch_to" = "om over te schakelen naar ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Feedback";
+"FeedbackPlaceholder" = "U en uw mening zijn belangrijk voor ons! Deel uw problemen met ons, zodat wij onze app kunnen verbeteren!";
+"E-Mail_Address" = "Jouw e-mailadres";
+"Send" = "Verzend";
+"Choose_from_library" = "Screenshots vanaf Foto's importeren";
+"Cancel" = "Annuleren";
+"No_access" = "Je hebt de toegang tot Foto's uitgeschakeld. Schakel bij Instellingen in om screenshots te importeren";
+"OK" = "OK";
+"FeedbackSuccess" = "Succesvol verzonden";
+"FeedbackFail" = "Verzenden van feedback mislukt";
+"ServicesPrivacy" = "Gebruiksvoorwaarden & privacybeleid";
+"noNet" = "Netwerkfout, probeer het later opnieuw";
+"netError" = "Laden mislukt";
+
+
+
+"E_mail" = "E-mailadres";
+"Terms_of_Services_Privacy_Policy" = "Gebruiksvoorwaarden & privacybeleid";
+"Version" = "Version";
+"About" = "Over";
+"Add_Now" = "Nu toevoegen";
+
+"User_Agreement" = "Gebruikersovereenkomst";
+"Languages" = "Talen";
+"Perferences" = "Algemeen";
+"Auto_capitalization" = "Auto-hoofdlettergebruik";
+"openSound" = "Toetsenbordgeluid";
+"openKeyboardSound" = "Speel geluiden bij het typen";
+"Capitalize_the_first_word_of_each_sentence" = "Het eerste woord van elke zin met een hoofdletter schrijven";
+
+"Swipe Typing" = "Swipe-typen";
+"Input a word by sliding through the letters" = "Voer een woord in door van letter naar letter te bewegen";
+"Allow_Now" = "Nu toelaten";
+"Text_Correction" = "Tekstcorrectie";
+"Show_correction_suggestions" = "Correctievoorstellen weergeven";
+"Display_suggested_word_while_typing" = "Voorgestelde woorden weergeven tijdens typen";
+"Auto_correction_suggestions" = "Automatische correctiesuggesties";
+"Spacebar_and_punctuation_automatically" = "Spatiebalk en interpunctie verbeteren automatisch verkeerd getypte en onvolledige woorden";
+"Next_word_Suggestions" = "Suggesties voor volgend woord";
+"Use_the_previous_word" = "Het vorige woord gebruiken bij het doen van suggesties";
+"History_Suggestions" = "Gepersonaliseerde suggesties";
+"Use_the_History_word" = "Gebruik typgeschiedenis voor het maken van suggesties";
+"Check_it_out" = "Bekijk het eens!";
+"General" = "Algemeen";
+"Rate_us" = "Beoordeel ons";
+"THEME" = "THEMA";
+"SETTINGS" = "INSTELLINGEN";
+
+"Spanish" = "Spaans";
+"English" = "Engels";
+"Indonesian" = "Indonesisch";
+"Azerbaijani" = "Azerbeidzjaans";
+"Catalan" = "Catalaans";
+"Czech" = "Tsjechisch";
+"Danish" = "Deens";
+"German" = "Duits";
+"Estonian" = "Ests";
+"Finnish" = "Fins";
+"French" = "Frans";
+"Croatian" = "Kroatisch";
+"Hungarian" = "Hongaars";
+"Portuguese" = "Portugees";
+"Malay" = "Malay";
+"Filipino" = "Filipijns";
+"Turkish" = "Turks";
+"Italian" = "Italiaans";
+"Polish" = "Pools";
+"Romanian" = "Roemeens";
+"Dutch" = "Nederlands";
+"Slovak" = "Slowaaks";
+"Latvian" = "Lets";
+"Norwegian Bokmal" = "Noors Bokmal";
+"Swedish" = "Zweeds";
+
+"Change_Theme" = "Thema wordt toegepast...";
+
+"FullAccess_Tip" = "Volledige toegang verlenen voor Cloud-woordsuggestie";
+"Full_Now" = "Nu toelaten";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Installeer gratis het Cheetah Keyboard om dit thema toe te passen";
+"Get_it_now_No_Ads" = "Nu nemen (geen reclame).";
+"FREE_INSTALL" = "INSTALLEREN";
+"NOT_NOW" = "NIET NU";

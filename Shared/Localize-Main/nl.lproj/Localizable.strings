@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  PandaKeyboard
+
+  Created by Alchemist on 2017/6/5.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "CheetahKey toevoegen";
+"Go_to" = "Ga naar ";
+"Settings_General_Keyboard" = "Instellingen > Algemeen > Toetsenbord";
+"Tap" = "Tik ";
+"Add_New_Keyboard" = "Nieuw toetsenbord toevoegen";
+"Tap_the_button_means_you_agree_to_our" = "Door op de knop te tikken, ga je akkoord met onze ";
+"Allow_Full_Access" = "Volledige toegang toelaten";
+"Skip" = "Overslaan";
+"Allow" = "Toestaan";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Cheetah Keyboard zal Geen privé gegevens verzamelen";
+"English_US" = "Engels";
+"Emoji" = "Emoji";
+"Long_press_and_hold" = "Hou lang ingedrukt";
+"to_switch_to" = "om over te schakelen naar ";
+"CHEETAH_KEYBOARD" = "Cheetah Keyboard";
+
+"Feedback" = "Feedback";
+"FeedbackPlaceholder" = "U en uw mening zijn belangrijk voor ons! Deel uw problemen met ons, zodat wij onze app kunnen verbeteren!";
+"E-Mail_Address" = "Jouw e-mailadres";
+"Send" = "Verzend";
+"Choose_from_library" = "Screenshots vanaf Foto's importeren";
+"Cancel" = "Annuleren";
+"No_access" = "Je hebt de toegang tot Foto's uitgeschakeld. Schakel bij Instellingen in om screenshots te importeren";
+"OK" = "OK";
+"FeedbackSuccess" = "Succesvol verzonden";
+"FeedbackFail" = "Verzenden van feedback mislukt";
+"ServicesPrivacy" = "Gebruiksvoorwaarden & privacybeleid";
+"noNet" = "Netwerkfout, probeer het later opnieuw";
+"netError" = "Laden mislukt";
+
+"E_mail" = "E-mailadres";
+"Terms_of_Services_Privacy_Policy" = "Gebruiksvoorwaarden & privacybeleid";
+"Version" = "Versie";
+"About" = "Over";
+"Add_Now" = "Nu toevoegen";
+
+"User_Agreement" = "Gebruikersovereenkomst";
+"Languages" = "Talen";
+"Perferences" = "Algemeen";
+"Auto_capitalization" = "Auto hoofdletter gebruik";
+"openSound" = "Toetsenbordgeluid";
+"openKeyboardSound" = "Speel geluiden bij het typen";
+
+"vibration_enable" = "Vibratie bij indrukken toets";
+"vibration_enable_description" = "Vibratie tijdens het typen";
+
+"keypress sound volume" = "Geluidsvolume bij toetsgebruik";
+"keypress vibration" = "Vibratie bij indrukken toets";
+
+"Double_space_Period" = "Dubbeltik is punt, spatie";
+"Double_tap_on_spacebar_inserts_a_period" = "Dubbele tik op spatiebalk voegt een punt gevolgd door een spatie toe";
+"Capitalize_the_first_word_of_each_sentence" = "Het eerste woord van elke zin met een hoofdletter schrijven";
+
+"Swipe Typing" = "Swipe-typen";
+"Input a word by sliding through the letters" = "Voer een woord in door van letter naar letter te bewegen";
+"Allow_Now" = "Nu toelaten";
+"Text_Correction" = "Tekstcorrectie";
+"Show_correction_suggestions" = "Correctievoorstellen weergeven";
+
+"Display_suggested_word_while_typing" = "Voorgestelde woorden weergeven tijdens typen";
+"Auto_correction_suggestions" = "Automatische correctiesuggesties";
+"Spacebar_and_punctuation_automatically" = "Spatiebalk en interpunctie verbeteren automatisch verkeerd getypte en onvolledige woorden";
+"Next_word_Suggestions" = "Suggesties voor volgend woord";
+"Use_the_previous_word" = "Het vorige woord gebruiken bij het doen van suggesties";
+"History_Suggestions" = "Gepersonaliseerde suggesties";
+"Use_the_History_word" = "Gebruik typgeschiedenis voor het maken van suggesties";
+"Check_it_out" = "Bekijk het eens!";
+"General" = "Algemeen";
+"Rate_us" = "Beoordeel ons";
+"THEME" = "THEMA";
+"SETTINGS" = "INSTELLINGEN";
+
+"Spanish" = "Spaans";
+"English" = "Engels";
+"Indonesian" = "Indonesisch";
+"Azerbaijani" = "Azerbeidzjaans";
+"Catalan" = "Catalaans";
+"Czech" = "Tsjechisch";
+"Danish" = "Deens";
+"German" = "Duits";
+"Estonian" = "Ests";
+"Finnish" = "Fins";
+"French" = "Frans";
+"Croatian" = "Kroatisch";
+"Hungarian" = "Hongaars";
+"Portuguese" = "Portugees";
+"Malay" = "Malay";
+"Filipino" = "Filipijns";
+"Turkish" = "Turks";
+"Italian" = "Italiaans";
+"Polish" = "Pools";
+"Romanian" = "Roemeens";
+"Dutch" = "Nederlands";
+"Slovak" = "Slowaaks";
+"Latvian" = "Lets";
+"Norwegian Bokmal" = "Noors Bokmal";
+"Swedish" = "Zweeds";
+
+"Change_Theme" = "Thema wordt toegepast...";
+
+"FullAccess_Tip" = "Sta volle toegang toe voor Slimme Voorspelling";
+"Full_Now" = "OK";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Installeer gratis het Cheetah Keyboard om dit thema toe te passen";
+"Get_it_now_No_Ads" = "Nu nemen (geen reclame).";
+"FREE_INSTALL" = "INSTALLEREN";
+"NOT_NOW" = "NIET NU";
+
+"GIF" = "GIF";
+
+"Sound" = "Geluid";
+"Auto_caps" = "Automatisch caps";
+"Settings" = "Instellingen";
+"Gesture\ntyping" = "Swipe-typen";
+"Auto Capitalization:Enabled" = "Automatisch hoofdletters: ingeschakeld";
+"Auto Capitalization:Disabled" = "Automatisch hoofdletters: uitgeschakeld";
+"Gesture Typing is on" = "Typen door te swipen staat aan";
+"Gesture Typing is off" = "Typen door te swipen staat uit";
+
+"Turn up the phone's volume for a larger sound" = "Zet de volume van de telefoon hoger voor luider geluid";
+"Allow Full Access for Voice Key" = "Laat volledige toegang toe voor stemdecoder";
+
+"Net_Error" = "Netwerkfout, controleer a.u.b..";
+"LoadNoMoreData_tip" = "Het thema van vandaag werd geüpdatet. Bezoek ons morgen voor meer.";
+"Default_Theme" = "Standaardthema";
+"Daily_New_Theme" = "Dagelijks nieuw thema";
+"Error_Refresh" = "Netwerkfout, graag vernieuwen.";
+
+"DOWNLOAD" = "DOWNLOADEN";
+"UPDATE" = "BIJWERKEN";
+"Update_Available" = "Update beschikbaar";
+"Download_failed_please_check_your_network" = "Downloaden mislukt. Controleer je netwerk";
+"Love_Cheetah_Keyboard" = "Hou je van Cheetah Keyboard?";
+
+"LongPressSpace_Tip" = "Hou je spatiebalk ingedrukt, kies snel een emoji!😆";
+"Try_Keyboard" = "Probeer je toetsenbord nu";
+
+"Slide right or left to move the cursor" = "Naar links of naar rechts glijden om de cursor te verplaatsen";
+"Allow Full Access for cursor" = "Sta volle toegang voor de cursor toe";
+
+"Full Access to try funny AR-Emoticons feature" = "Volledige toegang tot je camera om te profiteren van de grappige functie AR-Emoji.";
+"Emoticon Paste" = "Gekopieerd! Nu plakken in het tekstveld van je chat-apps om te delen!";
+
+"Switch_to_Cheetah_Keyboard" = "Stap over op het 💖Cheetah Keyboard";
+"Cool_funciton_teaching" = "Leuke tips die onmisbaar zijn 💡";
+"Customized_themes_just_for_you" = "Voor jou aangepaste thema's 🎉";
+"Allow_notifycation_you_will_get_this_function" = "Sta meldingen toe voor de volgende diensten";
+
+"Just_for_you" = "Alleen voor jou💖";
+"Tips_Send_Emoji" = "Tips: Stuur Emoji😛";
+"Tips_Swipe_Typing" = "Tips: Tikken door vegen👆";
+"So_many_themes" = "Zo veel thema's😍";
+"Tips_Auto_Correct_words" = "Tips: Automatische woordcorrectie💯";
+"Coolest_3D_Keyboard" = "Leukste 3D-toetsenbord🌟";
+
+"All_free_themes_are_waiting_for_you_now" = "Alle gratis thema's wachten alleen nog op jou🙈";
+"Hold_backspace_to_send_Emoji_quickly" = "Hou de spatiebalk vast om snel emoji te versturen!💪";
+"Try_swipe_letters_by_letters_to_type_words_fast" = "Probeer over letters te vegen om de woorden snel te tikken!🙋";
+"Download_New_theme_everyday" = "Download elke dag nieuwe thema's!💃";
+"Type_fast_and_we_will_help_you_correct_words_automatically" = "Tik snel, wij helpen je om de woorden automatisch te corrigeren.👏";
+"Smooth_animation_with_glowing_buttons_you_havent_seen" = "Gave animatie met indrukwekkende gloeiende knoppen!👀";
+"Emoji" = "Emoji";
+"AR-Emoticon" = "AR-Emoji";
+// 1.8.0
+"This unique suggestion is powered by AI and trained from billions of data. 😎" = "Deze unieke suggestie wordt mogelijk gemaakt door AI en is afkomstig uit enorme hoeveelheden gegevens. 😎";
+// iMessage
+"iMessage_Tip" = "Tips: Tik op een GIF om naar je vrienden te sturen!";
+"Before_you_go" = "⚠️Voordat je weggaat";
+"Come_back_this_app_after_you" = "Kom naar deze app terug nadat je het toetsenbord hebt toegevoegd. We hebben heel veel verbluffende thema's voor je!";
+"Got_it" = "Begrepen";
+
+
+//1.10
+"Tab_Discovery" = "ONTDEKKING";
+"iMessage_Gif_Tip" = "Je kunt GIFs delen met je vrienden via iMessage. Nu delen!";
+
+
+"Setting_CheetahKey" = "Instellingen > CheetahKey";
+"Keyboards" = "Toetsenborden";
+"WINK, SMILE or MOVE your head. Whatever you like." = "KNIPOOG, GLIMLACH of BEWEEG je hoofd. Wat je maar wilt.";
+"This allows you to record videos to create AR-Emoticons." = "Hiermee kunt je video's opnemen om AR-Emoji aan te maken.";
+"Don’t ALLOW" = "Niet TOESTAAN";
+"Record Videos with CheetahKey" = "Video's opnemen met CheetahKey";
+"Allow access to your camera to start recording videos with CheetahKey." = "Toegang verlenen tot je camera om te beginnen met video's opnemen met CheetahKey.";
+"Allow Camera Access" = "Toegang tot camera verlenen";
+"You can use the AR-Emoticons in your Cheetah Keyboard NOW!" = "Je kunt NU de AR-Emoji in je Cheetah-toetsenbord gebruiken!";
+"Oops... an error occurred. Please try again." = "Oeps... er is een fout opgetreden. Probeer het nog eens.";
+
+//1.11
+"DownLoadTheme_FullAccess_tip" = "In iOS systeem kun je met volledige toegang met succes tussen thema's schakelen.";
+"Full_Access_Now" = "Volledige toegang toelaten";
+"Custom" = "Aangepaste thema's";
+"See_All" = "Alles bekijken";
+"Do you want to save this theme?" = "Dit thema opslaan?";
+"Switch to next keyboard" = "Verwissel van toetsenbord";
+"Setting" = "Instellingen";
+"DIY" = "Aangepast thema";
+"Allow access to your photos to customize themes with CheetahKey?" = "Sta toegang tot je foto's toe om thema's met CheetahKey aan te passen?";
+"Done" = "Gereed";
+"Do you want to save this theme?" = "Dit thema opslaan?";
+"Get Start" = "Start Nu";
+"Back" = "Terug";
+"Custome_Theme" = "Aangepast thema🌝";
+"Create_your" = "Je kunt je eigen geweldige toetsenbord ontwerpen en maken! Probeer het NU!💅";
+"Express your styles in more than words" = "Ontdek met ons je favoriete toetsenbord";
+"Arabic" = "Arabisch";
+"Custome Theme" = "Aangepast thema";
+"Do you want to cancel this theme?" = "Weggaan zonder de veranderingen op te slaan?";
+"Allow access to your photos to customize themes with CheetahKey?" = "Sta toegang tot je foto's toe om thema's met CheetahKey aan te passen?";
+"CheetahKey Would Like to Access Your Photos,This lets you use your photos to customize themes." = "CheetahKey zou graag toegang tot je foto's willen hebben. Hiermee kun jij je foto's gebruiken om thema's aan te passen.";
+"APPLY" = "TOEPASSEN";
+"EDIT" = "AANPASSEN";
+
+//1.12
+"Copy_Gif_Tip" = "Gekopieerd. Houd hierboven ingedrukt om te plakken.";
+"Gif_Full_Access_Tip" = "Sta volledige toegang toe om te genieten van de grappige GIF-functie.";
+"Delete_this_theme" = "Dit thema verwijderen?";
+"Custom_Theme_Edit" = "Bewerken";
+
+"All_premium_themes" = "Alle Premium thema's";
+"All_DIY_themes" = "Alle doe-het-zelf-thema's";
+"All_AR-Emoji" = "Alle AR-emoji";
+"All_GIFs" = "Alle GIF's";
+
+
+"UNlock" = "Ontgrendelen";
+"Restore" = "HERSTELLEN";
+"iapp_month_title" = "%@/MAAND\n GRATIS PROEFPERIODE VAN 3 DAGEN";
+"iapp_year_title" = "%@/JAAR \n GEMIDDELD %@/MAAND";
+"iapp_year_privacy1" = "De betaling wordt bij de bevestiging van de aankoop in rekening gebracht op het iTunes-account. Het abonnement wordt automatisch verlengd, tenzij automatisch verlengen minstens 24 uur voor het einde van de huidige periode is uitgeschakeld. Binnen 24 uur voor het einde van de huidige periode wordt de verlenging in rekening gebracht en worden de kosten van de verlenging vastgesteld. Abonnementen kunnen door de gebruiker worden beheerd en automatisch verlengen kan worden uitgeschakeld door na aankoop naar de account-instellingen van de gebruiker te gaan. Eventuele ongebruikte delen van een gratis proefperiode gaan verloren als de gebruiker een abonnement op die betreffende publicatie aanschaft. Bekijk voor meer informatie onze";
+"iapp_year_privacy2" = " Gebruiksvoorwaarden";
+"iapp_year_privacy3" = " en";
+"iapp_year_privacy4" = " Privacybeleid.";
+"try_again" = "Opnieuw proberen";
+"no_network" = "Geen netwerk";
+"no_network_content" = "Je bent niet met het internet verbonden. Verbind en probeer opnieuw.";
+"slow_network" = "Traag netwerk";
+"slow_network_content" = "Zoek een snellere verbinding.";
+"restore_fail_title" = "Herstellen mislukt";
+"restore_fail_content" = "Er zijn geen items beschikbaar om te herstellen.";
+"iapp_month_btn" = "%@/MAAND";
+"iapp_year_btn" = "3-DAAGSE GRATIS PROEFPERIODE \nDAARNA %@/JAAR";

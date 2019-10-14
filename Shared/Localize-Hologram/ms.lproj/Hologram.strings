@@ -1,0 +1,109 @@
+/* 
+  Hologram.strings
+  PandaKeyboard
+
+  Created by 姚宗超 on 2017/7/14.
+  Copyright © 2017年 CMCM. All rights reserved.
+*/
+"Add_Cheetah_Keyboard" = "Tambah Hologram Keyboard";
+"Go_to" = "Pergi ke ";
+"Settings_General_Keyboard" = "Tetapan > Umum > Papan Kekunci";
+"Tap" = "Ketik ";
+"Add_New_Keyboard" = "Tambah Papan Kekunci Baharu";
+"Cheetah_Keyboard" = "Hologram Keyboard";
+"Tap_the_button_means_you_agree_to_our" = "Mengetik pada butang bermakna anda bersetuju dengan ";
+"Allow_Full_Access" = "Benarkan Akses Sepenuhnya";
+"Skip" = "Langkau";
+"Allow" = "Benarkan";
+"Cheetah_Keyboard_will_not_collect_any_private_data" = "Hologram Keyboard tidak AKAN mengumpulkan data peribadi";
+"English_US" = "Bahasa Inggeris";
+"Emoji" = "Emoji";
+"Cheetach_Keyboard" = "Hologram Keyboard";
+"Long_press_and_hold" = "Tekan lama dan tahan";
+"to_switch_to" = "untuk menukar ke ";
+"CHEETAH_KEYBOARD" = "Hologram Keyboard";
+
+"Feedback" = "Maklum Balas";
+"FeedbackPlaceholder" = "Anda dan pandangan anda adalah penting bagi kami, sila kongsikannya bersama kami agar kami dapat menjadikan aplikasi kami lebih baik!";
+"E-Mail_Address" = "Alamat E-mel Anda";
+"Send" = "Hantar";
+"Choose_from_library" = "Import Tangkapan Skrin daripada Foto";
+"Cancel" = "Batal";
+"No_access" = "Anda telah mematikan akses ke Foto. Sila hidupkannya dalam Tetapan untuk mengimport tangkapan skrin";
+"OK" = "OK";
+"FeedbackSuccess" = "Berjaya dihantar";
+"FeedbackFail" = "Gagal menghantar maklum balas";
+"ServicesPrivacy" = "Terma Perkhidmatan & Dasar Privasi";
+"noNet" = "Rangkaian ralat, sila cuba sebentar lagi";
+"netError" = "Gagal dilancarkan";
+
+
+
+"E_mail" = "E-mel";
+"Terms_of_Services_Privacy_Policy" = "Terma Perkhidmatan & Dasar Privasi";
+"Version" = "Versi";
+"About" = "Tentang";
+"Add_Now" = "Tambah sekarang";
+
+"User_Agreement" = "Perjanjian Pengguna kami";
+"Languages" = "Bahasa";
+"Perferences" = "Am";
+"Auto_capitalization" = "Penghurufbesaran automatik";
+"openSound" = "Bunyi Tekan Kekunci";
+"openKeyboardSound" = "Mainkan bunyi ketika menaip";
+"Capitalize_the_first_word_of_each_sentence" = "Besarkan perkataan pertama setiap ayat";
+
+"Swipe Typing" = "Taipan Leret";
+"Input a word by sliding through the letters" = "Input perkataan dengan meluncur melalui huruf";
+"Allow_Now" = "Benarkan Sekarang";
+"Text_Correction" = "Pembetulan teks";
+"Show_correction_suggestions" = "Tunjukkan cadangan pembetulan";
+"Display_suggested_word_while_typing" = "Paparkan cadangan perkataan semasa menaip";
+"Auto_correction_suggestions" = "Cadangan pembetulan automatik";
+"Spacebar_and_punctuation_automatically" = "Bar jarak dan tanda baca secara automatik membetulkan perkataan yang ditaip salah dan perkataan yang tidak lengkap";
+"Next_word_Suggestions" = "Cadangan perkataan seterusnya";
+"Use_the_previous_word" = "Gunakan perkataan sebelumnya dalam membuat cadangan";
+"History_Suggestions" = "Cadangan diperibadikan";
+"Use_the_History_word" = "Gunakan sejarah penaipan dalam membuat cadangan";
+"Check_it_out" = "Cubalah lihat!";
+"General" = "Am";
+"Rate_us" = "Berikan penilaian";
+"THEME" = "TEMA";
+"SETTINGS" = "TETAPAN";
+
+"Spanish" = "Bahasa Sepanyol";
+"English" = "Bahasa Inggeris";
+"Indonesian" = "Bahasa Indonesia";
+"Azerbaijani" = "Bahasa Azerbaijan";
+"Catalan" = "Bahasa Catalan";
+"Czech" = "Bahasa Czech";
+"Danish" = "Bahasa Denmark";
+"German" = "Bahasa Jerman";
+"Estonian" = "Bahasa Estonia";
+"Finnish" = "Bahasa Finland";
+"French" = "Bahasa Perancis";
+"Croatian" = "Bahasa Croatia";
+"Hungarian" = "Bahasa Hungary";
+"Portuguese" = "Bahasa Portugis";
+"Malay" = "Bahasa Melayu";
+"Filipino" = "Bahasa Filipina";
+"Turkish" = "Bahasa Turki";
+"Italian" = "Bahasa Itali";
+"Polish" = "Bahasa Poland";
+"Romanian" = "Bahasa Romania";
+"Dutch" = "Bahasa Belanda";
+"Slovak" = "Bahasa Slovakia";
+"Latvian" = "Bahasa Latvia";
+"Norwegian Bokmal" = "Bahasa Bokmal Norway";
+"Swedish" = "Bahasa Sweden";
+
+"Change_Theme" = "Sedang menggunakan tema…";
+
+"FullAccess_Tip" = "Benarkan Akses Sepenuhnya untuk Ramalan Awan";
+"Full_Now" = "Benarkan Sekarang";
+
+
+"Install_Cheetah_Keyboard_for_apply_this_theme" = "Pasang Cheetah Keyboard secara percuma untuk menggunakan tema ini";
+"Get_it_now_No_Ads" = "Dapatkannya sekarang. (Tiada Iklan)";
+"FREE_INSTALL" = "PASANG";
+"NOT_NOW" = "BUKAN SEKARANG";
